@@ -309,7 +309,7 @@ If you use this repository or paper, please cite:
 ```bibtex
 @techreport{chon2026emotion,
   title   = {Large Language Models for Emotion Understanding},
-  author  = {Chon, Feng Qi and Thon, Hong Li and Tee, Chun Shan},
+  author  = {Chon, Feng Qi and Hong, Li Thon and Tee, Chun Shan},
   year    = {2026},
   note    = {Malaysia Science Scholar's Programme (MSSP)},
   mentor  = {Tan, Jing Jie}
