@@ -4,7 +4,7 @@ An end-to-end multi-label emotion classification pipeline that fine-tunes `bert-
 
 ---
 
-## ⚡ QUICK START: HOW TO SWITCH TAXONOMIES (7 vs 28 CLASSES)
+## ⚡ QUICK START: HOW TO SWITCH between 7 vs 28 CLASSES
 
 Before initiating training, you can configure how the labels are processed by setting the `CLASSIFICATION_MODE` variable in **Cell 1**:
 
