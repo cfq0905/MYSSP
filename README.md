@@ -2,7 +2,7 @@
 
 **Malay emotion recognition via Emotion-Aware Translation (EAT) and a Multilingual Episodic Prototypical Contrastive Network (MEPC)**
 
-Malaysia Science Scholar’s Programme (MSSP) 2026
+Malaysia Science Scholar’s Programme (MYSSP) 2026
 
 **Authors:** Chon Feng Qi · Hong Li Thon · Tee Chun Shan  
 **Mentor:** Tan Jing Jie
@@ -309,7 +309,7 @@ If you use this repository or paper, please cite:
 ```bibtex
 @techreport{chon2026emotion,
   title   = {Large Language Models for Emotion Understanding},
-  author  = {Chon, Feng Qi and Thon, Hong Li and Tee, Chun Shan},
+  author  = {Chon, Feng Qi and Hong, Li Thon and Tee, Chun Shan},
   year    = {2026},
   note    = {Malaysia Science Scholar's Programme (MSSP)},
   mentor  = {Tan, Jing Jie}
@@ -321,7 +321,7 @@ Primary paper PDF: [`papers/Paper.pdf`](papers/Paper.pdf)
 Please also cite the upstream datasets when appropriate:
 
 - Demszky et al., GoEmotions
-- Chanthran et al., MYBully
+- Chanthran, MYBully
 - Lin, Chinese Multi-Emotion Dialogue Dataset
 
 ## Data licence note
