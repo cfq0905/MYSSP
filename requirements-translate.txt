@@ -1,0 +1,7 @@
+# Optional extras for notebooks/translation/Translate.ipynb
+# Install after requirements.txt:
+#   pip install -r requirements-translate.txt
+-r requirements.txt
+bitsandbytes>=0.43,<1
+sentencepiece>=0.2,<1
+protobuf>=4.25,<6

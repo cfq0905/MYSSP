@@ -1,0 +1,26 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Training artifacts
+models/
+outputs/
+figures/
+*.pt
+*.pth
+*.bin
+*.ckpt
+
+# Local data scratch (Translate notebook)
+notebooks/translation/data/
+notebooks/translation/train_malay_*.tsv
+notebooks/translation/test_malay_*.tsv
