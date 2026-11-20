@@ -11,6 +11,10 @@ __pycache__/
 .idea/
 .vscode/
 
+# Firebase
+.firebase/
+*.log
+
 # Training artifacts
 models/
 outputs/

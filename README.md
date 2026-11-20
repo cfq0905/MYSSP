@@ -31,8 +31,11 @@ python -m jupyter notebook
 
 Core deps: [`requirements.txt`](requirements.txt) · optional EAT extras: [`requirements-translate.txt`](requirements-translate.txt)
 
+**Live demo:** [https://emotion-myssp.web.app](https://emotion-myssp.web.app)
+
 ## Table of contents
 
+- [Demo](#demo)
 - [Overview](#overview)
 - [Pipeline](#pipeline)
 - [Results](#results)
@@ -45,6 +48,30 @@ Core deps: [`requirements.txt`](requirements.txt) · optional EAT extras: [`requ
 - [Outputs](#outputs)
 - [Citation](#citation)
 - [Data licence note](#data-licence-note)
+
+## Demo
+
+Interactive HF-style preview of six-class Malay emotion recognition (sample texts + score bars), plus a short technical overview of EAT and MEPC.
+
+| | |
+| --- | --- |
+| **Live site** | [https://emotion-myssp.web.app](https://emotion-myssp.web.app) |
+| **Firebase project** | `emotion-myssp` |
+| **Source** | [`demo/`](demo/) (static HTML / CSS / JS) |
+
+Run locally:
+
+```bash
+cd demo
+python3 -m http.server 8765
+# open http://127.0.0.1:8765/
+```
+
+Redeploy after UI changes:
+
+```bash
+firebase deploy --only hosting --project emotion-myssp
+```
 
 ## Overview
 
@@ -117,6 +144,7 @@ MEPC without EAT lifts Macro-F1 by about 12 points over the conventional MYBully
 MYSSP/
 ├── papers/
 │   └── Paper.pdf                 # MSSP 2026 research paper
+├── demo/                         # HF-style emotion demo (Firebase: emotion-myssp)
 ├── notebooks/
 │   ├── baselines/
 │   │   ├── basic_bert_classifier.ipynb   # EN multi-label BERT (7 / 28 class)
@@ -136,6 +164,8 @@ MYSSP/
 │   └── emotion_counts.csv
 ├── requirements.txt              # core deps (baselines + MEPC)
 ├── requirements-translate.txt    # optional EAT / TOGA extras
+├── firebase.json                 # Hosting → demo/
+├── .firebaserc                   # default project emotion-myssp
 ├── scripts/
 │   └── setup_env.py              # interactive env bootstrap
 └── README.md
