@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="MYSSP">
+  <rect width="64" height="64" rx="14" fill="#0A4D42"/>
+  <rect x="8" y="8" width="48" height="48" rx="10" fill="#138072"/>
+  <rect x="16" y="34" width="8" height="14" rx="3" fill="#FFFDF9"/>
+  <rect x="28" y="22" width="8" height="26" rx="3" fill="#FFFDF9"/>
+  <rect x="40" y="28" width="8" height="20" rx="3" fill="#FFFDF9"/>
+</svg>
