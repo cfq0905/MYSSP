@@ -9,8 +9,6 @@ An end-to-end multi-label emotion classification pipeline that fine-tunes `bert-
 Before initiating training, you can configure how the labels are processed by setting the `CLASSIFICATION_MODE` variable in **Cell 1**:
 
 ```python
-# =====================================================================
-# GLOBAL CONFIGURATION SWITCH
-# =====================================================================
+
 # Set to "EKMAN_7" for the 7 consolidated classes, or "GOEMOTIONS_28" for the full 28 classes
 CLASSIFICATION_MODE = "EKMAN_7" 
