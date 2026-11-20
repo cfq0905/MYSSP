@@ -1,10 +1,19 @@
 const LABELS = ["anger", "disgust", "joy", "neutral", "sadness", "surprise"];
 
+const EMOJI = {
+  anger: "😠",
+  disgust: "🤢",
+  joy: "😊",
+  neutral: "😐",
+  sadness: "😢",
+  surprise: "😲",
+};
+
 /** Precomputed demo outputs — no remote inference. */
 const SAMPLES = [
   {
     id: "joy-1",
-    title: "Joy · family",
+    title: "Joy",
     text: "Alhamdulillah hari ni dapat jumpa keluarga. Rasa tenang dan sangat bersyukur.",
     scores: {
       anger: 0.02,
@@ -17,7 +26,7 @@ const SAMPLES = [
   },
   {
     id: "anger-1",
-    title: "Anger · service",
+    title: "Anger",
     text: "Sudah tunggu sejam masih tak dilayan. Memang kecewa dan marah dengan servis ni.",
     scores: {
       anger: 0.71,
@@ -30,7 +39,7 @@ const SAMPLES = [
   },
   {
     id: "sadness-1",
-    title: "Sadness · goodbye",
+    title: "Sadness",
     text: "Teringat hari terakhir bersama kawan lama. Rasa sepi je selepas dia pindah.",
     scores: {
       anger: 0.03,
@@ -43,7 +52,7 @@ const SAMPLES = [
   },
   {
     id: "surprise-1",
-    title: "Surprise · news",
+    title: "Surprise",
     text: "Tiba-tiba dapat panggilan interview esok pagi. Tak sangka langsung!",
     scores: {
       anger: 0.02,
@@ -56,7 +65,7 @@ const SAMPLES = [
   },
   {
     id: "neutral-1",
-    title: "Neutral · update",
+    title: "Neutral",
     text: "Mesyuarat dijadualkan jam 3 petang di bilik B. Sila bawa dokumen yang diperlukan.",
     scores: {
       anger: 0.03,
@@ -69,7 +78,7 @@ const SAMPLES = [
   },
   {
     id: "disgust-1",
-    title: "Disgust · hygiene",
+    title: "Disgust",
     text: "Meja restoran tu kotor sangat, ada sisa makanan kering. Geram tengok.",
     scores: {
       anger: 0.16,
@@ -100,10 +109,12 @@ const els = {
   sampleList: document.getElementById("sampleList"),
   computeBtn: document.getElementById("computeBtn"),
   clearBtn: document.getElementById("clearBtn"),
-  outputEmpty: document.getElementById("outputEmpty"),
   outputBody: document.getElementById("outputBody"),
+  scoresBlock: document.getElementById("scoresBlock"),
   scoreList: document.getElementById("scoreList"),
+  predCaption: document.getElementById("predCaption"),
   predLabel: document.getElementById("predLabel"),
+  predEmoji: document.getElementById("predEmoji"),
   latency: document.getElementById("latency"),
   infoBtn: document.getElementById("infoBtn"),
   infoPopover: document.getElementById("infoPopover"),
@@ -111,6 +122,36 @@ const els = {
 
 let activeSampleId = SAMPLES[0].id;
 let busy = false;
+let orbitTimer = null;
+let orbitIndex = 0;
+
+function startEmojiOrbit() {
+  if (!els.predEmoji || orbitTimer) return;
+  const faces = LABELS.map((label) => EMOJI[label]);
+  els.predEmoji.textContent = faces[0];
+  els.predEmoji.classList.add("is-waiting");
+  els.predEmoji.classList.remove("bounce-in");
+  if (els.predCaption) els.predCaption.textContent = "Status";
+  els.predLabel.textContent = "Waiting…";
+  if (els.scoresBlock) els.scoresBlock.hidden = true;
+  if (els.latency) els.latency.hidden = true;
+
+  orbitTimer = window.setInterval(() => {
+    orbitIndex = (orbitIndex + 1) % faces.length;
+    els.predEmoji.classList.remove("pop");
+    void els.predEmoji.offsetWidth;
+    els.predEmoji.textContent = faces[orbitIndex];
+    els.predEmoji.classList.add("pop");
+  }, 900);
+}
+
+function stopEmojiOrbit() {
+  if (orbitTimer) {
+    window.clearInterval(orbitTimer);
+    orbitTimer = null;
+  }
+  if (els.predEmoji) els.predEmoji.classList.remove("is-waiting", "pop");
+}
 
 function normalize(text) {
   return text.trim().replace(/\s+/g, " ").toLowerCase();
@@ -146,7 +187,8 @@ function renderSamples() {
     btn.type = "button";
     btn.className = "sample-btn";
     btn.dataset.id = sample.id;
-    btn.textContent = sample.title;
+    const topLabel = rankedScores(sample.scores)[0].label;
+    btn.textContent = `${EMOJI[topLabel]} ${sample.title}`;
     btn.setAttribute("role", "listitem");
     btn.addEventListener("click", () => {
       els.textInput.value = sample.text;
@@ -170,7 +212,15 @@ function renderOutput(scoreMap, latencyMs) {
   const ranked = rankedScores(scoreMap);
   const top = ranked[0];
 
+  stopEmojiOrbit();
+  if (els.predCaption) els.predCaption.textContent = "Top emotion";
   els.predLabel.textContent = top.label;
+  if (els.predEmoji) {
+    els.predEmoji.textContent = EMOJI[top.label] || "🙂";
+    els.predEmoji.classList.remove("bounce-in", "pop", "is-waiting");
+    void els.predEmoji.offsetWidth;
+    els.predEmoji.classList.add("bounce-in");
+  }
   els.scoreList.innerHTML = "";
 
   for (const item of ranked) {
@@ -179,7 +229,7 @@ function renderOutput(scoreMap, latencyMs) {
 
     const name = document.createElement("span");
     name.className = "score-name";
-    name.textContent = item.label;
+    name.textContent = `${EMOJI[item.label] || ""} ${item.label}`;
 
     const track = document.createElement("div");
     track.className = "score-track";
@@ -201,8 +251,7 @@ function renderOutput(scoreMap, latencyMs) {
 
   els.latency.hidden = false;
   els.latency.textContent = `${latencyMs} ms`;
-  els.outputEmpty.hidden = true;
-  els.outputBody.hidden = false;
+  if (els.scoresBlock) els.scoresBlock.hidden = false;
 }
 
 async function runInference({ fromSample = false } = {}) {
@@ -238,9 +287,7 @@ function clearAll() {
   els.textInput.value = "";
   updateCharCount();
   setActiveSample("");
-  els.outputBody.hidden = true;
-  els.outputEmpty.hidden = false;
-  els.latency.hidden = true;
+  startEmojiOrbit();
   els.textInput.focus();
 }
 
@@ -257,6 +304,7 @@ function toggleInfo(forceClose = false) {
 
 function boot() {
   renderSamples();
+  startEmojiOrbit();
 
   const first = SAMPLES[0];
   els.textInput.value = first.text;
