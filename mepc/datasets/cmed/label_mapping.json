@@ -1,0 +1,65 @@
+{
+  "dataset": "cmed",
+  "huggingface_repo": "Johnson8187/Chinese_Multi-Emotion_Dialogue_Dataset",
+  "huggingface_revision": "f3854f9489071a4dc0bb69f2366d95095837ce68",
+  "huggingface_url": "https://huggingface.co/datasets/Johnson8187/Chinese_Multi-Emotion_Dialogue_Dataset",
+  "license": "MIT",
+  "language": "zh",
+  "canonical_labels": [
+    "anger",
+    "disgust",
+    "joy",
+    "neutral",
+    "sadness",
+    "surprise"
+  ],
+  "source_label_to_canonical": {
+    "平淡語氣": "neutral",
+    "開心語調": "joy",
+    "悲傷語調": "sadness",
+    "憤怒語調": "anger",
+    "驚訝語調": "surprise",
+    "厭惡語調": "disgust",
+    "疑問語調": "surprise",
+    "驚奇語調": "surprise",
+    "關切語調": "joy"
+  },
+  "excluded_source_labels": [
+    "fear",
+    "nervousness",
+    "恐惧语调",
+    "恐懼語調"
+  ],
+  "dropped_unmapped_labels": [],
+  "split_files": {
+    "train": "train.csv"
+  },
+  "rows_per_split": {
+    "train": 4159
+  },
+  "label_counts_per_split": {
+    "train": {
+      "anger": 527,
+      "disgust": 404,
+      "joy": 1152,
+      "neutral": 705,
+      "sadness": 486,
+      "surprise": 885
+    }
+  },
+  "raw_source_label_counts": {
+    "train": {
+      "平淡語氣": 705,
+      "開心語調": 592,
+      "悲傷語調": 486,
+      "憤怒語調": 527,
+      "驚奇語調": 499,
+      "厭惡語調": 404,
+      "疑問語調": 386,
+      "關切語調": 560
+    }
+  },
+  "sha256": {
+    "data.csv": "f8a96c78f11b070937166968703ae89e9065b5d7508328b0c94f174626e8f484"
+  }
+}
