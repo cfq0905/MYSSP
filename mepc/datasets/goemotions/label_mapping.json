@@ -1,0 +1,116 @@
+{
+  "dataset": "goemotions",
+  "language": "en",
+  "canonical_labels": [
+    "anger",
+    "disgust",
+    "joy",
+    "neutral",
+    "sadness",
+    "surprise"
+  ],
+  "source_label_to_canonical": {
+    "anger": "anger",
+    "annoyance": "anger",
+    "disapproval": "anger",
+    "disgust": "disgust",
+    "joy": "joy",
+    "amusement": "joy",
+    "excitement": "joy",
+    "gratitude": "joy",
+    "love": "joy",
+    "optimism": "joy",
+    "relief": "joy",
+    "pride": "joy",
+    "admiration": "joy",
+    "desire": "joy",
+    "caring": "joy",
+    "approval": "joy",
+    "sadness": "sadness",
+    "disappointment": "sadness",
+    "embarrassment": "sadness",
+    "grief": "sadness",
+    "remorse": "sadness",
+    "surprise": "surprise",
+    "realization": "surprise",
+    "confusion": "surprise",
+    "curiosity": "surprise",
+    "neutral": "neutral"
+  },
+  "excluded_source_labels": [
+    "fear",
+    "nervousness"
+  ],
+  "conflict_policy": "exactly_one",
+  "splits": {
+    "train": {
+      "source_file": "train.tsv",
+      "output_file": "train.csv",
+      "rows": 43410,
+      "rows_labeled": 39014,
+      "status_counts": {
+        "kept": 39014,
+        "excluded_fear": 726,
+        "multiple_labels": 3670
+      },
+      "label_counts": {
+        "anger": 4293,
+        "disgust": 498,
+        "joy": 15216,
+        "neutral": 12823,
+        "sadness": 2326,
+        "surprise": 3858
+      },
+      "sha256": {
+        "source": "1c254a142be5c00e80d819b9ae1bbd36d94b2eeb8f4b1271846508d57e57d9c5",
+        "output": "4dfac9de0d0caa79ce850c5c73025bffbe90a029a43603903856190e53f784ce"
+      }
+    },
+    "validation": {
+      "source_file": "dev.tsv",
+      "output_file": "validation.csv",
+      "rows": 5426,
+      "rows_labeled": 4874,
+      "status_counts": {
+        "kept": 4874,
+        "multiple_labels": 447,
+        "excluded_fear": 105
+      },
+      "label_counts": {
+        "anger": 555,
+        "disgust": 61,
+        "joy": 1941,
+        "neutral": 1592,
+        "sadness": 266,
+        "surprise": 459
+      },
+      "sha256": {
+        "source": "575489c079c9de1097062a01738f998590d6b7ead66dd1c9fd1d2ba01fd8bc62",
+        "output": "2f1d29889b3fba1fa95a1ca465b74f4192f420ae07b124a941186b75f89a914d"
+      }
+    },
+    "test": {
+      "source_file": "test.tsv",
+      "output_file": "test.csv",
+      "rows": 5427,
+      "rows_labeled": 4888,
+      "status_counts": {
+        "kept": 4888,
+        "multiple_labels": 441,
+        "excluded_fear": 98
+      },
+      "label_counts": {
+        "anger": 572,
+        "disgust": 76,
+        "joy": 1863,
+        "neutral": 1606,
+        "sadness": 283,
+        "surprise": 488
+      },
+      "sha256": {
+        "source": "0587b2dd8b27b97352adbfc3fb083d46005c8946657fdc2b1ca8b1cc7f1f8be4",
+        "output": "87eb8bd260d1f8024081e3b01f009d3ad91c398343774f40a706f351de684859"
+      }
+    }
+  }
+}

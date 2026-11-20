@@ -1,0 +1,128 @@
+{
+  "dataset": "goemotions-piga",
+  "language": "ms",
+  "canonical_labels": [
+    "anger",
+    "disgust",
+    "joy",
+    "neutral",
+    "sadness",
+    "surprise"
+  ],
+  "source_label_to_canonical": {
+    "anger": "anger",
+    "annoyance": "anger",
+    "disapproval": "anger",
+    "disgust": "disgust",
+    "joy": "joy",
+    "amusement": "joy",
+    "excitement": "joy",
+    "gratitude": "joy",
+    "love": "joy",
+    "optimism": "joy",
+    "relief": "joy",
+    "pride": "joy",
+    "admiration": "joy",
+    "desire": "joy",
+    "caring": "joy",
+    "approval": "joy",
+    "sadness": "sadness",
+    "disappointment": "sadness",
+    "embarrassment": "sadness",
+    "grief": "sadness",
+    "remorse": "sadness",
+    "surprise": "surprise",
+    "realization": "surprise",
+    "confusion": "surprise",
+    "curiosity": "surprise",
+    "neutral": "neutral"
+  },
+  "excluded_source_labels": [
+    "fear",
+    "nervousness"
+  ],
+  "conflict_policy": "exactly_one",
+  "emotions_order": [
+    "admiration",
+    "amusement",
+    "anger",
+    "annoyance",
+    "approval",
+    "caring",
+    "confusion",
+    "curiosity",
+    "desire",
+    "disappointment",
+    "disapproval",
+    "disgust",
+    "embarrassment",
+    "excitement",
+    "fear",
+    "gratitude",
+    "grief",
+    "joy",
+    "love",
+    "nervousness",
+    "optimism",
+    "pride",
+    "realization",
+    "relief",
+    "remorse",
+    "sadness",
+    "surprise",
+    "neutral"
+  ],
+  "reference_dataset": "google-research-datasets/go_emotions (simplified)",
+  "splits": {
+    "train": {
+      "source_file": "train_malay_piga.tsv",
+      "output_file": "train_malay_piga_labeled.tsv",
+      "english_reference_file": "train.tsv",
+      "rows": 43469,
+      "rows_labeled": 39071,
+      "status_counts": {
+        "kept": 39071,
+        "excluded_fear": 726,
+        "multiple_labels": 3672
+      },
+      "label_counts": {
+        "anger": 4296,
+        "disgust": 498,
+        "joy": 15237,
+        "neutral": 12847,
+        "sadness": 2329,
+        "surprise": 3864
+      },
+      "duplicate_goemotions_ids": 59,
+      "sha256": {
+        "source": "533143e7815a2f5ec8413b6c0c79379349f441c224bbc625c62effbd0729f75a",
+        "output": "c3f3e9ab095db99389f20f230f651396ed3e731f53599293de16486278af34ef"
+      }
+    },
+    "test": {
+      "source_file": "test_malay_piga.tsv",
+      "output_file": "test_malay_piga_labeled.tsv",
+      "english_reference_file": "test.tsv",
+      "rows": 5441,
+      "rows_labeled": 4899,
+      "status_counts": {
+        "kept": 4899,
+        "multiple_labels": 444,
+        "excluded_fear": 98
+      },
+      "label_counts": {
+        "anger": 574,
+        "disgust": 76,
+        "joy": 1867,
+        "neutral": 1610,
+        "sadness": 284,
+        "surprise": 488
+      },
+      "duplicate_goemotions_ids": 14,
+      "sha256": {
+        "source": "202de15b915473fa7e8cf0d05f1487d31cbb7e2eceeb26e682f47660ed20bc28",
+        "output": "aa9497a0d1f6986625317352955cc9fc97fe01bc5b48fcef38040aa7ccad9f2a"
+      }
+    }
+  }
+}

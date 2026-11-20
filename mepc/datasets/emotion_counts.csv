@@ -1,0 +1,9 @@
+dataset,variety,language,split,rows,labeled,unlabeled,anger,disgust,joy,neutral,sadness,surprise
+GoEmotions,en,en,train,43410,39014,4396,4293,498,15216,12823,2326,3858
+GoEmotions,en,en,dev,5426,4874,552,555,61,1941,1592,266,459
+GoEmotions,en,en,test,5427,4888,539,572,76,1863,1606,283,488
+GoEmotions,ms (EAT),ms,train,43469,39071,4398,4296,498,15237,12847,2329,3864
+GoEmotions,ms (EAT),ms,test,5441,4899,542,574,76,1867,1610,284,488
+MYBully,ms,ms,train,3449,3449,0,1830,310,324,731,207,47
+MYBully,ms,ms,val,1152,1152,0,620,83,113,240,69,27
+CMED,zh,zh,train,4159,4159,0,527,404,1152,705,486,885

@@ -1,0 +1,81 @@
+{
+  "dataset": "mybully",
+  "huggingface_repo": "mohanrj/MYBully",
+  "huggingface_revision": "9ff4d64a41bc7f53f223425ab89024d226af090f",
+  "huggingface_url": "https://huggingface.co/datasets/mohanrj/MYBully",
+  "license": "see dataset card",
+  "language": "ms",
+  "canonical_labels": [
+    "anger",
+    "disgust",
+    "joy",
+    "neutral",
+    "sadness",
+    "surprise"
+  ],
+  "source_label_to_canonical": {
+    "Anger": "anger",
+    "Disgust": "disgust",
+    "Happiness": "joy",
+    "Neutral": "neutral",
+    "Sadness": "sadness",
+    "Surprise": "surprise"
+  },
+  "excluded_source_labels": [
+    "fear",
+    "nervousness",
+    "恐惧语调",
+    "恐懼語調"
+  ],
+  "dropped_unmapped_labels": [],
+  "split_files": {
+    "train": "train.csv",
+    "val": "val.csv"
+  },
+  "rows_per_split": {
+    "train": 3449,
+    "val": 1152
+  },
+  "label_counts_per_split": {
+    "train": {
+      "anger": 1830,
+      "disgust": 310,
+      "joy": 324,
+      "neutral": 731,
+      "sadness": 207,
+      "surprise": 47
+    },
+    "val": {
+      "anger": 620,
+      "disgust": 83,
+      "joy": 113,
+      "neutral": 240,
+      "sadness": 69,
+      "surprise": 27
+    }
+  },
+  "raw_source_label_counts": {
+    "train": {
+      "Anger": 1830,
+      "Disgust": 310,
+      "Neutral": 731,
+      "Sadness": 207,
+      "Fear": 61,
+      "Happiness": 324,
+      "Surprise": 47
+    },
+    "val": {
+      "Disgust": 83,
+      "Anger": 620,
+      "Neutral": 240,
+      "Surprise": 27,
+      "Sadness": 69,
+      "Fear": 19,
+      "Happiness": 113
+    }
+  },
+  "sha256": {
+    "train.csv": "1929d7414eafd48f80e154d0af81442278dd2dfbcbb1ca4a38a20dc239a64a69",
+    "val.csv": "033cd65c66754c03d955d19835c819217c4832e97cd84deb2f8eb38e287eab92"
+  }
+}

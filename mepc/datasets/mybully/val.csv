@@ -1,0 +1,1382 @@
+sample_id,split,text,label,language,source_label,sentiment,bully,hate,annotation_type,raw_row_index
+mybully:val:0,val,wanda ardie aunifatninn gyraaaaaaa fareezazmann awani gemok sbb makan duit haram,disgust,ms,Disgust,Negative,Yes,Yes,manual,0
+mybully:val:1,val,ipeh tetapnganu jokowi kemendag kompascom tvonenews metro tv beritasatu narasitv gara doi jokowi bikin kebijakan stop ekspor hancur harga petani sawit kalo harga minyak goreng turun ok lah ini sama saja ga ada perubahan sekarang tangki cpo di pabrik penuh baru mereka kelimpungan kan bodoh itu namanya bikin kebijakan gak mikir dua kali bebal,anger,ms,Anger,Negative,Yes,Yes,manual,1
+mybully:val:2,val,tetibe rasa kesian pulak cakap jahat psl kau hahaha lantaklah kau yg mula dulu acah hot stuff,neutral,ms,Neutral,Neutral,No,No,manual,2
+mybully:val:3,val,bodoh babi kena ole macam tu je,anger,ms,Anger,Negative,Yes,Yes,manual,3
+mybully:val:4,val,"ahdzainii aiamdeen jadik hambalah engkau sampai ke mati percaya sangat lakonan orang istana tu kalau betul nak bantu rakyat, dari awal lagi takde sultan yang akan sign malayan union tarik balik pon sebab takut amuk orang melayu",anger,ms,Anger,Negative,Yes,Yes,manual,4
+mybully:val:5,val,best siot hunger games aku je kot baru tgk bru smpai cathing fire can t wait for next year sequel storyline realiti pihak yg celaka gunakan org bwh tuk entertainment amp kekayaan sickkk mockingjay katniss,disgust,ms,Disgust,Negative,Yes,Yes,manual,5
+mybully:val:6,val,akaunanon mohdfaiz kalau kes ebit lew tak pikir panjang dah nak hentam jugak anjing ph ni persoalan yang sama jugak tu kenapa mangsa ebit perlu layan vid call kalau dah pernah ada kes,anger,ms,Anger,Negative,Yes,Yes,manual,6
+mybully:val:7,val,riba org tak boleh terlibat dgn benda haram,neutral,ms,Neutral,Neutral,No,No,manual,7
+mybully:val:8,val,"najihahshahrel naimuii kau tak rendah pon man, pahal retweet sial",anger,ms,Anger,Negative,Yes,Yes,manual,8
+mybully:val:9,val,"musangraja tokjoemy yg lawak masa tu dia pakai kain batik bukak pintu sekerat jer lps dia explain, aku terus cakap hang pi amik mc boss ingat hang dah mati oooo gilo dah la boss korean masa tu kat langkawi nak explain pun payah kakaka",surprise,ms,Surprise,Neutral,No,No,manual,9
+mybully:val:10,val,cnnindonesia cctv mati apa sama dengan peristiwa di jalan tol km,neutral,ms,Neutral,Neutral,No,No,manual,10
+mybully:val:11,val,sakit sial,anger,ms,Anger,Negative,Yes,Yes,manual,11
+mybully:val:12,val,txtdarigays rasaku pasukan si vid n ini dah kek sekte pnyembah setan makin ga msuk akal aja tingkah orang ini smua,anger,ms,Anger,Negative,Yes,Yes,manual,12
+mybully:val:13,val,penunggang agama org nk buat haji pun korang scam memang keturunan korang ni celaka la tco hknvpegjgz,anger,ms,Anger,Negative,Yes,Yes,manual,13
+mybully:val:14,val,makan babiharam beri makan rasuaheerrmmmmmm,disgust,ms,Disgust,Negative,Yes,Yes,manual,14
+mybully:val:15,val,running man sekarang dah tak best tengok somin tak senyum pun aku tak happy yela game semua nak intellectual aku pun terasa bodoh,sadness,ms,Sadness,Negative,No,No,manual,15
+mybully:val:16,val,"ssendiri yang reply,sendiri rasa awkward sial",disgust,ms,Disgust,Negative,No,No,manual,16
+mybully:val:17,val,"cuba share lagi kat komen, apa lagi yang kita buat, ambil hak orang lain tanpa kita sedar atau sedar tapi buat bodoh abangsegak",neutral,ms,Neutral,Neutral,No,No,manual,17
+mybully:val:19,val,rozekurenai diam gila diam hdhqnagskagd,neutral,ms,Neutral,Neutral,No,No,manual,19
+mybully:val:20,val,"@daengwahidin2 bangsat juga neh orang baju kaos biru dan kaos putih.. 
+yang lebih bangsat lagi yg memberi kewenangan dan masuk ke indonesia",anger,ms,Anger,Negative,Yes,Yes,manual,20
+mybully:val:21,val,pheww z kok kamu jahat sama aku,anger,ms,Anger,Negative,Yes,Yes,manual,21
+mybully:val:22,val,"fon aku sendiri aku x tukar walaupun aku teringin sgt nak beli fon baru sbb fon ni byk problem but bila abah aku mintak dahulukan pakai duit aku utk beli fon tu, aku instantly belikan but it wasnt good enough phone tu lembab kan lembab mcm aku",sadness,ms,Sadness,Negative,No,No,manual,22
+mybully:val:24,val,weh tingginya dia rupanya selama ni sangkaan aku salah yela pakai heels jumpa dia en rasa dia pendek je sekali bila pakai selipar lah tingginya awakkk,surprise,ms,Surprise,Neutral,No,No,manual,24
+mybully:val:25,val,"sy ok ja tutup lampu but not all the lights mau tutup ah kasi biar satu b on pun jadi la, ada sikit cahaya tp ni adik balik tegur kasi mati semua",neutral,ms,Neutral,Neutral,No,No,manual,25
+mybully:val:26,val,penat ahh jadi org bodoh asyik kena pijak je,sadness,ms,Sadness,Negative,No,No,manual,26
+mybully:val:27,val,hidayatev emang lu panas anjing,anger,ms,Anger,Negative,Yes,Yes,manual,27
+mybully:val:28,val,pergi la mampos semua takde siapa peduli mati je lagi bagus,sadness,ms,Sadness,Negative,No,No,manual,28
+mybully:val:29,val,bapak kau babi,anger,ms,Anger,Negative,Yes,Yes,manual,29
+mybully:val:30,val,fuh sakit perut gila,sadness,ms,Sadness,Negative,No,No,manual,30
+mybully:val:31,val,"rovskyi menginap hotel tu di masjidilharan dan masjid nabawi untuk buat haji, lokasinya di luar tanah haram arafah, muzdalifah dan mina berjuta orang akn ke sini dan tidur selama beberapa hari kawasannya terhad sbb ada boundaries untuk sah ibadah haji tu",neutral,ms,Neutral,Neutral,No,No,manual,31
+mybully:val:32,val,@madidham islam dalam ic je.... babi haram. tapi hj bj dlm kereta tu halal. yg penting bil air terbayar,disgust,ms,Disgust,Negative,Yes,Yes,manual,32
+mybully:val:33,val,tu dh nak namanya kes dera. kalau dh membabitkan kata2 tak elok nak pukul sampai nak mencacatkan anggota badan. bodoh,anger,ms,Anger,Negative,Yes,Yes,manual,33
+mybully:val:34,val,bukak tiktok penuh dont search eh babi kalau taknak suruh search jangan lah buat video siap letak nama besar,anger,ms,Anger,Negative,Yes,Yes,manual,34
+mybully:val:35,val,"wagelaz sprixnkie jeozn lah, haram bangga",disgust,ms,Disgust,Negative,Yes,Yes,manual,35
+mybully:val:36,val,amy lembab sgt otak lmbt functioning dia yg sakit ke melur yg sakit confius sis,anger,ms,Anger,Negative,No,No,manual,36
+mybully:val:37,val,please wear a sheer tan pantyhose in your videos shut up anak anjenk tak habis habis sheer tan babi ni tco vlxyifwtav,anger,ms,Anger,Negative,Yes,Yes,manual,37
+mybully:val:38,val,"geramnya bila nak key in data, server lembab cam siput tgk yt laju pulak makanya tco fmvolhd fa",anger,ms,Anger,Negative,Yes,Yes,manual,38
+mybully:val:39,val,disahkan bodoh!    ,anger,ms,Anger,Negative,Yes,Yes,manual,39
+mybully:val:40,val,tapi defend manu cam babi dari tadi bagi orang sakit otak hahahaha,anger,ms,Anger,Negative,Yes,Yes,manual,40
+mybully:val:41,val,warna beige beige antara warna hot selling silvy pendek rm silvy panjang rm postage rm tco rglab gil,neutral,ms,Neutral,Neutral,No,No,manual,41
+mybully:val:42,val,"izzahruangyodd saya dah skrol jauh dulu dah, tapi nak face shaming macam jahat sangat pula jadi saya hentikan niat saya dah dia nak chris evans kan",neutral,ms,Neutral,Neutral,No,No,manual,42
+mybully:val:43,val,thisssss tak paham aku org yg ckp boleh makan kuah ni dah tu cuba org suruh kau makan kuah kari babi kau melenting ke tidak nokkkkk tco fjzzuy r,disgust,ms,Disgust,Negative,Yes,Yes,manual,43
+mybully:val:44,val,najihahshahrel saya tak okay sis sebab saya pun dh pendek cm je kalau tinggi sikit daripada saya pun kira okay,neutral,ms,Neutral,Neutral,No,No,manual,44
+mybully:val:45,val,cek celana pendek olahraga parasut mikro import pria ter laris dengan harga rp rp dapatkan di shopee sekarang tco zdgjgc yl tco s glkbmuo,neutral,ms,Neutral,Neutral,No,No,manual,45
+mybully:val:46,val,nafiszulkernain pandai dia jadi jamal abdillah pakai spec hitam dia ingt orang tak nampak hahaha,neutral,ms,Neutral,Neutral,No,No,manual,46
+mybully:val:47,val,"spirit gerak kerja pantas, cerita aku pintas,mati kenderaan melintas,aku lebih atas aku terbalikkan mereka,aku pimpin ke neraka,biar menang teka teka,aku lebih berpuaka aku seru mereka leka,aku lihat mereka suka,aku dari neraka tco hlx r c bu",anger,ms,Anger,Negative,Yes,Yes,manual,47
+mybully:val:48,val,"julai , khamis terima kasih tuan rahmat, timbalan pengarah penjara jelebu dan tuan abd rahim dari penjara jelebu kerana sudi ke kolej komuniti jelebu dan mengadakan perbincangan bersama unit pembelajaran sepanjang hayat berkenaan kursus kursus pendek yang ditawarkan tco rax q n e",neutral,ms,Neutral,Neutral,No,No,manual,48
+mybully:val:49,val,dinonsaurs mau jadi gila sama seperti caption mau pengsan untuk gambar with the daddies,neutral,ms,Neutral,Neutral,No,No,manual,49
+mybully:val:50,val,teman tengok logo hari kebangsaan dah mcm logo wifitau la wifi internet kat lembab mcm cuba la cari logo lain lakke na kabo konon nnt wifi internet kat bakal laju giler babai ke,neutral,ms,Neutral,Neutral,No,No,manual,50
+mybully:val:51,val,babi ah fred,anger,ms,Anger,Negative,Yes,Yes,manual,51
+mybully:val:52,val,"yoo bestie after this, we don t need to watch it through link haram anymore kim joonie tco ong wy f",neutral,ms,Neutral,Neutral,No,No,manual,52
+mybully:val:53,val,"tersandera balas budi orang yg disiksa sadis tanpa proses pengadilan, mati mengenaskan, pun tetap sepanjang kematiannya diketahui publik tereksekusi kerna fitnahan pelecehan seksual ya, ga heran peristiwa dan , terjawab hanya struktur kekuasaan yg sanggup melakukan",sadness,ms,Sadness,Negative,No,Yes,manual,53
+mybully:val:54,val,celaka lah tco oo gbdr hr,anger,ms,Anger,Negative,Yes,Yes,manual,54
+mybully:val:55,val,aku nak tanyak anak orang mewah di malaysia berapa masa sebulan mereka memikirkan tentang kerahmanan bumi dan manusia berapa banyak masa terluang pakey hiburan anjaman mati untuk mereka berapa banyak harakus tebal muka aku nak mendukung wahrah hidup mereka aku pun manusia,anger,ms,Anger,Negative,No,Yes,manual,55
+mybully:val:56,val,cnnindonesia semoga dan dana tersebut tidak diselewengkan oleh oknum oknum yang jahat yang tidak sesuai dengan perikemanusiaan dan peri keadilan,neutral,ms,Neutral,Neutral,No,No,manual,56
+mybully:val:57,val,"babi tersenyum bahagia memikirkan dia lebih mulia dari si kafir tudung labuh babi bertasbih memuji allah taala dengan caranya sedang si kafir tudung labuh daripada dulu berwirid memaki auliya dengan segala dayanya semoga matinya dengan api, masuk ke api, kekal di api",anger,ms,Anger,Negative,Yes,Yes,manual,57
+mybully:val:58,val,tiadapengenalan kenapa kena malu dengan sekolah hariankau rendahkan sekolah harian ke cerita pendek je pun gi lah baca budak tu salah bawak phone dalam poketsalah tetap salah part tu tapi dorang sendiri serah phone pastu kp uturn tipu pendek je cite ni ke sekolah bodo tak habis membaca,anger,ms,Anger,Negative,Yes,Yes,manual,58
+mybully:val:59,val,dahla pendek,disgust,ms,Disgust,Negative,Yes,Yes,manual,59
+mybully:val:60,val,nrmnklt kenapa ngn serbuk arang tu ouh saya hitam ehh sama ngan arang fhm ii,neutral,ms,Neutral,Neutral,No,No,manual,60
+mybully:val:61,val,bodoh piang main parking,anger,ms,Anger,Negative,Yes,Yes,manual,61
+mybully:val:62,val,"memang sial sekolah ni nak tanya sekolah mana eh selama tahun sekolah takda lagi isu pasal ni kantin buka macam biasa, cuma yang muslim dilarang ke kantin tco x rbsnoowq",disgust,ms,Disgust,Negative,Yes,Yes,manual,62
+mybully:val:63,val,"movie date nunggu pengabdi setan soalnya aku takut sama film horor jadi, kalau ada temennya kan seru nontonnya tapi pengen makan seblak, enak kalau ada temennya makan tergantung dehhh, aku nurut nih sama kalian",neutral,ms,Neutral,Neutral,No,No,manual,63
+mybully:val:65,val,"raffi itu kan juga pada dasarnya cuma mau bilang, bahwa aturan sekolah yg ketat sampai ada razia itu gak perlu kita sebagai orang dewasa harus bisa mengakali untuk memulai mengubah sistem seperti ini, dengan tetap membuat anak senang dengan rambut pendek dan gak merasa tertekan",neutral,ms,Neutral,Neutral,No,No,manual,65
+mybully:val:66,val,zackavaricious fatwa haram kan rokok pon fatwa haram kan bersepah jugak yg sebat sedut,disgust,ms,Disgust,Negative,Yes,Yes,manual,66
+mybully:val:67,val,bangangnya arteta pergi masukkan kiwior ni nak buat apa celaka,anger,ms,Anger,Negative,Yes,Yes,manual,67
+mybully:val:68,val,i memang murung sebab line unifi kat sini stuckk terukk lembab tak boleh bawa bincang annoying oii,anger,ms,Anger,Negative,No,No,manual,68
+mybully:val:70,val,kenebook awal ke,neutral,ms,Neutral,Neutral,No,No,manual,70
+mybully:val:71,val,"seluar kain dia lembut gila babi nampak cam kasar, tapi sebenarnya lembut gila lepastu bila pakai, rasa cam tak pakai seluar pov tinggi cm tco ptcimqhlxu tco ni shpws",joy,ms,Happiness,Positive,No,No,manual,71
+mybully:val:72,val,bang bole roger saya bole dapat hehe,joy,ms,Happiness,Neutral,No,No,manual,72
+mybully:val:73,val,"watak pharvid ni buat saya teringat satu villain dalam webtoon your throne eros orna vasilios a crown prince too, manipulative, a strategist and cruel tapi rakyat tak tahu dia jahat, licik a very well written villain dalam banyak webtoon saya baca",neutral,ms,Neutral,Neutral,No,No,manual,73
+mybully:val:74,val,"nadiazaman saya waktu tu dah tak kisah asalkan dpt sentuh kau hitam kaabah tu pun takpe sbb waktu buat tawaf wajib tu mampu tgk je sbb langsung takde ruang kosong nak cuba dekat rezeki allah nak bag, dari pintu masuk masjidilharam sy jalan straight je menuju kaabah tak langgar org lgsg",anger,ms,Anger,Negative,Yes,Yes,manual,74
+mybully:val:75,val,"jadual waktu solat harian bagi shah alam, rawang, gombak, sepang, hulu langat, hulu selangor selasa julai zulhijjah h imsak pg subuh pg syuruk pg zuhur ptg asar ptg maghrib mlm isyak mlm nota hari tasyrik haram puasa",neutral,ms,Neutral,Neutral,No,No,manual,75
+mybully:val:76,val,lepastu menangis sorg diri eh penat sial,sadness,ms,Sadness,Negative,No,No,manual,76
+mybully:val:77,val,"gila babi power sial, dia baru debut ja terus dah dapat rank ke dunia baiiiyoooooo she can shoot bullseye to my heart mang tco jmktcqhgks",joy,ms,Happiness,Positive,No,No,manual,77
+mybully:val:78,val,tennisprincehj ha ah dikadoii kq buat mv ke buat moviehensem nk matijiwa remaja akk tiba muncul,neutral,ms,Neutral,Neutral,No,No,manual,78
+mybully:val:79,val,"they are based on what stated in quran but they do not have the right to speak it out as accusations nor judgement directly to the non muslim they should know that lahir islam, tak semestinya mati dalam islam lahir bukan islam, tak semestinya mati dalam bukan islam tco m ko pkfv",neutral,ms,Neutral,Neutral,No,No,manual,79
+mybully:val:80,val,celaka bazar kat cyber ni memang aku bukan target market dia agaknya. total habis harini rm24. nasi tomato+kopi ais+bergedil,disgust,ms,Disgust,Negative,No,No,manual,80
+mybully:val:81,val,mochsyahril astaghfirullah kok sial kali sich rakyat ini,anger,ms,Anger,Negative,Yes,Yes,manual,81
+mybully:val:82,val,patutlah kita tengok kawasan berkenaan macam dah celaka tco kbuwgxw,disgust,ms,Disgust,Negative,Yes,Yes,manual,82
+mybully:val:83,val,harishamzah mampos puak tak faham english adoi patut la mael tak bagi rakyat belajar bahasa inggeris mati gini,anger,ms,Anger,Negative,Yes,Yes,manual,83
+mybully:val:84,val,nampak mcm i bodoh ke?,sadness,ms,Sadness,Negative,No,No,manual,84
+mybully:val:85,val,"we are living in the st century today, people have become more educated civilised but there are some world leaders who act like devils setan,to engage in killing and bombing innocent man, woman and children, just to satisfy their ego evil still exists tco p dlgkubtr",anger,ms,Anger,Negative,No,Yes,manual,85
+mybully:val:86,val,pukimak kau la babi naik basikal je pun kena catcall aku harap kau mampus awal,anger,ms,Anger,Negative,Yes,Yes,manual,86
+mybully:val:87,val,zay babi hahahahahha,anger,ms,Anger,Negative,Yes,Yes,manual,87
+mybully:val:88,val,@curlylajava @tanyakanrl bangsat wkwk rokoknya apa ngab,anger,ms,Anger,Negative,Yes,Yes,manual,88
+mybully:val:89,val,shinsunik sayang betulamat tu xtahu yang muka ja lawa tapi hati hitam macam bitumenbetul noir sial hati betina ni,anger,ms,Anger,Negative,Yes,Yes,manual,89
+mybully:val:90,val,"unfudgable zacrazak nadia nazir kpdnhep oh i have seen off vouchers, capped at cents babi",anger,ms,Anger,Negative,Yes,Yes,manual,90
+mybully:val:91,val,@faiddaniel @faisal_mn_ @joharighani @anwaribrahim @najibrazak he saw what happened and he didn't see it as an issue. kena kencing pulak terpaling bodoh,anger,ms,Anger,Negative,Yes,Yes,manual,91
+mybully:val:92,val,"semua pinjam duit aku nak haramkan harini la,kadang kadang ada limit tunggu duit sendiri,kalau aku fed up,aku haram kan je",anger,ms,Anger,Negative,No,No,manual,92
+mybully:val:93,val,mannersaish fznjmiii buat kopi sial,anger,ms,Anger,Negative,Yes,Yes,manual,93
+mybully:val:94,val,syzleenanisa hitam satu,neutral,ms,Neutral,Neutral,No,No,manual,94
+mybully:val:95,val,"lamkanahraf mdsani die camni la, anjing bila nampak org die salak ja tak kira org baik or org jahat die tak salak tuan dia ja, sebab tuan die kasi tulang",anger,ms,Anger,Negative,Yes,Yes,manual,95
+mybully:val:96,val,"balik rumah ingat nak rehat, tangan kebas layan jem tarik clutch eh skali hp tinggal kat tempat kerja celaka betul dah memasal layan jem lagi skali",anger,ms,Anger,Negative,Yes,Yes,manual,96
+mybully:val:97,val,saedah bn evertn o umno kan wajib bodoh,anger,ms,Anger,Negative,Yes,Yes,manual,97
+mybully:val:98,val,@mkini_bm tau ini cadangan. tapi kepala babi korang lah sial. dasar pulimak punya persatuan. memang bangsat la kerajaan madani kalau luluskan benda bodoh ni,anger,ms,Anger,Negative,Yes,Yes,manual,98
+mybully:val:99,val,"selasa julai zulhijjah h pg masuk waktu syuruk bagi temerloh, jerantut, maran, bera, chenor, jengka amp kwsn yg sama waktu waktu haram solat hingga pg",neutral,ms,Neutral,Neutral,No,No,manual,99
+mybully:val:100,val,@kashimsm the chibok should of stand this chance if not for  your boys (boko haram),anger,ms,Anger,Negative,Yes,Yes,manual,100
+mybully:val:101,val,rekaan honor x i diperlihatkan dalam video promosi pendek tco jthkjoqqpo,neutral,ms,Neutral,Neutral,No,No,manual,101
+mybully:val:102,val,macam babi tahu tak macam babi. macam babiiiiii !! macam bodohhh. pegi lah cerita dkt semua orang babiiiiiiiiiiii,anger,ms,Anger,Negative,Yes,Yes,manual,102
+mybully:val:103,val,kelemahan paling bodo aku is makan kambing je pening setan sungguh,disgust,ms,Disgust,Negative,No,No,manual,103
+mybully:val:104,val,"hypnostia ohmybeautybank ini enak bgt d kulitku yg oily, jd lbh lembab gt, tp kl dipake kebnyakan jd becek gt dimuka trs rada rada kusem pdhl enak lo dmuka kek pas bgt buat oily skin",neutral,ms,Neutral,Neutral,No,No,manual,104
+mybully:val:105,val,@kismath90 ada paksa sign documents paksa menu rahmah ni ....so x payah buat cerita...yg bodoh ikut membabi buta apsal  ...yg meniaga tu bodoh x kira costing ke,anger,ms,Anger,Negative,Yes,Yes,manual,105
+mybully:val:106,val,"whateverucalll mental gila minyak habis cepat tol banyak , pastu lmbat masuk office lambat km pun ambil masa minit astaga masha allah",anger,ms,Anger,Negative,No,No,manual,106
+mybully:val:107,val,"kosmikplays haha i don t remember being told that, i was from sk and of the non muslim kids there my malay friends always make fun of me for makan babi and i always make fun of them as mat rempit good times",neutral,ms,Neutral,Neutral,No,No,manual,107
+mybully:val:108,val,mati,sadness,ms,Sadness,Negative,No,No,manual,108
+mybully:val:109,val,apa punya malang kita dapat bala mcmni. betul. memang celaka.  ,sadness,ms,Sadness,Negative,Yes,Yes,manual,109
+mybully:val:110,val,haritu copy tweet org lain nk suruh fuck i sbb dick bf pendek bersusun lelaki dm,anger,ms,Anger,Negative,Yes,Yes,manual,110
+mybully:val:111,val,"jadual waktu solat harian bagi johor bahru, mersing, kota tinggi isnin julai zulhijjah h imsak pg subuh pg syuruk pg zuhur ptg asar ptg maghrib mlm isyak mlm nota hari tasyrik haram puasa",neutral,ms,Neutral,Neutral,No,No,manual,111
+mybully:val:112,val,frzamirul babi kn apala nasib fans man u,anger,ms,Anger,Negative,Yes,Yes,manual,112
+mybully:val:113,val,mumy ajak husb pergi ikea makan ice cream yogurt tu then balik husb boleh gelak kata mumy gila sebab pergi sana semata mata nak makan ice cream je dah ngidam tu je apa salahnya kan hahaha,joy,ms,Happiness,Positive,No,No,manual,113
+mybully:val:114,val,rasa cam mati hidup kembali,neutral,ms,Neutral,Neutral,No,No,manual,114
+mybully:val:115,val,annyssenrique danielhvqeem ini zaman bila sial hahaha ini berita berulat sudah,surprise,ms,Surprise,Neutral,Yes,No,manual,115
+mybully:val:116,val,kau yang setan haramjadah anjing tak happy cakap depan la sial nnti nk mintak bende baru nk step baik lol gi mampos sua,anger,ms,Anger,Negative,Yes,Yes,manual,116
+mybully:val:117,val,aku just ngantuk gila,neutral,ms,Neutral,Neutral,No,No,manual,117
+mybully:val:118,val,mhaziqhisham baju hitam dia lawa doo,joy,ms,Happiness,Positive,No,No,manual,118
+mybully:val:119,val,"badboy dulu bulan kesana kesini pakai jubah pum pang pum pang atas pentas lawan cina, bila dah ada jawatan dia pun tunduk dengan geng kongsi cina celaka",anger,ms,Anger,Negative,Yes,Yes,manual,119
+mybully:val:120,val,hrs trafik perlahan dari ayer hitam ke kulai sila rancang perjalanan andapandu berhati hati harap maklum llminfotrafik,neutral,ms,Neutral,Neutral,No,No,manual,120
+mybully:val:121,val,imemerang menteri pun setan santau tak lawan kawan dia,anger,ms,Anger,Negative,Yes,Yes,manual,121
+mybully:val:122,val,perangai anjing,disgust,ms,Disgust,Negative,Yes,Yes,manual,122
+mybully:val:123,val,menghibur orang lain menjadi hal kecil menghibur diri sendiri menjadi sesuatu yang setengah mati,neutral,ms,Neutral,Neutral,No,No,manual,123
+mybully:val:124,val,"lama gila samuel kt msia, dri aritu lg",neutral,ms,Neutral,Neutral,No,No,manual,124
+mybully:val:125,val,anjinglembu ku terbang,neutral,ms,Neutral,Neutral,No,No,manual,125
+mybully:val:126,val,"sorry kalau ada babi bangun pagi ni, you have to but can t yourself and sciatica before me know people could help but can t say very",neutral,ms,Neutral,Neutral,No,No,manual,126
+mybully:val:127,val,my sister is on her way home hehe tak sabarnya nak jumpa orang pendek,joy,ms,Happiness,Positive,No,No,manual,127
+mybully:val:128,val,shinsunik sayang betulamat tu xtahu yang muka ja lawa tapi hati hitam macam bitumenbetul noir sial hati betina ni,anger,ms,Anger,Negative,Yes,Yes,manual,128
+mybully:val:129,val,"jadual waktu solat harian bagi temerloh, jerantut, maran, bera, chenor, jengka isnin julai zulhijjah h imsak pg subuh pg syuruk pg zuhur ptg asar ptg maghrib mlm isyak mlm nota hari tasyrik haram puasa",neutral,ms,Neutral,Neutral,No,No,manual,129
+mybully:val:130,val,"e blackbeard rasa bukan notbad tapi mmg sedap, cuma servis macam lahanat lembab pundiyamamana branch sama je cmne nak maju",anger,ms,Anger,Negative,No,No,manual,130
+mybully:val:131,val,"dia punya bodoh, cerdik lagi lembu dari dia. mesti time mak bapak hantar pi kafa dia ponteng  ",anger,ms,Anger,Negative,Yes,Yes,manual,131
+mybully:val:132,val,khairulfathriz awak lagi pendek dari ke,neutral,ms,Neutral,Neutral,Yes,No,manual,132
+mybully:val:133,val,okay documentary girl in the picture tu mmg mind blowing ya sumpah berbelit nak faham jahat gila laki tu,surprise,ms,Surprise,Negative,No,No,manual,133
+mybully:val:134,val,jahat betul gol fred dia kasi cip saja haha,surprise,ms,Surprise,Neutral,No,No,manual,134
+mybully:val:135,val,nasib baik ada yang mampu terima lelaki pendek ni tco mvt qq lo,neutral,ms,Neutral,Neutral,No,No,manual,135
+mybully:val:136,val,dzoel ekowboy eh goblog baca yg lengkap jangan vuma bodoh dan tololnya eh babi siapa yg di maksud tuhan itu itu otang yg ngaku umat tuhan tapi ngga mau berbuat kebaikan tapi kesukannya berbuat jahat paham kau babi,anger,ms,Anger,Negative,Yes,Yes,manual,136
+mybully:val:137,val,"antareusss pembasmihaters jelmaranau chinnarats beast ntsg rairaka juli nanas unamed gogon sarap bacotgogon navynation flopnezmo materialsinf iamagnezious csmic teuafal read one misslissaz fvkboyfriend heffheven kinkyplaya kebenaranlambe joeroget klisman haiyhota hotaruminamix hanya pintaku hermanmm agnezxxclusive anjastirta jusorange lupitanyongorr loveyoyrself irtus laso rafaelsta agnezmo spotify iheartradio yunamusic kastamu fans agnezmo sdh lama memang pemuja agnezmo ini jdi setan di indonesia gak suka dengan fakta klo debat nyerang fisik karna karir idolanya msh flop warklo dibandingkan,padahal idolanya agnezmo yg dlu koar gogon nahklo kita lawan seperti mreka buat, meriang tco p zwurja",anger,ms,Anger,Negative,Yes,Yes,manual,137
+mybully:val:138,val,rasanya bila ada kes ustaz tahfiz sontot pelajar pihak berkuasa patutnya kena check jugak sumber pendapatan tahfiz takut ada sumber duit haram,anger,ms,Anger,Negative,Yes,Yes,manual,138
+mybully:val:139,val,"aku kan pake skrg sisa paket unlimited , kadang kalo dia mo vc aku rela anjing buat paket darurat ato buat paket mb biar vc nya ga macet",neutral,ms,Neutral,Neutral,No,No,manual,139
+mybully:val:140,val,bodoh  ,anger,ms,Anger,Negative,No,Yes,manual,140
+mybully:val:141,val,"itule cmm, benda nakal jahat ni iman la penentunya, jd kpd yg goyahjgn sesekali mendekati",neutral,ms,Neutral,Neutral,No,No,manual,141
+mybully:val:142,val,yanarhmn aku punya powerbank dah ok dah cuma cable murah tu je masalah dia dia ada built in cable tapi pendek tu aku beli cable lain tapi tu la beli yang murah kalau on waze sambil charge memang tak naik ye dia tco fh vpxfbvl,disgust,ms,Disgust,Negative,No,No,manual,142
+mybully:val:143,val,marah betul aku kalau mall punya sesak pastu satu family jalan slow like hello orang lain nak jalan jugak lah setan,anger,ms,Anger,Negative,Yes,Yes,manual,143
+mybully:val:144,val,jangan mudah percaya dengan jenayah walaupun jepun mengistiharkan negaranya paling selamat di dunia tiada jalan pendek utk selamat,neutral,ms,Neutral,Neutral,No,No,manual,144
+mybully:val:145,val,"butonaruto aku kembali ke cerita ulang,aku dah tahu siapa yang malang,kau itu anjing nak menyalak tulang,aku serigala dalang mereka itu kurang kasih sayang ke atau tak ada siapa pun yang akan sayang aku sudah melayang layanglu berambus tco xdxvkbkvhm",anger,ms,Anger,Negative,Yes,Yes,manual,145
+mybully:val:146,val,sazzyreads yg angst tu mamat tu sorang je xkdbkdjd sapa suruh jahat ngan org dalam hidup dia,anger,ms,Anger,Negative,Yes,Yes,manual,146
+mybully:val:147,val,error,neutral,ms,Neutral,Neutral,No,No,manual,147
+mybully:val:148,val,"same mcm bela kucing jugak, kena jaga kebersihan,xleh lepas keluar, soal bunyi kalau anjing menyalak bersebab,bagusnya anjing bertindak spt alarm, org yg x kenal dia akan menyalak,",neutral,ms,Neutral,Neutral,No,No,manual,148
+mybully:val:149,val,kenzsaa ko ada layan manga dia celaka mangaka dia buat watak childhood friend anak buah dia ni waktu kecik hodoh dah beso lawa tco f wtgtcss,disgust,ms,Disgust,Negative,Yes,Yes,manual,149
+mybully:val:150,val,@maliqueredzuan dia baru keluar kenyataan kelmarin. dah tu kau nak expect esok dah siap parking semua tu? alahai lah punya bodoh.,anger,ms,Anger,Negative,Yes,No,manual,150
+mybully:val:151,val,"@akeemsharyzal si isteri kne muhasabah diri utk tidak terlalu memikirkn bnde yg lps..sbb tu bisikan setan je..f.. jgn duk terbyg2 cite lama. doakn diri utk dpt ketenangan, if she can cope that she is stronger person.  jgn terlalu ungkit2.  lama2 terguris hati suami , masalah lain pulak timbul.",neutral,ms,Neutral,Neutral,No,No,manual,151
+mybully:val:152,val,byk kesalahan narkoba bukan suami isteri dpt anak haram ke apa kaperrr ni,anger,ms,Anger,Negative,Yes,Yes,manual,152
+mybully:val:153,val,anjing tco lee ujdowv,anger,ms,Anger,Negative,Yes,Yes,manual,153
+mybully:val:154,val,"@islah_bahrawi panjang x lebar x tinggi tapi gak menjawab pertanyaan .
+kebanyakan makan uanag haram kali ya ?  ",disgust,ms,Disgust,Negative,Yes,Yes,manual,154
+mybully:val:155,val,"menangis baca pengalaman mereka mereka yg dah sampai ke tanah suci ya allah, moga diizinkan kaki ini utk jejak tanah haram suatu hari nanti bersama sama suami dan anak anak tco zzwj moma",joy,ms,Happiness,Positive,No,No,manual,155
+mybully:val:156,val,bekas pemilik restoran mati ditembak lepas bermain mahjung tco rhipw skgf tco isbgqschnc,neutral,ms,Neutral,Neutral,No,No,manual,156
+mybully:val:157,val,"uncutress hamil muda,anak haram",anger,ms,Anger,Negative,Yes,Yes,manual,157
+mybully:val:158,val,"celaka betul shopee express ni. tengok barang kat app dah delivered, rupanya hantar kat rumah orang lain. tak pasal pasal aku kene ketuk rumah orang. dajei",anger,ms,Anger,Negative,Yes,Yes,manual,158
+mybully:val:159,val,inialalalannn afzal zulkifli hahahahah u kena jaga emak zaidi la nok sat gi tiba u kene tuduh jahat mcm satu episod tibajah emak dia halau mia hahaha,joy,ms,Happiness,Neutral,No,No,manual,159
+mybully:val:160,val,gila babi kedai depan ni jual keropok lekor besar pen maker biji rm rm tau pokemak rindu zaman keropok lekor biji rm,disgust,ms,Disgust,Negative,Yes,Yes,manual,160
+mybully:val:161,val,azzuwaibbasri kahkah itu poster hitam putih lerr,neutral,ms,Neutral,Neutral,No,No,manual,161
+mybully:val:162,val,sapikurbanlepas sapikurbanterobosjamaahshalat seekor sapi hitam yang diduga bakal dijadikan kurban terlepas tali ikatannya dan menerobos ke bagian samping kiri jamaah tco hplqjvpbtz,neutral,ms,Neutral,Neutral,No,No,manual,162
+mybully:val:163,val,susah la dapat opis ni ada yg selfish mcm babi pepagi dah slow kan aircond agak la org baru masuk opis ni lecak ketiak kot dah la cuaca luar panas anjing betul,anger,ms,Anger,Negative,Yes,Yes,manual,163
+mybully:val:164,val,lama sial si pendek nie mandi kelebek puki apa tak tau hurghhhh huduh serupa tu jugak,disgust,ms,Disgust,Negative,Yes,Yes,manual,164
+mybully:val:165,val,saya dengar cerita awak ni bodoh,disgust,ms,Disgust,Negative,Yes,Yes,manual,165
+mybully:val:166,val,org kita peduli semua tubila tak dapat pegisalahkan sesiapa yg dia suka nak salahkanpadahal arab saudi ada tetapkan had dan peraturanorg malaysia ni biasa sgt langgarlawnak settle rundingdealingat arab saudi nak layan kita je ke,anger,ms,Anger,Negative,No,Yes,manual,166
+mybully:val:167,val,mintak maaf setel bodoh punya ngok,anger,ms,Anger,Negative,Yes,Yes,manual,167
+mybully:val:168,val,bhrinjhah hahaha babi,anger,ms,Anger,Negative,Yes,Yes,manual,168
+mybully:val:169,val,bubur pulut hitam durian semalam punya malam nih baru dapat makan tco dy iutujv,joy,ms,Happiness,Positive,No,No,manual,169
+mybully:val:170,val,"fmtoday nobody disputes the global rise in cost of living but what is frustrating is the govt s inaptitude, incompetence amp sluggishness in handling the problems so lembab they seem more concerned with use of bm , going after tik tokkers, etc",anger,ms,Anger,Negative,No,No,manual,170
+mybully:val:171,val,aku nk jd toxic gila babi sehari ni jaga ar selisih sikit mmg rapat aku bg iblis punya berbisik boek punya harini hehehehehehhe,anger,ms,Anger,Negative,Yes,Yes,manual,171
+mybully:val:172,val,imemerang bapak aku pernah pesan setan xkn kacau setan yg lain,neutral,ms,Neutral,Neutral,No,No,manual,172
+mybully:val:173,val,mcm mne engko boleh mkn dkt kedai yg ada nama tp service lembab org tk ada pun sidai kemain bersilat ke kt dapur tu,anger,ms,Anger,Negative,No,No,manual,173
+mybully:val:174,val,sweater jahat,anger,ms,Anger,Negative,No,Yes,manual,174
+mybully:val:175,val,inzanediary duniasuri ngakorming tak masuk akal bagi kau yang jadi pencacai taik babi dap kau fikir semua rakyat malaysia ni bodoh macam kau,anger,ms,Anger,Negative,Yes,Yes,manual,175
+mybully:val:176,val,celaka laaaaa israel ni!!!   ,anger,ms,Anger,Negative,Yes,Yes,manual,176
+mybully:val:177,val,"then khusna, you can help me do tax comp, and all your task pass to other staff me like aku punya la arrange kerja dari puasa hari tu, ot bagai nak mati semata mata takut terlepas due date, and now bila dah tinggal saki baki, kau mintak ot lagi untuk siap kan kerja kau",anger,ms,Anger,Negative,Yes,Yes,manual,177
+mybully:val:178,val,private acc buat mende bodoh  bangang,anger,ms,Anger,Negative,Yes,Yes,manual,178
+mybully:val:179,val,citraargus norhaidabakar hrhjohorii kau islam ke muslim ke kau celaru identiti atau bodoh,anger,ms,Anger,Negative,Yes,Yes,manual,179
+mybully:val:180,val,kahkahkahkah mcm haram ya tco kaym vfm,disgust,ms,Disgust,Negative,Yes,Yes,manual,180
+mybully:val:181,val,"pemilik taknak teruskan kes,dia dah maafkan anjing dia dah,kes selesai",joy,ms,Happiness,Positive,No,No,manual,181
+mybully:val:182,val,harey jambu gila muka nunez,anger,ms,Anger,Negative,Yes,Yes,manual,182
+mybully:val:183,val,"menahan diri utk xpost benda2 politik or gosip bulan puasa, tapi ni mmg celaka kalau betul.  ",anger,ms,Anger,Negative,Yes,Yes,manual,183
+mybully:val:184,val,"pk 1 sebuah sekolah rendah kat shah alam ni, bayangkan ketua panitia yang dah tak tahan tiap tahun pegang jawatan yg sama minta turun. tahu apa dijawab?
+
+turunkan berat badan dulu. bodoh ke apaaaaaa alahaiiiii memang aku doakan orang macam ni ditimpa musibah maha dahsyat. celaka",anger,ms,Anger,Negative,Yes,Yes,manual,184
+mybully:val:185,val,ko dah hantar macam macam sampai mampos sial pakcik aku kau buat,anger,ms,Anger,Negative,Yes,Yes,manual,185
+mybully:val:186,val,penyanyi nabila razali yang semakin aktif dalam dunia lakonan mengakui dia kini seolah olah ketagih untuk menjadi jahat dapatkan berita terkini di telegram tco vkwfqizrjr tco zhd c mefj,neutral,ms,Neutral,Neutral,No,No,manual,186
+mybully:val:187,val,syvzwvn paling haram jadah di dunia scene ni,disgust,ms,Disgust,Negative,Yes,Yes,manual,187
+mybully:val:188,val,zionis israel setan tu camne pulak?   ,anger,ms,Anger,Negative,Yes,Yes,manual,188
+mybully:val:189,val,iskndr irfankeilani fortwic alifafiq radtoyo mygaminglyfe isqandar salleh disebabkan tommy bodoh hantar surat kesal tak bayar tuntutan waris sulu guna surat tu untuk perampasan aset,anger,ms,Anger,Negative,Yes,Yes,manual,189
+mybully:val:190,val,"melursam gila betul, kan bukan nak racist tapi ada indian yang ok cuma terlalu rare untuk jumpa, most of them memang jahat dan ingin merosakkan anak melayu islam kalau tak kuat, jadilah seperti amy ini",anger,ms,Anger,Negative,Yes,Yes,manual,190
+mybully:val:191,val,"decision saya x tetap because i am h man oso sometimes mood begini, sometimes mood begitu but apa yang penting is that, we need to try our best to follow apa yang allah dah tetap kan like the halal and haram things",neutral,ms,Neutral,Neutral,No,No,manual,191
+mybully:val:192,val,craigansibin ada orang cakap dorang senang sikit main drive sebab dorang pendek,neutral,ms,Neutral,Neutral,No,No,manual,192
+mybully:val:193,val,besar gila konate ni makan perodua rusa ke,neutral,ms,Neutral,Neutral,No,No,manual,193
+mybully:val:194,val,"digi kat seri iskandar ni bubar je la cakap phone pun putus , line lembab",anger,ms,Anger,Negative,Yes,Yes,manual,194
+mybully:val:195,val,sebab tu hidup ni jangan sembang dngan prmpuan tak kenai depa macam babi memang takkan sembang punya tco xxkliotgo,anger,ms,Anger,Negative,Yes,Yes,manual,195
+mybully:val:196,val,fiqsleepy kadang kadang kan kita perlu pura pura bodoh and tunjukkan yang kita ni tak bagus so we can discover mana satu orang yang boleh terima kita seadanya and mana satu orang yang akan mengkhianati kita,neutral,ms,Neutral,Neutral,No,No,manual,196
+mybully:val:197,val,jenis follow pastu unfollow ni nak apa sbenarnya setan penat aku nak unfollow bagai,anger,ms,Anger,Negative,Yes,Yes,manual,197
+mybully:val:198,val,adelkayla lain mcm mimpi tapi bkn ular hitam kan kira mainan tidur je kot,neutral,ms,Neutral,Neutral,No,No,manual,198
+mybully:val:199,val,masa arwah mak pi haji dulu sekali ja call kami kat rumah tu pun pendek sgt sebab mak sebak shes so happy she wish all her family dpt rasa apa yg dia rasa panggilan singkat yg paling bermakna,sadness,ms,Sadness,Negative,No,No,manual,199
+mybully:val:200,val,rasa nya dekat negara kita masih sesuai pakai kaedah berdasarkan bilangan a yang dapat dalam menentukan tahap kecemerlangan murid,neutral,ms,Neutral,Neutral,No,No,manual,200
+mybully:val:201,val,lancau anjing,anger,ms,Anger,Negative,Yes,Yes,manual,201
+mybully:val:202,val,goal fred cip tu lawa gila,joy,ms,Happiness,Positive,No,No,manual,202
+mybully:val:203,val,sial la abang besar liverpool sudah masuk ni terasa la jugak goyang tu,anger,ms,Anger,Negative,No,No,manual,203
+mybully:val:204,val,elvysjayan mitchnani pengabdi setan ya best,neutral,ms,Neutral,Neutral,No,No,manual,204
+mybully:val:205,val,cwk pendek urwell,neutral,ms,Neutral,Neutral,No,No,manual,205
+mybully:val:206,val,ketika doa sahaja yang kita ada ketika berdoa sahaja yang kita terdaya teruskan berdoa kerana ia akan mnghidupkan jiwa meski ia telah mati,joy,ms,Happiness,Positive,No,No,manual,206
+mybully:val:207,val,udah mati di terpa isu miring lagi kasihan keluarga korban brigadir j tco urykjnisq,sadness,ms,Sadness,Negative,No,No,manual,207
+mybully:val:208,val,"lagi perbarui ios udah tinggal dkt lagi tetiba hp mati total, yasudah berpasrah tetiba lagi pembaruan ios berhasil, tpi setelah di cek semua gaada perubahan mulai dari emoji dll kaget tebangun uda subuh babi babi",anger,ms,Anger,Negative,Yes,Yes,manual,208
+mybully:val:209,val,harini haram puasa kan,neutral,ms,Neutral,Negative,No,No,manual,209
+mybully:val:210,val,kimak asal aku ade kt sini lah sial,anger,ms,Anger,Negative,Yes,Yes,manual,210
+mybully:val:211,val,dekat kg wife aku lagi gamble tolong apa pon tak datang bawa plastik pilih bahagian mana dia nak lepas tu cao tuan korban ternganga kalau kena dekat group aku tu konfem bergaduh mesti aku sound asalkan kau tak makan daging haram bro,anger,ms,Anger,Negative,Yes,Yes,manual,211
+mybully:val:212,val,farhanahj couple tu haraminsaflahsetiap yg salah x akan baik resultnyahampiri zina sj allah larangmmg kena la hampadone dakwah,disgust,ms,Disgust,Negative,Yes,Yes,manual,212
+mybully:val:213,val,penat la sial buka grindr orang asyik tanya benda sama baca lah aku dah letak information bawah tu memang malas membaca eh,anger,ms,Anger,Negative,Yes,Yes,manual,213
+mybully:val:214,val,hrs trafik perlahan dari hentian sebelah yong peng ke ayer hitam awasi jarak kenderaan anda harap maklum llminfotrafik,neutral,ms,Neutral,Neutral,No,No,manual,214
+mybully:val:215,val,"ngapain blouse situ semua pendek , buat la helok sikit aihh dah aku nak beli mana",disgust,ms,Disgust,Negative,Yes,No,manual,215
+mybully:val:216,val,tak rasa serba salah eh dah berjanji nak g sama sama pastu kau tiba tiba hilang message apa tak reply pastu menunggu kau macam orang bodoh,sadness,ms,Sadness,Negative,Yes,No,manual,216
+mybully:val:217,val,casper anjing tco sx wcxbov,anger,ms,Anger,Negative,Yes,Yes,manual,217
+mybully:val:218,val,"lah igtkan bekubur dah akaun minah ni ada lagi rupanya maria maria nama dah lawa, tp perangai kau kalah setan tco xrxcwfmsjv",anger,ms,Anger,Negative,Yes,Yes,manual,218
+mybully:val:219,val,astaga bodoh bodoh tco btfvb fh,anger,ms,Anger,Negative,Yes,Yes,manual,219
+mybully:val:220,val,@nrlftnxzxz tu ah. beh deployment dia tolak kt org lain sebab dia tk boleh buat. bodoh lah. aku baru habis bagi lesson plan kt org yg kene cover. zzzzz.,anger,ms,Anger,Negative,Yes,No,manual,220
+mybully:val:222,val,i know my sunburn face is ok when my skin tone is similar to my chinese colleagues hahahahaha baru elok ok sunburn dekat sarawak tu nanti hitam balik bulan amp takpela bukan nak kahwin pun tahun ni hahaha at least muka dah ready untuk jadi bridesmaid on aug,joy,ms,Happiness,Positive,No,No,manual,222
+mybully:val:223,val,"rajahaziq chairman glc bukan, he s a mini dachshund sausage dog badan panjang, kaki pendek",anger,ms,Anger,Negative,Yes,Yes,manual,223
+mybully:val:224,val,now i feel like crying i wanna go to manicure straight forward semua salah inai lopa tu my nails looking so ugly like heck i am not scarlet witch tau kuku macam setan dah ni,sadness,ms,Sadness,Negative,No,No,manual,224
+mybully:val:225,val,"@hawaizzaqanitta bangsat, masuk notif pun enggak",anger,ms,Anger,Negative,Yes,Yes,manual,225
+mybully:val:226,val,"apabnda lembab sangat line celcom ni orang bayar kot untuk service smua duit org kot, ni duduk tengah bandar pun rasa macam duduk dalam hutan rimba",anger,ms,Anger,Negative,No,No,manual,226
+mybully:val:227,val,"richard crackhousekl the couple in question are not comedians it was an open mic night you see dos and don ts along with the consequences if u fail adhere and still people do whatever the hell they want meaning, kalau org tu nak buat jahat, bagi rules mcm mana pun, dia akan buat jahat",neutral,ms,Neutral,Neutral,No,No,manual,227
+mybully:val:228,val,"dia depan anak dia punya dia jaga bahasa tau. kalau masa live dia nampak budak dia cover2 gak, kau je tk tau.. dah q&amp;a org bg soalan bodoh dia jawab la cmtu. mcmkau tak pernah ada member jenis ckp lepas je ek? kau tu sebenarnya cringe.. dia tk boleh jadi diri dia ke?",disgust,ms,Disgust,Negative,Yes,Yes,manual,228
+mybully:val:229,val,"brgsjks benda paling bodoh aku pernah buat,time darjah aku kena check orang yang tak turun sembahyang asar kat surau lepastu aku check kelas akunampak , org kawan kelas aku tgh menyoroklepastu diorang ajak aku menyorok sama, aku pun ikut menyorok jugak",neutral,ms,Neutral,Neutral,No,No,manual,229
+mybully:val:230,val,tarikakukesyurga nasib julia tukar fikiran dahlan ni jahat zul ariffin sebagai zamri,anger,ms,Anger,Negative,Yes,Yes,manual,230
+mybully:val:231,val,pkckam meinmokhtar hahaha jahat gilaaaa,surprise,ms,Surprise,Neutral,No,No,manual,231
+mybully:val:232,val,hidup memang wajib jadi sial ke eh orang sini orang flip the side mirror for a reason kau tahu ke kereta orang tu side mirror auto flip ke apa ke yang kau pergi bukak dia kenapa otak letak mana bodoh tak bertempat ye pagi mood dah spoil tak boleh ke sehari tu tenang,anger,ms,Anger,Negative,Yes,Yes,manual,232
+mybully:val:233,val,"tadi cari tudung, lepastu ternampak mini kaftan warna hitam cantik betul ye tapi tula rm kau",sadness,ms,Sadness,Negative,No,No,manual,233
+mybully:val:234,val,dah lama sial tak kalah dengan manu janggal nya rasa,anger,ms,Anger,Negative,Yes,Yes,manual,234
+mybully:val:235,val,nurizzatinadia haihh rambut sama hitam hati lain lain,neutral,ms,Neutral,Neutral,No,No,manual,235
+mybully:val:236,val,"zulhaiqalismail dah tau barang naik harga kau pergi bazir duit kau tu tengok wayang dah kenapa bukan mati pun tak tengok wayang barang naik ni sebab inflasi nak lawan inflasi duit kau tu kena beli aset kena invest nk invest kena belajar, bkn meroyan dekat ahli politik, diorang tu mmg x guna",anger,ms,Anger,Negative,Yes,Yes,manual,236
+mybully:val:237,val,bodoh sial salah ni bangang,anger,ms,Anger,Negative,Yes,Yes,manual,237
+mybully:val:238,val,sejak dr da takde furada ni tp ada vvip yg jual gak jabatan agama terpaksa pejam mata bang maklum la parti agamawan memegang jawatan harakahdailynet indexphp tiada visa furada tahun ini bakal haji keliru iklan agensi papuh,anger,ms,Anger,Negative,No,Yes,manual,238
+mybully:val:239,val,ingtkn bagus sgt sistem yg adesampah jugak rupanya bila nk cari pasal bukan main kau yg paling berkuasabodoh,anger,ms,Anger,Negative,Yes,Yes,manual,239
+mybully:val:240,val,@mkini_bm persatuan bodoh mana yang cadang  sampai 65 tahun tu??,anger,ms,Anger,Negative,Yes,No,manual,240
+mybully:val:241,val,"dinakantitek cinta memang macam tu, boleh jadi bodoh kerana cinta",neutral,ms,Neutral,Neutral,No,No,manual,241
+mybully:val:242,val,akmalovback gila wei sakit mental tahap dewa,anger,ms,Anger,Negative,No,No,manual,242
+mybully:val:243,val,"tindakan tegas jika dalangi aktiviti haram, lindungi pati tco nfwehk g p",anger,ms,Anger,Negative,No,No,manual,243
+mybully:val:244,val,"@numanmazlan mmg kebal betul negara haram tu eh.. dy serang negara org saje je.. dunia pun buta seketika.. tp bila negara lain serang dy, auto amerika celaka ugut bwt sekatan.. tros celik dunia..",anger,ms,Anger,Negative,Yes,Yes,manual,244
+mybully:val:245,val,"travel ejen penjahat penipu ni memang setan gred a syarat nak pi haji tahun ni dah ketat pakai visa furada ni pulak bukan murah orang tua yang dapat peluang nak pi tahun ni, tahun depan tak tentu lagi sebab takut sakit ibadat hj ibadat yg perlukan kekuatan fizikal tco wgqppkmtm",anger,ms,Anger,Negative,Yes,Yes,manual,245
+mybully:val:246,val,"@fanahrusman yihhh! bgtau tuan rumah tu, sruh halau penyewa yg bodoh mcm tu. buat malu je",anger,ms,Anger,Negative,Yes,Yes,manual,246
+mybully:val:247,val,"pagi masih dalam keadaan terjaga terfikir kembali ketika dia sedang tidak dlm keadaan yg baik, aku selalu mencoba utk ada, walau cueknya setengah mati dan kadang caranya salah ak jg pengen diperlakukan spt itu tp mungkin ak kembali ber ekspetasi tinggi",sadness,ms,Sadness,Negative,No,No,manual,247
+mybully:val:249,val,hitam itu premium selamat malam tco q snjod m,neutral,ms,Neutral,Neutral,No,No,manual,249
+mybully:val:250,val,bhrinjhah hahahaha celaka la dia ni,anger,ms,Anger,Negative,Yes,Yes,manual,250
+mybully:val:251,val,sial lah siapa cakap member xg tu mcm noorkhiriah i cannot unsee it,disgust,ms,Disgust,Negative,Yes,Yes,manual,251
+mybully:val:252,val,"tok guru aku ajar akhir zaman islam dianggap asing ada hadis tentang bab ni tak dinafikan, tapi ni bukan asing, ini mengarut namanya walhal agama melarang make somethings yang mendatangkan fitnah or prasangka jahat terhadap agama dan penganut tco c sacl",neutral,ms,Neutral,Neutral,No,No,manual,252
+mybully:val:253,val,"ehem, bukan main mengkome semua ya selamat sampai saja nak cakap terima kasih honda odyssey hitam tadi main cucuk cucuk hilang ngantuk tadi salam jari tengah tco th d xykum",anger,ms,Anger,Negative,Yes,Yes,manual,253
+mybully:val:254,val,tetiba terfikir aku ni penyabar gila kan terigt dulu ex aku pernah kerja bulan dekat us so it was ldr la he barely contacted me pun he really called me masa my birthday je pastu senyap minimal interaction dekat ig je beb kalau aku jahat lama aku curang,anger,ms,Anger,Negative,No,Yes,manual,254
+mybully:val:255,val,"sebaik sahaja keluar dari rumah kira kira meter, seekor anjing tiba tiba melintas dan merempuh tayar hadapan motosikal menyebabkan saya terpelanting dan terseret di atas jalan tco faamf epw",surprise,ms,Surprise,Neutral,No,No,manual,255
+mybully:val:256,val,bisniscom haram berarti tidak aman dan melanggar syari at jadi bukan untuk umat islam astagfirullah na uzubillahiminzalik indonesia,disgust,ms,Disgust,Negative,No,No,manual,256
+mybully:val:257,val,lehmanishere azliajee kau bela towkey judi dari awal kau beri peluang meluaskan empire judi dl pda mereka sampai kaya raya lalu mnguasai semua peluang yg ada dari hasil haram tersebut bersaing dgn ank bangsa kau membangsat dinegara sendiri yg lain adalah sejarah kesah sedeh mtm melayu tipu melayu,anger,ms,Anger,Negative,Yes,Yes,manual,257
+mybully:val:258,val,"permainan timnas u di pertandingan kali ini lebih teratur umpan pendek, visi dll lebih bagus mantap",joy,ms,Happiness,Positive,No,No,manual,258
+mybully:val:259,val,anepppppppppp yg baju putih tu mcm celakasiap tepuk seluarbangang btol,anger,ms,Anger,Negative,Yes,Yes,manual,259
+mybully:val:260,val,jenis buat benda fikir sama dia je babi juga ek,anger,ms,Anger,Negative,Yes,Yes,manual,260
+mybully:val:261,val,awat semua movie nak buat cerita gelap sampai takmau bagi nampak apa ni apa masalah hamp nak bagi aku trngok ka dak ni bodoh,anger,ms,Anger,Negative,Yes,Yes,manual,261
+mybully:val:262,val,"and i know abah dah takde tapi still abah yang keluar dari mulut and i still remember aku cakap abah, tolong adik gila babi lahhh kot ye rindu abah bukan ini mimpinya woiii",sadness,ms,Sadness,Negative,No,No,manual,262
+mybully:val:263,val,dah takleh tengok kucing hitam dah lepasni,disgust,ms,Disgust,Negative,No,No,manual,263
+mybully:val:264,val,"santeira tahfiz bukan juvana ya mak bapak durjana yang tak pandai nak didik anak sekalian , dah tahu anak jahat, maybe prison is the best place, kesian budak baik endup jadi pemuas nafsu budak jahat ni, then ketagih so on jadi bottom,",anger,ms,Anger,Negative,Yes,Yes,manual,264
+mybully:val:265,val,"walhal tiada sebarang penjualan direkodkan ada syarikat menggunakan lesen dan kuota minyak bersubsidi pihak lain, lalu menjualnya secara haram keempat, terdapat pengusaha restoran yang bersekongkol dengan pemborong, mencaras stok minyak masak paket minyak masak paket bersubsidi hanya",anger,ms,Anger,Negative,No,Yes,manual,265
+mybully:val:266,val,sorange siap clean sheet sial,anger,ms,Anger,Negative,Yes,Yes,manual,266
+mybully:val:268,val,"ramai yg respon post aku pasal atm.aku terima semua kritikan.cuma aku nak komen gambar bwh ni.
+
+boleh dikatakan ramai kalah masa pru lepas. pasal rasmikan benda2 bodoh ni seolah2  keperluan dn kemudahan rakyat perlu dirasmikan
+jgn rendahkan kebijaksanaan rakyat wahai wakil rakyat  ",disgust,ms,Disgust,Negative,Yes,Yes,manual,268
+mybully:val:269,val,"tiber overthink mlm gini celaka betul, aku nk tido bukan pikiran",anger,ms,Anger,Negative,Yes,Yes,manual,269
+mybully:val:270,val,"drimavet nothing wrong with being compassionate to all animals, especially feeding them to live another day semuanya makhluk allah i for one, takut anjing but if i see one yg lapar, sakit, kurus i would try to feed them cuma plsla jgn jilat aku setan",neutral,ms,Neutral,Neutral,No,No,manual,270
+mybully:val:271,val,lemah nyawa main ml dgn org rasa dirik pandei jadi mm bertengkar dgn kita mati matian xmok aku mm kakya kalah terok rank aku yang gugok bodo,anger,ms,Anger,Negative,Yes,Yes,manual,271
+mybully:val:272,val,"ramai org sanggup buat benda gila macam tak makan dgn harapan utk kurus pain is not gain, change that mindset gangs",disgust,ms,Disgust,Negative,No,No,manual,272
+mybully:val:273,val,"celaka lelaki macam ni. elok kena sula sampai mampus, dah mampus pun sula lg sampai hancur mayat. sial punya lelaki  ",anger,ms,Anger,Negative,Yes,Yes,manual,273
+mybully:val:274,val,gila talak emm,neutral,ms,Neutral,Neutral,No,No,manual,274
+mybully:val:275,val,mimieyloma muka you macam angeline tan tapi dgn rambut pendek amp kulit terbakar lepas berjemur kat pantai pd,neutral,ms,Neutral,Neutral,No,No,manual,275
+mybully:val:276,val,aku punya nak hitam mcm ni bila tang cat rumah tapi risau kene bantai dgan mak aku so aku pilih laa kaler yg tk lembut tk garang itu pun sedikit tidak puas hati and cat gelap susah ye nak cari kat kedai yg liter smua liter je so terpaksa laa pilih yg diorg boleh buat tco gq fk rtmi,neutral,ms,Neutral,Neutral,No,No,manual,276
+mybully:val:277,val,carelinesesb sampai bila menipu tujuan ni letrik kamu tutup kerana bagi semua ni letrik kepada orang kenamaan yang takda pun bayar bil letrik saya tahu bukan semua orang tahu zaman sekarang bukan semua rakyat sabah bodoh,anger,ms,Anger,Negative,Yes,Yes,manual,277
+mybully:val:278,val,eee orang nak support dia tapi dia pergi hide pulak dari kita ingat i bodoh ke,anger,ms,Anger,Negative,Yes,Yes,manual,278
+mybully:val:279,val,literally so stressed about osce tmrw and my research coordinator texted me asking me to fix some formatting error in our manuscript and resubmit tonight nasib baik eizzah and nathia function gila,anger,ms,Anger,Negative,No,No,manual,279
+mybully:val:280,val,beehoneey ismailsabri lembab nak mamposss,anger,ms,Anger,Negative,No,No,manual,280
+mybully:val:281,val,"increasing decreasing tax rate not inherently means good bad kalau cukai tinggi tapi belanja macam haram contohnya mdb, mrt , naikkan cukai tu sekadar akan tolong sorok duit yang bocor ja macam sapu habuk bawah tikar tak selesaikan punca masalah pun",disgust,ms,Disgust,Negative,No,No,manual,281
+mybully:val:282,val,"khusus sesama muslim nih yaa dear cewe kenapa kalian ga senang ditegur soal aurat setolol itukah sadar ga sih cape kalian foto jilboob, joget seksoy ala dasteran, jual muka binal di medsos, berpakaian tapi macam bugiel aset dosa jariyah kalian berjalan sampe mati",disgust,ms,Disgust,Negative,Yes,Yes,manual,282
+mybully:val:283,val,"apa dia betul ke dia dah bersenggama dengan orang berbeza wow itu confirm clean ke macam mana dia tak buat ujian std ke relaks semacam je gila, gila betul bini orang dia itu termasuk bini dia sekali ke jadi macam kira matematik pula",disgust,ms,Disgust,Negative,Yes,Yes,manual,283
+mybully:val:284,val,alhamdulillah lega lega dah habis exam tinggal satu sem je lagi sebelum degree ni tamat dah kurang rasa serabut pape pun happy birthday atie rempit gila la video wolfchan dark web tu pun lahai tco cncabzzxje,joy,ms,Happiness,Positive,No,No,manual,284
+mybully:val:285,val,"keputusan dan hukuman kes ini adalah tepat mengikut undang malaysia yg betul tapi bila melibatkan ahli politik, kenapa mcm liat je nak jatuh hukum dan jalani hukuman persoalannya si celaka haramjadah mana yg sering ganggu perundangan negara kita fikir kan tco cnddxg tlx",anger,ms,Anger,Negative,Yes,Yes,manual,285
+mybully:val:286,val,org bodoh ja takut sumpah boring filem versi rakam ni bgus rakam lain tco nd fu tbv,disgust,ms,Disgust,Negative,Yes,Yes,manual,286
+mybully:val:287,val,"convomf jangan dengerin kata mereka maaf agak jahat, tp yang begitu tu ibaratnya kaya hasutan setan kalo mau berubah jadi baik pasti bakal banyak ujiannya terus semangat ya sender jangan lupa perbanyak do a sama allaah karna allaah maha membolak balikkan hati manusia",joy,ms,Happiness,Positive,No,No,manual,287
+mybully:val:288,val,"macam la tak tahu konon pakai spek hitam, padahal dok baca skriphaha macam tu je cara dia jawab pasal harga minyak masa melambung tco wqs ybsf",anger,ms,Anger,Negative,Yes,Yes,manual,288
+mybully:val:289,val,"hello, just nak tanya, does ticket price take into account sebab sedar lately harga tiket naik walaupun no doubt ramai gila tengok mat kilau kalau cartoon banyak sale from child seat jgk ada ke eh orang share jumlah bilangan tiket terjual just nak tengok how the trend going tco lznfcsuqzs",neutral,ms,Neutral,Neutral,No,No,manual,289
+mybully:val:290,val,"sunnah bila menziarahi kubur untuk mendoakan si mati mohonkan keampunan untuk saudara kamu, dan mintalah baginya keteguhan kerana sesungguhnya dia sekarang sedang disoal riwayat abu daud sahih tco hwdotaymxz",neutral,ms,Neutral,Neutral,No,No,manual,290
+mybully:val:291,val,susah jugak sebenarnya cakap dgn org yg xberapa cerdik ni. tanya betul2 jawab jwpn bodoh lepastu gelak2 bodoh. aku pulak jd bodoh gini. ,sadness,ms,Sadness,Negative,Yes,No,manual,291
+mybully:val:292,val,"kalaulah, muhyiddin atau mail hatta tun m buat macam ni, confirm keluar bendera hitam dari macai kunyit. tapi sebab yg nyanyi ini adalah dewa mereka maka mereka pertahankan siap hina orang lain lagi. aku tak minat dengan semua ini, malah aku tak minat nak charge org itu atau org  ",disgust,ms,Disgust,Negative,No,No,manual,292
+mybully:val:293,val,meinmokhtar babi,anger,ms,Anger,Negative,Yes,Yes,manual,293
+mybully:val:294,val,argntrxx mantap anjing,joy,ms,Happiness,Positive,No,No,manual,294
+mybully:val:295,val,ini gua lg berproses apa stuck di situ situ aja sih anjing,anger,ms,Anger,Negative,Yes,Yes,manual,295
+mybully:val:296,val,"yang lapar akan dikenyangkan masalahnya sekarang, kalau bicara masalah lapar, gak hanya perut aja yang lapar ada tipe orang yang otaknya sering kelaparan, butuh diberi makan juga orang mati karena otak kelaparan gak dikasih makan banyak loh",neutral,ms,Neutral,Neutral,No,No,manual,296
+mybully:val:297,val,my anger issue cannot tahan la this fella rasa nak terajang je kerongkong dia sekejap peguam sekejap muallaf kau mabuk taik lencong ke setan tco fq pcoixb,anger,ms,Anger,Negative,Yes,Yes,manual,297
+mybully:val:298,val,luvniniss anis cantik bukan untuk lelaki hauk jahat macamtu okay sayang,joy,ms,Happiness,Positive,No,No,manual,298
+mybully:val:299,val,detikcom hari ini jarak pandang makin pendek ga sih,neutral,ms,Neutral,Neutral,No,No,manual,299
+mybully:val:300,val,"ketika hidup kita rasa baik, maka kejar kebaikan itu dan jaga ia agar terhindar dari orang jahat knightandday , tco mxncpqrk",neutral,ms,Neutral,Neutral,No,No,manual,300
+mybully:val:301,val,"babi kata gaji hb, ni dah hb setan",anger,ms,Anger,Negative,Yes,Yes,manual,301
+mybully:val:302,val,celaka betui tco fxhhfqhllc,anger,ms,Anger,Negative,Yes,Yes,manual,302
+mybully:val:303,val,salah la what kind of question is this it s always the innocent looking ones yg perangai setan tco honkvzrrrs,anger,ms,Anger,Negative,Yes,Yes,manual,303
+mybully:val:304,val,"sunnyydday gapapa mereka masih bisa tinggi lagi kok dulu teman kuliah aku awal masuk kuliah juga pendek, lebih pendek dari aku yg pas lulus dia udah",joy,ms,Happiness,Positive,No,No,manual,304
+mybully:val:305,val,hisap gam je laa liverpool. macam bodoh je,anger,ms,Anger,Negative,Yes,Yes,manual,305
+mybully:val:306,val,raffle jd sport ni dah asal tak boleh masuk setan,anger,ms,Anger,Negative,Yes,Yes,manual,306
+mybully:val:307,val,"ps share, overwatch beta mati secara bodoh tco by pt vdr",anger,ms,Anger,Negative,No,No,manual,307
+mybully:val:308,val,@jgtisjfs @fiihazmii tengok header dia lah dah tahu tahap bodoh camne ,anger,ms,Anger,Negative,Yes,No,manual,308
+mybully:val:309,val,"maybe sebab ramai sangat kot laki bangang sekarang ni jenis yang biarkan je bini bangun malam sorang anak nangis nak putus nyawa sebab meragam perut tak selesa ke apa, bapak steady tido mati tco uqedo scim",anger,ms,Anger,Negative,Yes,Yes,manual,309
+mybully:val:310,val,muka celaka. xdeke yahudi dtg malaysia? rs nk blasah je.  ,anger,ms,Anger,Negative,Yes,Yes,manual,310
+mybully:val:311,val,si celaka banduan tco ixezhgwrzd,anger,ms,Anger,Negative,Yes,Yes,manual,311
+mybully:val:312,val,penguinweirdo tulaaa pasal nampak sangat dari cara dia tu desperate gila,disgust,ms,Disgust,Negative,Yes,Yes,manual,312
+mybully:val:313,val,"and mungkin bagi kakak aku fon tu murah, lembab, x bagus etc tp aku belikan fon tu dengan baki duit yg aku ada sbb ayah aku mintak aku dahulukan beli pakai duit aku dulu dan itu je yang aku mampu but it wasnt fucking good enough",anger,ms,Anger,Negative,No,No,manual,313
+mybully:val:314,val,"kerajaan ni nak handle pandemic pon lembab apa tah lagi nak handle inflation agaknye bila negara ni kena serang dengan negara lain, diorang boleh relax potong kek and gelak joget lagi kot",anger,ms,Anger,Negative,No,No,manual,314
+mybully:val:315,val,"kalau cm dikira pendek, apalah nasib cm ni tco opzxedcmwk",sadness,ms,Sadness,Negative,No,No,manual,315
+mybully:val:316,val,fakta dari wikipedia jumlah orang islam seluruh dunia billion kapasiti masjidil haram juta katalah orang dewasa islam satu dunia yang layak haji juta berapa persen je yang boleh masuk masjidilharam tu dari juta,neutral,ms,Neutral,Neutral,No,No,manual,316
+mybully:val:317,val,"ada rezeki ke sini ada bus cater dari hotel turun ke masjidil haram, tapi kena tunggu turn kalau nak jalan kaki pun boleh, ada shortcut lalu kawasan construction tapi selamat moga ada rezeki ke sana lagi",neutral,ms,Neutral,Neutral,No,No,manual,317
+mybully:val:318,val,"polis untuk tindakan lanjut, katanya katanya, operasi sar turut membabitkan polis, pasukan penyelamat di air ppda teluk intan, unit anjing pengesan k bomba dan angkatan pertahanan awam apm hilir perak semalam harian metro melaporkan, kehilangan mangsa disedari orang awam apabila",neutral,ms,Neutral,Neutral,No,No,manual,318
+mybully:val:319,val,bernamadotcom bantu penerbit tempatan dengan kenakan cukai hahaha bantu ka di bantu celaka betui gomen kita ni,anger,ms,Anger,Negative,Yes,Yes,manual,319
+mybully:val:320,val,buzzzzilah diorang swingers tukar pasangan sesama suami isteri ada yang buat hubungan kelamin antara suami isteri dgn orang lain jijik gila apa yang diorang buat ni,disgust,ms,Disgust,Negative,Yes,Yes,manual,320
+mybully:val:321,val,"ahmad rifqie dia rasa dgn lawa dia boleh buat apa je benda bodoh, sbb lawa orang tak kisah sgt katanya kalau tak lawa buat benda bodoh jd mcm kesalahan tak lawa lepas tu buat salah cantik bukan tiket utk jadi bodoh, jgn normalize kan benda ni",disgust,ms,Disgust,Negative,Yes,Yes,manual,321
+mybully:val:322,val,mcm  suruh member beli utk presale pastu x nak byr utk er effort... babi sial... eh bodoh celaka like fuck you ,anger,ms,Anger,Negative,Yes,Yes,manual,322
+mybully:val:323,val,barua umno melayu sial asal cina je dap abis sekutu umno haramjadah mca tu babi apa pulak sial tco suwpyay ck,anger,ms,Anger,Negative,Yes,Yes,manual,323
+mybully:val:324,val,bro whats with tiktok sial asyik keluar video if you use this audio use this and see what happens eff off omg hahaha,surprise,ms,Surprise,Neutral,No,No,manual,324
+mybully:val:325,val,"koleksi orang kl terencat, kl maju bukan sebab orang asal situ cerdik dari kawasan lain,
+
+kl maju sebab malaysia pilih kl jadi center of this country, kau ingat semua manfaat kat kl tu untuk org kl saje ke? bodoh. xde nya tempat tu nk maju kalau x sebab government intervention.  ",anger,ms,Anger,Negative,Yes,Yes,manual,325
+mybully:val:326,val,"ada si pukimak mana pi tweet ringgit mulai kukuh , kukuh jadah apa babi, , memang jenis nak sapu semua benda bawa karpet kalau kukuh ringgit takkan di dagangkan pada usd myr nampak sangat tak reti baca chart analysis asal hijau ja kukuh buto makpak dia",anger,ms,Anger,Negative,Yes,Yes,manual,326
+mybully:val:327,val,salah najib la bodoh tco vd vtf z y,anger,ms,Anger,Negative,Yes,Yes,manual,327
+mybully:val:328,val,infotwitwor ga paham anjing,anger,ms,Anger,Negative,Yes,Yes,manual,328
+mybully:val:329,val,psycho couple macam anak haram perangaj tco fliietkzvr,anger,ms,Anger,Negative,Yes,Yes,manual,329
+mybully:val:330,val,lelaki memang semua lembab,disgust,ms,Disgust,Negative,Yes,Yes,manual,330
+mybully:val:331,val,aleeyamma tulaa i risau gila nak tido semalam bila i google orang kata tu biasa tapi seram fikir dia lama lama dalam tu takut infection huhu alhamdulillahhh pastu klinik bagi drop tadi cam lagi better,joy,ms,Happiness,Positive,No,No,manual,331
+mybully:val:332,val,penat bodoh naklayan drama tak sudah. then teruskanlah meroyan kurang kasih sayang&amp; takutkan pada bayang sendiri,anger,ms,Anger,Negative,No,No,manual,332
+mybully:val:333,val,"niat nak kecam dapat sokongan kesudahannya dapat kecaman balik ...makin lama makin bodoh walanon, aku rasa kerajaan jatuh sbb kebodohab walanon sendiri..penat bang non camni..  ",anger,ms,Anger,Negative,Yes,Yes,manual,333
+mybully:val:334,val,"guys aku mau kasih tau nih sama kalian para pecinta tanaman, jangan pernah nyiram tanaman di siang hari oke klw ga mau tanamannya pada mati semangatsalingbantu satu indonesia",joy,ms,Happiness,Positive,No,No,manual,334
+mybully:val:335,val,@_amranfans bila ada jawatan kerek lah.. skrang takde jawatan sibuk mengemis pd rakyat. ingt rakyat bodoh ke?..,anger,ms,Anger,Negative,Yes,Yes,manual,335
+mybully:val:336,val,ala babi nape semua ticketing hariniiiiii,anger,ms,Anger,Negative,Yes,Yes,manual,336
+mybully:val:337,val,"kessmaess ainashmas elok masukkan dia dalam peti ais, paling celaka dah sorok arwah baby dia boleh offer servis kat orang lain",anger,ms,Anger,Negative,Yes,Yes,manual,337
+mybully:val:338,val,"""nah anjing, tu dia pun kena panggil anjing""  ",anger,ms,Anger,Negative,Yes,Yes,manual,338
+mybully:val:339,val,"puisi pendek revolusi mental karya lembayu kerja, kerja, kerja ngutang, ngutang, ngutang kerja lagi kerja lagi ngutang lagi ,ngutang lagi kalau tak kerja tak dapat ngutang kalau tak ngutang susah kerja kerja di tapak kaki oligarki ngutang di ketiak capitalis tco ydwtgnuc n",disgust,ms,Disgust,Negative,No,No,manual,339
+mybully:val:340,val,dasar spx lembab,anger,ms,Anger,Negative,No,No,manual,340
+mybully:val:341,val,esok kalau masih tak sihat jugak mmg kene ambil darah ini kalau hari hari macam ni letih lah sial gini apa benda hanat houshim louhenzo s aulao z nhoaguo s au ah zenchiba ah tco afnnz k bh,anger,ms,Anger,Negative,Yes,Yes,manual,341
+mybully:val:342,val,kan confirm bwk lebih pd mmg terkejut berok tibe ade entiti mungkin brek mengejut hilang kawalan terbabas lepas tu buat repot confirm pertahankan diri takkan nak pasrah mengaku je salah taktau la org lain,surprise,ms,Surprise,Neutral,No,No,manual,342
+mybully:val:343,val,"wooyoungurls ohmybeautybank mau wrna apa jg rasanya sama bukan berarti pink rasanya manis, coklat rasanya gurih dan hitam sepahit kpi wkwk but sensasi sebagian lelaki yg bikin bininya muter otak begini",neutral,ms,Neutral,Neutral,No,No,manual,343
+mybully:val:344,val,penuh gila babi mat stadium thailand,anger,ms,Anger,Negative,Yes,Yes,manual,344
+mybully:val:345,val,"celaka ye quest ni, dia suruh datang sorang. dah la boss dia power gila, tapi nasib aku lagi power daripada dia xd 
+#octopathtraveler2 #nintendoswitch  ",neutral,ms,Neutral,Neutral,No,No,manual,345
+mybully:val:346,val,d wed reymiv aaa komando bodoh baki sen d tue tco jc gzmpr,anger,ms,Anger,Negative,Yes,Yes,manual,346
+mybully:val:347,val,rasa down gila bila x bolh tangkap pasal kerja macm ni,sadness,ms,Sadness,Negative,No,No,manual,347
+mybully:val:348,val,"tak isap dadah, tak minum timah, laju tak lebih, jarak dah jaga, breake tiptopcuai kat mana sop plus manarepair jln lepas tu buat bodoh je biarkan kenderaan lalu tanpa kisah apa nak jadi traffic controller duk mana robot pun tak nampak kejadian berulang ditempat yg lebih",disgust,ms,Disgust,Negative,Yes,Yes,manual,348
+mybully:val:349,val,"gila babi power sial, dia baru debut ja terus dah dapat rank ke dunia baiiiyoooooo she can shoot bullseye to my heart mang tco jmktcqhgks",joy,ms,Happiness,Positive,No,No,manual,349
+mybully:val:350,val,fmtoday balik balik muka celaka bodoh,anger,ms,Anger,Negative,Yes,Yes,manual,350
+mybully:val:351,val,ehhh statement bodoh amat tak simpan langsung bodoh tu tco lpz qf fry,anger,ms,Anger,Negative,Yes,Yes,manual,351
+mybully:val:352,val,babi,anger,ms,Anger,Negative,Yes,Yes,manual,352
+mybully:val:353,val,"teacher dia ni anak setan ka. geram nya aku ya allah. dah kalau budak nak menyusu, auto dia pegang ja botol terus terbaring ke belakang. ni dengan lapik apa takdak mampus sakit la budak. bodoh punya manusia  ",anger,ms,Anger,Negative,Yes,Yes,manual,353
+mybully:val:354,val,"dua buah lori tangki dan peralatan digunakan untuk kerja kerja pemindahan diesel turut disita dengan anggaran nilai rampasan berjumlah rm , tco mswnlsegw",neutral,ms,Neutral,Neutral,No,No,manual,354
+mybully:val:355,val,"time org lain buat salah, kemain guna hadis nabi hukum itula hukum inila sunnah itu ini. haram halal neraka syurga. haaaa tapi bila turn dia buat salah haram dia nak ingat ",disgust,ms,Disgust,Negative,Yes,Yes,manual,355
+mybully:val:356,val,satu yang ilham tak suka cina babi yang adasuka potong line boleh buat bodoh macam babi,anger,ms,Anger,Negative,Yes,Yes,manual,356
+mybully:val:357,val,"nurlisahana mullet rambut depan kita tak bawah kening, wolf macam selalu kpop punya style rambut tepi kita pun lebih pendek tapi act mullet ni ikut negara juga lain negara, style dia dan panggilan dia lain better lisa tengok gambar then tunjuk dekat hair stylist",neutral,ms,Neutral,Neutral,No,No,manual,357
+mybully:val:358,val,kira mcm pesta puja roh la ni nanti ada roh ikut balik rumah baru tau,neutral,ms,Neutral,Neutral,No,No,manual,358
+mybully:val:359,val,chanting apa ni setan itu pon jangan nak jadi ultra tco bh wm dxzx,anger,ms,Anger,Negative,Yes,Yes,manual,359
+mybully:val:360,val,noturbunga untung besau si baju hitam,neutral,ms,Neutral,Neutral,No,No,manual,360
+mybully:val:361,val,isap je la rokok mmg dr dlu x leh nk dipercayai pon..aku yg bodoh percaya nau dia,disgust,ms,Disgust,Negative,No,No,manual,361
+mybully:val:362,val,bodoh betui mo salah,anger,ms,Anger,Negative,Yes,Yes,manual,362
+mybully:val:363,val,celaka betul la rhb ni ingat seronok ke key in token byk kali lepastu nak log in balik dh kene tggu,anger,ms,Anger,Negative,Yes,Yes,manual,363
+mybully:val:364,val,penat bila semua benda nampak macam kau bodoh,anger,ms,Anger,Negative,Yes,Yes,manual,364
+mybully:val:365,val,"seorang doktor pakar perubatan dipanggil untuk memberi keterangan mengenai kehilangan suaminya pihak polis menemui jalan buntu selepas anjing pengesan gagal mengesan klu keberadaan mangsa di kawasan kejadian tersebut baca juga pertemuan terakhir tak dijangka, mayat wanita florida ditemui",neutral,ms,Neutral,Neutral,No,No,manual,365
+mybully:val:366,val,"tipu je nak kerja tanak kawen, lelaki jahat",anger,ms,Anger,Negative,Yes,Yes,manual,366
+mybully:val:367,val,yourrneyyyy ihsanudina bwf score no nomas pair jgk bagus mainplacing lawa and also x buat sngt mistake dan diorang slalu main flat so thats why japan nampak trtekan and keeping buat mistakes sbb japan player tinggi main falt drive akan bgi kelebihan kpd pair yg lebih pendek,neutral,ms,Neutral,Neutral,No,No,manual,367
+mybully:val:368,val,"@michaeldickson negara zionis haram jadah tu dah bunuh lebih ramai penduduk palestin dari awal adanya negara tu sampai sekarang lah bingai. bak kata aa, pokemakrkkkk! barua punya penjajah",anger,ms,Anger,Negative,Yes,Yes,manual,368
+mybully:val:369,val,ketua darjat celaka sungguhrakyat berjam jam tersangkut dlm jempenyamun siap dpt escort polis lagi,anger,ms,Anger,Negative,Yes,Yes,manual,369
+mybully:val:370,val,limweijiet lu bodoh mcm kit siangnjing dap,anger,ms,Anger,Negative,Yes,Yes,manual,370
+mybully:val:371,val,amende sial nak beli malu kot tu yang mencuri kot minta lah syarikat kondom kerjasama dengan syarikat kerepek kentang masukan kondom dalam plastic kerepek rugi jer ruang besar tapi isi kurang dapat jimat sikit packing dia,neutral,ms,Neutral,Neutral,No,No,manual,371
+mybully:val:372,val,okay lah sedap takde la wow gila but sedap je tco kkaf bemj tco wsrofrb gm,neutral,ms,Neutral,Neutral,No,No,manual,372
+mybully:val:373,val,mkini bm takkan laaa nnt nampak lembab sangat agensi yg sepatutnya tu,neutral,ms,Neutral,Negative,No,No,manual,373
+mybully:val:374,val,f izalhassan arwah tu anak org amp adik kakak org kalau dsbbkn brg khayal mmg celaka kembali lah kpd agama jgn tgglkn yg asas nauzubillahminzalik,sadness,ms,Sadness,Negative,Yes,Yes,manual,374
+mybully:val:375,val,"negara ni lawak la, polis st reaponder punya la banyak berkumpul, sorang pun xdak terniat nak assault school shooter tu, depa rilek ja biaq dia up killcount diagila babi tco v h oyruav",anger,ms,Anger,Negative,Yes,Yes,manual,375
+mybully:val:376,val,celaka dia punya plot twist  ,surprise,ms,Surprise,Negative,No,No,manual,376
+mybully:val:377,val,"walaupun baru ep , saya bagi hehheheghs best gila tco bz nnqnpiz",joy,ms,Happiness,Positive,No,No,manual,377
+mybully:val:378,val,@narchillable makin lama makin bodoh soklan,anger,ms,Anger,Negative,Yes,No,manual,378
+mybully:val:379,val,ceddyornot member i tegur bawah mata i hitam kena do something katanya pun i sentap teruk i struggle nak sleep every night she never knew that,sadness,ms,Sadness,Negative,No,No,manual,379
+mybully:val:380,val,lain kali kalau xleh org tanya kerja apa kau jangan balik kampung la anjing kau pegi bergaul dgn anjing liar sana bodoh,anger,ms,Anger,Negative,Yes,Yes,manual,380
+mybully:val:381,val,fortwic alifafiq radtoyo mygaminglyfe isqandar salleh sebab tommy thomas bodoh tu lah malaysia kena saman buta buta takda bantahan dan lawan balik bacul,anger,ms,Anger,Negative,Yes,Yes,manual,381
+mybully:val:382,val,macam mana si bodoh @manutd ni boleh kena bantai 7-0 haritu ??? memalukan je,anger,ms,Anger,Negative,Yes,Yes,manual,382
+mybully:val:383,val,ginidehput marah paling jahat,anger,ms,Anger,Negative,Yes,Yes,manual,383
+mybully:val:384,val,"matilahhukumnya pastu play victim, ahahah elok mati jelah",anger,ms,Anger,Negative,Yes,Yes,manual,384
+mybully:val:385,val,"searozki pssi ga usah pake anjing dong bos, itu yang dia bawa nama indonesia lho, ya wajar kalo kecewa",anger,ms,Anger,Negative,Yes,Yes,manual,385
+mybully:val:386,val,android ak cie fans babi brizik stress ni pengem babget chaos tco ymnntdax w,anger,ms,Anger,Negative,Yes,Yes,manual,386
+mybully:val:388,val,gila sleeper train punya ticket sold out sampai next year member stress dah gigih click tiap minggu nak cari slot kosong tapi takdeeee hahahaha,anger,ms,Anger,Negative,No,No,manual,388
+mybully:val:389,val,"pendek, kalau tengok proportion body memang nampak jelas tom holland yang cm pon orang kata pendek cm keatas baru okay tco v a wwkgzq",neutral,ms,Neutral,Neutral,No,No,manual,389
+mybully:val:390,val,kira lebih cerdik drpd najib syed saddiq lah ni sbb tak dpt trace asal duit drpd sumber haram,anger,ms,Anger,Negative,Yes,Yes,manual,390
+mybully:val:391,val,ibugenit blh ke tngk dlm tanpa seluar pendek,neutral,ms,Neutral,Neutral,No,No,manual,391
+mybully:val:392,val,bodoh salah ni,anger,ms,Anger,Negative,Yes,Yes,manual,392
+mybully:val:393,val,"jadual waktu solat harian bagi temerloh, jerantut, maran, bera, chenor, jengka selasa julai zulhijjah h imsak pg subuh pg syuruk pg zuhur ptg asar ptg maghrib mlm isyak mlm nota hari tasyrik haram puasa",neutral,ms,Neutral,Neutral,No,No,manual,393
+mybully:val:394,val,alleefashraf zar f sial punya budak honda,anger,ms,Anger,Negative,Yes,Yes,manual,394
+mybully:val:395,val,"@nendisu43 @ab_008_ @kayanaduris @puspen_tni @tni_ad @kodam1bb @alphabravo97_ akh, males argumen ama pendukung anus baswedan, emang bodoh dari asal nya... kalo berotak gk mungkin dukung anus!!",anger,ms,Anger,Negative,Yes,No,manual,395
+mybully:val:396,val,"aku dngn someone sometimes i questioned god, why create this same sex interest only for it to be prohibited, haram i pon taknak la jadi gay kalau hanya pura , but i m not pura gay dari kecik mmg tertarik kat lelaki nak buat mcm mana sometimes boleh depress bila fikir",sadness,ms,Sadness,Negative,No,No,manual,396
+mybully:val:397,val,@alifnajmiez ini celaka ,anger,ms,Anger,Negative,Yes,Yes,manual,397
+mybully:val:398,val,"danieleskay they ll still oppose it coz it s haram and all that, won t they",neutral,ms,Neutral,Neutral,No,No,manual,398
+mybully:val:399,val,"akmalbukowski sultan mana yang function jaga rakyat deme cer kabor ke teman deme bersuara kalau rakyat lawan istana je, kalau bab politik duit mana ada deme kisah pon selagi tak lawan istana, bisu ler mulut deme tak caye cer buat ramai pakai baju hitam dok depan istana",anger,ms,Anger,Negative,Yes,Yes,manual,399
+mybully:val:400,val,penyatuan bangsa serumpun apa salahnya haram atas dunia je haha,neutral,ms,Neutral,Neutral,No,No,manual,400
+mybully:val:401,val,"bila rasa moody, ustaz ajar sebut astaghfirullah kerana dengannya akan gugur titik hitam di hati, lantas meringankan lebihan beban di hati",joy,ms,Happiness,Positive,No,No,manual,401
+mybully:val:402,val,"aku pernah jumpa cheap skate tapi nak jugak minum ayaq kayangan dia tipu register dkt starbucks, tiap bulan hari lahir dia m so dia dapat lah rewards sebulan sekali hahaha dia cerita dkt aku mcm diri dia ni pandai la, aku dalam hati haram la ngok",disgust,ms,Disgust,Negative,Yes,No,manual,402
+mybully:val:403,val,"cina kamu bodoh macam babi 
+ic passport",anger,ms,Anger,Negative,Yes,Yes,manual,403
+mybully:val:404,val,semua anggota polis kontinjen perak diberi amaran supaya tidak terlibat dengan kegiatan melindungi aktiviti haram khususnya penyeludupan pendatang tanpa izin dari sempadan negeri itu ketua polis perak tco taruvnjs a,anger,ms,Anger,Negative,Yes,Yes,manual,404
+mybully:val:405,val,"yang kat fb najib razak org yang komen semua tu memang lahir bodoh belaka ke mangkuk tak pernah faham bahasa inggeris kalau si sial negara tu kata taik dia nyaman, terus percaya juga puak tersebut no wonder we are plunging into destruction",anger,ms,Anger,Negative,Yes,Yes,manual,405
+mybully:val:406,val,"iiimcham if dabbe tok iya more to ilmu hitam sis, and utai disebut cda dlm bhasa turki nyk ngutik maiii aku alu blur meda lampu tiba off lps hbis crita nyak, and lampu tv gk on crita cina incantation nyak bgik ku boring",neutral,ms,Neutral,Neutral,No,No,manual,406
+mybully:val:407,val,"kalau dah urgent, boleh je terus g klinik/hospital. tu kalau orang ada akal lah. kalau orang bodoh dia tanya dkt sini dulu  ",anger,ms,Anger,Negative,Yes,Yes,manual,407
+mybully:val:408,val,bok sedar banyak baju haram daripada baju office,neutral,ms,Neutral,Negative,No,No,manual,408
+mybully:val:409,val,balik u je line macam haram,anger,ms,Anger,Negative,No,No,manual,409
+mybully:val:410,val,"chepahkamaludin tanpa jawatan, kita tak ada authority utk mengubah atau mewujudkan dasar baru utk majukan negara org nak jawatan bukan sbb gila jawatan, tapi ia satu nya alat utk kita buat perubahan tersebut like it or not, itulah hakikatnya",neutral,ms,Neutral,Neutral,No,No,manual,410
+mybully:val:411,val,"fck la org td, bukannya nk tlg, tp gi ajk borak mcm babi hanat, org bru lps excident dia boleh bwk ajak borak smbil gelak kau ingt apa bangang kelakar ke sial tgk org excident babi bodoh",anger,ms,Anger,Negative,Yes,Yes,manual,411
+mybully:val:412,val,@whiterose_chani lahhhhhh  dorang ingat idols ni selamanya jadi hak milik dorang ke  k fans ni cakap bodoh kang marah,anger,ms,Anger,Negative,Yes,Yes,manual,412
+mybully:val:413,val,dabbe ni boleh pakai tajuk munafik kawan makan kawan pura nak ubat kan tapi dia yg setan,anger,ms,Anger,Negative,Yes,Yes,manual,413
+mybully:val:414,val,txtdrberseragam tentara harus hitam,neutral,ms,Neutral,Neutral,No,No,manual,414
+mybully:val:415,val,"whohanii ikutla dieudedrogue tp aku rasa mention negeri x perlu kot, lebih kurang je nmpk bodoh dia",anger,ms,Anger,Negative,Yes,Yes,manual,415
+mybully:val:416,val,"natang fabinho van dijk ni bodoh ke apa main kasar jugak friendly, player man utd takde pun buat challenge sampai nak injuredkan babi",anger,ms,Anger,Negative,Yes,Yes,manual,416
+mybully:val:417,val,pbt tembak lupus tu keje diorg ke suka org awam bunuh seksa binatang bleh kene dakwa,anger,ms,Anger,Negative,Yes,Yes,manual,417
+mybully:val:418,val,atiqahanapiah jahat weyh aku baca komen hahahahahapedassss,anger,ms,Anger,Negative,Yes,Yes,manual,418
+mybully:val:419,val,satu lagi hal shopee express dari parcel tak bergerak gerak nak refund karang ke main lama tunggu dah la refund aku shopee ni lembab nak bayar very bad experience shopping with shopee shopeemy,anger,ms,Anger,Negative,No,No,manual,419
+mybully:val:420,val,nak mati,sadness,ms,Sadness,Negative,No,No,manual,420
+mybully:val:421,val,"bila orang kata yang kerja kerajaan ni kebanyakkannya lembab dlm berfikir dan buat kerja, sure kena hentam tapi bila terlalu banyak sangat contoh sedia ada yang menjadi seperti itu, nak kata apa",anger,ms,Anger,Negative,No,No,manual,421
+mybully:val:422,val,@inderasakti_kl @hazhmh really celaka on them,anger,ms,Anger,Negative,Yes,Yes,manual,422
+mybully:val:423,val,aku main fon pun nak sial kan aku dasar gemuk biadap,anger,ms,Anger,Negative,Yes,Yes,manual,423
+mybully:val:424,val,setan mana boleh kenakan golongan sendiri tco o w jtqnwb,neutral,ms,Neutral,Neutral,No,No,manual,424
+mybully:val:426,val,sakit tengkuk sebab headrest tinggi tapi kita pendek,disgust,ms,Disgust,Negative,No,No,manual,426
+mybully:val:427,val,@israel celaka lah israel,anger,ms,Anger,Negative,Yes,Yes,manual,427
+mybully:val:428,val,"kok cuma hti amp fpi saja bagai mana dengan pki kurawa barangkali karena kau keturunan pki , maka pki tdk perlu di kutuk memang para anjing pki selalu berkamuflase sepertinya kalian buzzerp jahanam cuma di bayar untuk menyerang aniesbaswedan saja tco zp q gecw",anger,ms,Anger,Negative,Yes,Yes,manual,428
+mybully:val:429,val,lah sial,anger,ms,Anger,Negative,Yes,Yes,manual,429
+mybully:val:430,val,"kat kebun aku pun ada sekor anjing, kami duk bagi makan dia baik je jaga follow kami time pergi kat pokok siap bg nama boby lagi paggil je boby dia duk jauh tengok lari dtg kat kami kalau ada org luar masuk dlm kebun dr jauh lagi dia dah menyalak bg tau ada org dtg tco jkp vd c",joy,ms,Happiness,Positive,No,No,manual,430
+mybully:val:431,val,"@jllmisai yeeeee bodoh betul perangai,, 3 freaking years kot budak tu hadap, yang kata lari ikut boyfriend tu, gi la minta maaf kat budak tu.",anger,ms,Anger,Negative,Yes,Yes,manual,431
+mybully:val:432,val,khuframl ya allah nk cari la cite tujust now kawan i baru bg kata semangat suh i byakkn kumpul amalan supaya senang kt sana nantisbb impian nk mati kan so based on impian kene ada usaha,neutral,ms,Neutral,Neutral,No,No,manual,432
+mybully:val:433,val,ainathirh kalau rambut uban tu kaler putih kira jahat jugak la kan oh oh hitam pun kaler juga kan,neutral,ms,Neutral,Neutral,No,No,manual,433
+mybully:val:434,val,"ni sebab sampah affiliate link tu je tengah syok baca dia selit link, perangai macam sial tco s ejclzuj",anger,ms,Anger,Negative,Yes,Yes,manual,434
+mybully:val:435,val,byzulfadhlizin of course hitam ahaks,neutral,ms,Neutral,Neutral,No,No,manual,435
+mybully:val:436,val,cepat sikit habeh period ni lain macam dh terasa ni haram betui,anger,ms,Anger,Negative,No,No,manual,436
+mybully:val:437,val,mkhairulazri ajk pon taktahu halal haram ke gila dasyat ye masing masing,disgust,ms,Disgust,Negative,No,No,manual,437
+mybully:val:438,val,"nadiazaman lepastuh masa buat umrah kedua, sedang tawaf i dah dekat depan sebab ikut buku my parents tawaf ikut niat dia je so dah terlepas jauh, habis je umrah kali kedua alhamdulilah allah bantu, i sorang keluar masjid al haram yang besar tuh jumpa my parents dkt lobby makan",joy,ms,Happiness,Positive,No,No,manual,438
+mybully:val:439,val,"aku mimpi yang all of my family salahkan aku dengan apa yang jadi dekat dorang time tu pegh gila tak menangis aku, last last aku masuk bilik air and the first word yang keluar dari mulut aku ialah abah babi betullah mimpi tadi",sadness,ms,Sadness,Negative,Yes,No,manual,439
+mybully:val:440,val,"antara cabaran yg sering diluah dan dari pemerhatian oleh para guru hadapi adalah krisis akhlak pada zaman ni segelintir murid tidak lg nakal tetapi menjadi jahat dgn samseng, merokok, dan tak tahu malu and batas dalam pergaulan",anger,ms,Anger,Negative,No,No,manual,440
+mybully:val:441,val,"tak puas cuti huhuhu, tak sampai jam kat office dah ngantuk",sadness,ms,Sadness,Negative,No,No,manual,441
+mybully:val:442,val,i could never handle orang kaya bodoh sombong anymore. nak nangis sebab tak dapat baling kerusi dekat dia!,anger,ms,Anger,Negative,Yes,Yes,manual,442
+mybully:val:443,val,afiq hans sedap gila mat,joy,ms,Happiness,Positive,No,No,manual,443
+mybully:val:444,val,bila aku tolong siapkan laju je setan ni jawab,anger,ms,Anger,Negative,Yes,Yes,manual,444
+mybully:val:445,val,spirit aku biarkan bangsa nusantara haramjadah lu tahu lambang siapa yang lu sudah buat sial tco k o me t k,anger,ms,Anger,Negative,Yes,Yes,manual,445
+mybully:val:446,val,@_mbaksri_ emang anjing!!!!,anger,ms,Anger,Negative,Yes,Yes,manual,446
+mybully:val:447,val,mimpi paling gila aku gi bunuh member sendiri sorry do kawan,sadness,ms,Sadness,Negative,No,No,manual,447
+mybully:val:448,val,fathilamasroni aku suka la kaler coklat hitam gitu sebab dulu kan feeling gothic guna inai rambut tu la aku buat tapi haihhh bila pakai berbelak macam taik lembu je stress aku,disgust,ms,Disgust,Negative,No,No,manual,448
+mybully:val:449,val,babibana asu awas mas fand babi brizik ngamukan,anger,ms,Anger,Negative,Yes,Yes,manual,449
+mybully:val:450,val,i tengah takde mood pastu g potong rambut pastu terpotong pendek sebelah,sadness,ms,Sadness,Negative,No,No,manual,450
+mybully:val:451,val,"kali ni aku betul rasa suck nak mati, sumpah kau boleh pergi mati",sadness,ms,Sadness,Negative,No,No,manual,451
+mybully:val:452,val,"lepas bagi, aku dgn ilyas jalan la nak masuk masjid pusing belakang, budak tu dah takdak laju betoii, mungkin nak beli makanan kot dah sampai pintu besaq masjid haram tu, aku bawak masuk tangan dalam poket jubah aku rasa ada duit",neutral,ms,Neutral,Neutral,No,No,manual,452
+mybully:val:453,val,sape boleh tak hentak muka dia sekali gila babi punya bodoh amp annoying dalam kopiah penuh tahi anjing tco h mlgbsw,anger,ms,Anger,Negative,Yes,Yes,manual,453
+mybully:val:454,val,@mkini_bm bodoh dan pura pura pandai,anger,ms,Anger,Negative,Yes,No,manual,454
+mybully:val:455,val,"@encikdoomex @umonline kamu ni kenapa bodoh sangat ya? kalau betul kawan lelaki tu nak rogol jugak, takde maknanya dia nak tolong pergi buat repot polis. benak tu simpan la. lagi satu, ingat senang ke nak larikan diri dari rumah? terlampau benak",anger,ms,Anger,Negative,Yes,Yes,manual,455
+mybully:val:456,val,gasak korang la aku selaku pencinta kucing ttp ckp memakan kucing sbgai kejam ade haiwan dicipta sbg sumber makanan manusia dan ada untuk berdamping dgn manusia kucing anjing idup kucing jahanam sume pendatang pemakan haiwan belaan ni,neutral,ms,Neutral,Neutral,Yes,Yes,manual,456
+mybully:val:457,val,"gagituyan yg hadir dalam hidup kita ngk semuanya bisa kita miliki, itu smua cuma titipan, ntah itu dalam jangka pendek ataupun jangka panjang",neutral,ms,Neutral,Neutral,No,No,manual,457
+mybully:val:458,val,"suicidal people ni kurang ilmu agama and tak percaya tuhan ironically, everytime i nak mati as in bunuh diri, i akan witnessed kebesaran tuhan",sadness,ms,Sadness,Negative,No,No,manual,458
+mybully:val:459,val,baik aku jd jahat sbb semua manusia menyakit hati aku,anger,ms,Anger,Negative,Yes,Yes,manual,459
+mybully:val:460,val,@raylucious85_ @callsigmaverick @mynewshub @jjcmperak @perakfood @azdn_twider @vandeeta3 @harto_man @zul_yb @andcav4 @hrhjohorii johor punya la aman damai skang ni. benda lama gak kau nak tanya. kenapa? setan dah kene gari pon kau berperangai cam setan,anger,ms,Anger,Negative,Yes,Yes,manual,460
+mybully:val:461,val,"attendance allowance dari rm tinggal rm je teruk sangat dah ni rm mat melayang macam tu je bulan ni je dah kali langgar jadual sepatutnya masuk , aq bangang masuk bodoh betullah perbaiki diri",anger,ms,Anger,Negative,Yes,No,manual,461
+mybully:val:462,val,kadang rasa bodoh bila diri ni macam ni ,sadness,ms,Sadness,Negative,No,No,manual,462
+mybully:val:463,val,mmg celaka jenis yang dah comment ajak debate pastu kita tak boleh nak mention dia,anger,ms,Anger,Negative,Yes,Yes,manual,463
+mybully:val:464,val,r biatull cara diaorng pandang like we miskin gila nakmampus,anger,ms,Anger,Negative,Yes,Yes,manual,464
+mybully:val:465,val,duit wifi sebulan pun nak sakau miskin level apa sial dia ni,anger,ms,Anger,Negative,Yes,Yes,manual,465
+mybully:val:466,val,memang style org pakai inai kaler hitam ke skrg,neutral,ms,Neutral,Neutral,No,No,manual,466
+mybully:val:467,val,ya ampun haritu kfc kamunting problem ni dominos dia lagi jahanam babi anjing duit aku setan,anger,ms,Anger,Negative,Yes,Yes,manual,467
+mybully:val:468,val,yg sebar video kenapa tak tangkap?: ni kalau besok mak bapak dia orang tgh kongkek pun confirm dia orang akan skodeng dan viral kan mak bapak dia orang. bangsat. dah niat tu nampak nak perhatian gain followers. celaka hypocrite. bulan puasa bukak aib orang cam tu kat online.   ,anger,ms,Anger,Negative,Yes,Yes,manual,468
+mybully:val:469,val,"rasa lucky gila keluarkan saving insurans time pkp haritu sekarang funds semua menjunam turun anda ada insurans tapi tak pernah check saving dalam tu ada berapa lemahhh , contact ur agents now",neutral,ms,Neutral,Neutral,No,No,manual,469
+mybully:val:470,val,aku penat la dengan mala on yang bawak kereta lembab nak mampos macam siput ni,anger,ms,Anger,Negative,Yes,Yes,manual,470
+mybully:val:471,val,eyebrow mcm makin hitam lekak di shave ariya tumbuh baru alu nampak nya wujud before tok kedak alien x ber eyebrow p s nang gia rupa eyeliner dah pkl brapa dah tok tco m nyq r xa,neutral,ms,Neutral,Neutral,No,No,manual,471
+mybully:val:472,val,hrs trafik perlahan dari pagoh ke ayer hitam sila rancang perjalanan andapandu berhati hati harap maklum llminfotrafik,neutral,ms,Neutral,Neutral,No,No,manual,472
+mybully:val:473,val,done tengok mat kilau jalan cerita okay cuma predictable watak yang akan mati,neutral,ms,Neutral,Neutral,No,No,manual,473
+mybully:val:474,val,pihak berwenang tunisia memukuli penumpang kulit hitam asal afrika dalam kerusuhan menentang rasisme tco ngnfa dbvl,anger,ms,Anger,Negative,No,Yes,manual,474
+mybully:val:475,val,last penalty dah miss pi bagi lagi dia amik. bodoh punya salah.,anger,ms,Anger,Negative,Yes,Yes,manual,475
+mybully:val:476,val,"hmetromy spore yg begitu ketat pun, ada yang berani buat kerja setan bayangkan kita dgn begitu banyak lubang tanpa hukuman mati bg yg berlayak",anger,ms,Anger,Negative,No,Yes,manual,476
+mybully:val:477,val,anjing,anger,ms,Anger,Negative,Yes,Yes,manual,477
+mybully:val:478,val,sampah babi darwin,disgust,ms,Disgust,Negative,Yes,Yes,manual,478
+mybully:val:479,val,diantara sesuatu yang dapat menghalangi ibadah dunia nafsu makhluk setan dikutip dari pendapat imam al ghazali dalam kitab minhajul abidin barakallah,neutral,ms,Neutral,Neutral,No,No,manual,479
+mybully:val:481,val,"tokey musang king punya tamak, aku yang kena berangkut ayaq pagi pagi buta celaka lionel nusi dan kroni musang king baling",anger,ms,Anger,Negative,Yes,Yes,manual,481
+mybully:val:482,val,"apa masalah dgn musang king tu, sedap apa yg masalah teroka haram musang king ka, kelapa sawit ka, ketum kaaa, selagi tanah sendiri lantak laaaaa",neutral,ms,Neutral,Neutral,No,No,manual,482
+mybully:val:483,val,"kasus penembakan ini dipicu cekcok mulut antara abd dan abang kandung affuadi penyebabnya anjing milik abd kerap menjilat timba di gubuk keluarga affuadi, dekat kebun abd tco jwl qxqdkg acehkini tco mekogbvp f",anger,ms,Anger,Negative,Yes,Yes,manual,483
+mybully:val:484,val,hermyrahim siap ada lampu celaka aku mula dh sedih tau skali begitu je sial dia kelong anjit,sadness,ms,Sadness,Negative,Yes,Yes,manual,484
+mybully:val:485,val,xhaka ni always acah acah buff. kau main lowkey jela and get the win. bodoh sial nak acah acah. sekali erupts anfield tu. bingai tak bertempat kau ni  ,anger,ms,Anger,Negative,Yes,Yes,manual,485
+mybully:val:486,val,"semua sebab nak buat money laundering punya pasal aku harap mastermind tu semua melingkup dekat akhirat nanti, muda lagi umur baru an perangai macam setan nak dakwa tak boleh sebab kabel politik kuat tak guna tco xodmihx to",anger,ms,Anger,Negative,Yes,Yes,manual,486
+mybully:val:487,val,jsdeyz alisyarief oalah seblas duablas pks nidah lah milih golkar aja skalian setan setan dah,anger,ms,Anger,Negative,Yes,Yes,manual,487
+mybully:val:488,val,"bisa ga ya tuhan langsung matiin aja orang yang suka ngeluh pengen mati gitu, ntar jatah umurnya dikasih ke orang yang udah di neraka yang bener bener nyesel bener bener pengen tobat gitu",anger,ms,Anger,Negative,Yes,Yes,manual,488
+mybully:val:489,val,bibleyybiu jejemols aku suka oreo yg kecilll mini cup tpi jujur mkn orea biskuit nya suka nyangkut di gigi wrna nta hitam pula apa gk malu,neutral,ms,Neutral,Neutral,No,No,manual,489
+mybully:val:490,val,celaka terasa betul harga barang mahal beli barang dapaur tadi dah terfikir nak cari besi buruk tepi jalan pastu jual dah ni,anger,ms,Anger,Negative,No,No,manual,490
+mybully:val:491,val,qurratulain gila tak benci aku terus putus selera bila ada orang tabur sprinkles dalam pencuci mulut aku,disgust,ms,Disgust,Negative,No,No,manual,491
+mybully:val:492,val,"sgt kickass everdania haknat pasal menteri ko diam babi ganja, keluarga ko yang ntah ntah undi ph buat ketidakstabilan politic begini setan",anger,ms,Anger,Negative,Yes,Yes,manual,492
+mybully:val:493,val,gila punya penat aku tido dari pukul sampai skrg,neutral,ms,Neutral,Neutral,No,No,manual,493
+mybully:val:495,val,"bhhiburan pelakon veteran sangkal tuduhan lakukan perbuatan syirik, panas baran tco nj qeeimgx",neutral,ms,Neutral,Neutral,No,No,manual,495
+mybully:val:496,val,@bn4evertn5o memang celaka penipu tahap pukimak.,anger,ms,Anger,Negative,Yes,Yes,manual,496
+mybully:val:497,val,celaka punya mak sanngup biarkan anak dia terus dirogol bapa tiri .. apa punya mak ni  ,disgust,ms,Disgust,Negative,Yes,Yes,manual,497
+mybully:val:498,val,i need to post more dance tiktok videos bcs my clients asked me to hahaha cringe babi selalunya buat berdua ke apa ni sorang sorang,surprise,ms,Surprise,Neutral,No,No,manual,498
+mybully:val:499,val,aliashazana celaka punya jawapan,anger,ms,Anger,Negative,Yes,Yes,manual,499
+mybully:val:500,val,rasa nak goncang goncang hafizhamidun saya hiks tp boifren i tk pendek dia tinggi setinggi saya tco ifwuua i r,joy,ms,Happiness,Positive,No,No,manual,500
+mybully:val:501,val,"@dausgonia bikin puasa aing ga dapet pahala aja nih bangsat. 
+
+cuman dapet lapar dan dahaga",sadness,ms,Sadness,Negative,Yes,Yes,manual,501
+mybully:val:502,val,@fmtoday bodoh... mcm belum kena dah menanggis ! main persepsi sepanjang masa.,anger,ms,Anger,Negative,Yes,Yes,manual,502
+mybully:val:503,val,kosmo online dasar liberal bendera hitam,anger,ms,Anger,Negative,Yes,Yes,manual,503
+mybully:val:504,val,ada mcd laaa depan masjidil haram tu tapi dia dpt burger tiba tu mmg rezeki laa tco dsoysrfmay,neutral,ms,Neutral,Neutral,No,No,manual,504
+mybully:val:505,val,member aku pulak dia ni takde la jahat sangat dia pandai tau baca al fatihah haa sukati engko la tco wrjmkxzcqt,neutral,ms,Neutral,Neutral,No,No,manual,505
+mybully:val:506,val,bila tgok history acc ya ampun rasa cam dah berapa byk gila membazir,disgust,ms,Disgust,Negative,No,No,manual,506
+mybully:val:507,val,haram masuk stadium bercampur dgn bukan muhrim tgk aurat lelaki punca maksiat,anger,ms,Anger,Negative,Yes,Yes,manual,507
+mybully:val:508,val,"@limkitsiang lu diam lahbodoh..cukuplah lu sama anak beranak lu kencing rakyat malaysia..nak jd kerajaan punya pasal,sanggup pulak cium penyamun dan   takda maruah langsung lah bodoh.",anger,ms,Anger,Negative,Yes,Yes,manual,508
+mybully:val:509,val,"@hausofhilton my only problems with bazaar is when people park macam haram  n cause traffic jam. this problem is not limited to race. other than that, we all should enjoy bazaar together",neutral,ms,Neutral,Neutral,No,No,manual,509
+mybully:val:510,val,askrapidkl theonlyaryanna sampai bila awak nak jadi punca kami lewat ke kerja sebab awak tak faham masalah ni dah tahap bodoh tak boleh pulih,anger,ms,Anger,Negative,Yes,Yes,manual,510
+mybully:val:511,val,mencabar kesabaran gue bangsat anjing mati aja lo,anger,ms,Anger,Negative,Yes,Yes,manual,511
+mybully:val:512,val,keluarkan xhaka la bodoh,anger,ms,Anger,Negative,Yes,Yes,manual,512
+mybully:val:513,val,"yang ni aku buat, lembab nak mampus, perhati hujung sana dah settle lama, brader korperal bersara buat kerja clean dan cepat lepas tu dia ajar aku cara asah pisau dengan betul tco uv vyyss",neutral,ms,Neutral,Neutral,No,No,manual,513
+mybully:val:514,val,lembu ditemukan mati di kampung sungai lekar tco u m pk pp tco rul qri nr,neutral,ms,Neutral,Neutral,No,No,manual,514
+mybully:val:515,val,babi tak best langsung dah biji klau biji fabinho main ada laa benda nk di banggakan,anger,ms,Anger,Negative,Yes,Yes,manual,515
+mybully:val:516,val,ilmu hitam manis kihkih oh so if it is lagging already lol that it s something else to hear from it definitely not sure abt it with,neutral,ms,Neutral,Neutral,No,No,manual,516
+mybully:val:517,val,yg namanya juanda kek anjing,disgust,ms,Disgust,Negative,Yes,Yes,manual,517
+mybully:val:518,val,"unrelated. a week ago, i was astounded to see the level of harassment junior drs were facing during my  dentist trip. not disclosing the place. 'bodoh' 'celaka' 'kepala otak' 'babi' and more were shouted at them. then, they were gaslighted as 'koyak' and whatnot.  ",disgust,ms,Disgust,Negative,Yes,Yes,manual,518
+mybully:val:519,val,@fara_fiqa92 laaa bertanya pun kau interpret tak cerdik? mak kau lahir kan kau terus pandai menaip ke bangsat?,anger,ms,Anger,Negative,Yes,Yes,manual,519
+mybully:val:520,val,"orang tengah gaduh pun boleh try jugak, kalau berani la",neutral,ms,Neutral,Neutral,No,No,manual,520
+mybully:val:521,val,"callmehafidz bagihumor antara kasihan tapi ngabrut juga liatnya ,ya allah abg nya pasti amnesia jangka pendek setelah di kungfu sapi",neutral,ms,Neutral,Neutral,No,No,manual,521
+mybully:val:522,val,wahkerensih wkwkwk birahi kali padahal belum musim kawin soalnya anjing disekitar rumahku belum menunjukkan tanda yang signifikan,neutral,ms,Neutral,Neutral,No,No,manual,522
+mybully:val:523,val,fed up dengan drama bodoh ni tapi tetap nak tengok ending dia cemana nanti dendamseorangisteri,anger,ms,Anger,Negative,No,No,manual,523
+mybully:val:524,val,@buletintv3 anak kau ni menyusahkan la sial dasar sakau perompak tak sedar diri dah miskin terhegeh nak curi minyak org lain apo bangsat ko ni tak reti jaga anak ke? @hamzahzainudin_,anger,ms,Anger,Negative,Yes,Yes,manual,524
+mybully:val:525,val,najib tak pernah bodoh penyokong pun sama tco obozsnktzm,neutral,ms,Neutral,Neutral,No,No,manual,525
+mybully:val:526,val,dia ni dah tua tau kulit takkedut suci bersih apa bi setan aku kena hirup sup kimci tetiap hari ke anjing tco dpese krvr,disgust,ms,Disgust,Negative,Yes,Yes,manual,526
+mybully:val:527,val,kedai ni kecik la sial kau dtg makan ramai menyembang macam dalam club bingit la babi telinga hilang mood nak makan sial,anger,ms,Anger,Negative,Yes,Yes,manual,527
+mybully:val:528,val,goal lagi power babi junior menyu main,anger,ms,Anger,Negative,Yes,Yes,manual,528
+mybully:val:529,val,nilawputrii komenan netijen pda jahat malah menghakimi si cewe ckckck,anger,ms,Anger,Negative,Yes,Yes,manual,529
+mybully:val:530,val,misscasiolrmy santeira sama kes mcm dulu left islam sbb nak pakai seluar pendek dan singlet pasar malam they all really risk the infinity hellfire for petty excuses i cant,sadness,ms,Sadness,Negative,Yes,Yes,manual,530
+mybully:val:531,val,setan betul tergamak scam orang yang nak pergi haji yang pergi haji ni banyak yang dah berumur bertahun simpan duit tapi hilang macam tu je tco w gepdykvm,anger,ms,Anger,Negative,Yes,Yes,manual,531
+mybully:val:532,val,scam ni masih wujud lagiini betul penunggang agama weicelaka punya travel agent tco vy kox xi,anger,ms,Anger,Negative,Yes,Yes,manual,532
+mybully:val:533,val,"hiwealthasia pendek cerita , bankerjagabanker",neutral,ms,Neutral,Neutral,No,No,manual,533
+mybully:val:534,val,"kuala nerus sebanyak ekor lembu ditemui mati dan sudah berulat dipercayai dibuang oleh pihak yang tidak bertanggungjawab di sebuah kawasan terbiar di kampung sungai lekar, hari ini mohd shafiq ambak bernama tco rwxqiat n",disgust,ms,Disgust,Negative,No,No,manual,534
+mybully:val:535,val,prediksi togel singapore pohon d juli ai cb amp d d shio monyet amp babi result togel singapore sebelumnya tutup result wib prediksitogel prediksisgp bocoransgp togelonline syairsgp livesg tco dhky h ubx,neutral,ms,Neutral,Neutral,No,No,manual,535
+mybully:val:536,val,ada orang dalam tu tipu la kalau takda mak bapak yang faham benda ni anak orang lain pun demam sial sebab anak kau,anger,ms,Anger,Negative,Yes,Yes,manual,536
+mybully:val:537,val,@inialalalannn si gemuk bodoh ingat omega itu jenama ?,anger,ms,Anger,Negative,Yes,Yes,manual,537
+mybully:val:538,val,"aunifatninn syamjrajee fareezazmann awani komen di bawah agak melampau yes scammer but jgn sebut gemuk, tak lawa etc ramai shj scammer yg kurus kering, muka handsome dan lawa, bentuk physical tiada kena mengena dengan perbuatan jahat sesiapa body shaming berdosa kita marahkan scammer but orang lain yg terasa",neutral,ms,Neutral,Neutral,No,No,manual,538
+mybully:val:539,val,nnabilaaaaa aku baca macam influenza a lah ramai gila skrng ni batuk ikarbertweet dia ada tweet lpas tu semua replies benda sama ada kemungkinan influenza nii,neutral,ms,Neutral,Neutral,No,No,manual,539
+mybully:val:540,val,masyarakatsoc when watching this never in my brain thought oww orang jahat berbangsa sikh i just think oww orang jahat,neutral,ms,Neutral,Neutral,No,No,manual,540
+mybully:val:541,val,@baayhaqi @tanyakanrl bangsat gw kira lukisan,anger,ms,Anger,Negative,Yes,Yes,manual,541
+mybully:val:542,val,lembab tco u xbhzewy,neutral,ms,Neutral,Negative,No,No,manual,542
+mybully:val:543,val,"connerylazenby they are based on what stated in quran but they do not have the right to speak it out as accusations nor judgement directly to the non muslim they should know that lahir islam, tak semestinya mati dalam islam lahir bukan islam, tak semestinya mati dalam bukan islam",neutral,ms,Neutral,Neutral,No,No,manual,543
+mybully:val:544,val,im bless with a patient manager on dutysome ah yg the rest sila mati,anger,ms,Anger,Negative,Yes,Yes,manual,544
+mybully:val:545,val,"untuk memimpin doa dan menyampaikan khutbah di masjid namirah pada hari arafah, jumaat julai ini jabatan tertinggi bagi hal ehwal masjidil haram dan masjid nabawi di arab saudi menerusi portalnya memaklumkan bahawa kerajaan arab saudi di bawah kepimpinan penjaga dua kota suci, raja salman",neutral,ms,Neutral,Neutral,No,No,manual,545
+mybully:val:546,val,"advantage orang pendek bila lawan, lower center of gravity so dia boleh angkat orang tu macam dalam vid ni menarik tco juuqiscaj",joy,ms,Happiness,Positive,No,No,manual,546
+mybully:val:547,val,"netizen yang menyifatkan dirinya sengaja mempersenda agama selain lapar perhatian apabila sanggup mencipta content bersama haiwan yang haram hukumnya dalam islam shima atau nama sebenarnya nur ashima ramli berkata, terpulang kepada mana mana pihak untuk melabelkannya dengan apa sahaja",anger,ms,Anger,Negative,Yes,Yes,manual,547
+mybully:val:548,val,"frustasi gila, sakit bgt semua badan gw mulai dari fungsi otak sampai jari kaki anjrit, baru sembuh w kemarin masa skr skit lagi bener sakit hei sy cmn bs menyampaikannya lewat cuitan smpe binggung mau mengadu dgn siapa tco mn nvlmdyn",sadness,ms,Sadness,Negative,No,No,manual,548
+mybully:val:549,val,si anjing membunuh manusia tco taguybgddv,anger,ms,Anger,Negative,Yes,Yes,manual,549
+mybully:val:550,val,"andikatirana mkhairulazri jangan salah faham, income dkt kampung jauh beza dgn pusat bandar ni bukan salah customer dgn worker salah kerajaan x revise salary utk hadap living cost dkt malaysia salary menteri dgn ajk je yang revise mana x celaka",anger,ms,Anger,Negative,Yes,Yes,manual,550
+mybully:val:551,val,"fakhrilzaidi haha takda tips sangat pun sebab mudah aja penjagaan dia yang penting letak bongkah cendawan di tempat yang tak kena direct sunlight, pastu make sure kondisi sentiasa lembab ni hasil salah satu bongkah cendawan kami haritu best tco v f v xwxf",joy,ms,Happiness,Positive,No,No,manual,551
+mybully:val:552,val,"menari dengan anjing, baby shima nafi persenda agama petaling jaya penyanyi dangdut sensasi, baby shima menafikan dakwaan netizen yang menyifatkan dirinya sengaja mempersenda agama selain lapar perhatian apabila sanggup mencipta content bersama haiwan yang haram hukumnya dalam islam",disgust,ms,Disgust,Negative,Yes,Yes,manual,552
+mybully:val:553,val,"mat kilau memang gempakk terbangkit rasa melayu yang kian hilang orang yang cakap mat kilau tak best ni confirm musuh isley yang sebenar, macam mana dia boleh cakap tak best kau buta ke apa babi haha",anger,ms,Anger,Negative,Yes,Yes,manual,553
+mybully:val:554,val,panji hitam al mahdi sesungguhnya adalah jet tempur hitam mimpimuhammadqasim muhammadqasimdreams tco bblizac i tco szzjgavj t tco ude fsyo,neutral,ms,Neutral,Neutral,No,No,manual,554
+mybully:val:555,val,astaghfirullahhhh kenapa takde siapa tegur hahdhweuwhsh siot la pergi share lagu dalam group family besar haram baru realise ya tuhannnn dahla lagu gabfsjsuahshshdjs ya allahhhhh tak boleh delete dah masalahnya ya allahh hsbfjsdhshf,anger,ms,Anger,Negative,No,No,manual,555
+mybully:val:556,val,"nama pun ustaz ustazah, mstilah ckp based on kpercayaan islam dlm islam klu anda kafir sehingga mati, mksudnya anda tidak meneroka agama yang betul sepanjang kehidupan anda sbb tu baik mcm mana pun, non muslim tetap msuk neraka semoga dperoleh hidayah tu lah kta org islam tco ye e lsev",anger,ms,Anger,Negative,Yes,Yes,manual,556
+mybully:val:557,val,"loneranger santeira tak perlu nak mengganas pun dek keji nya sifat kau suka keganasan dah tak boleh fikir solusi keamanan, semua masalah kena selesai dengan pembunuhan etc hitam nya hati kau",anger,ms,Anger,Negative,Yes,Yes,manual,557
+mybully:val:558,val,kamikeadilan agaknya lepas ni sekolah tu panggil si bainun setan pulak kotjahanam,anger,ms,Anger,Negative,Yes,Yes,manual,558
+mybully:val:559,val,"tak usah nak explain bagai la bang, kalau engko pun setakat baca skrip kat henpon jap, style zaman bila pakai spek hitam nak cover tu tco zt ntwgzfk",anger,ms,Anger,Negative,Yes,No,manual,559
+mybully:val:560,val,malik kena influenza sian dia gila dia tu dahlah selalu sakit pastu di bawaknya pergi jalan lagi masa tengah tak sihat penat la budak tu,sadness,ms,Sadness,Negative,No,No,manual,560
+mybully:val:561,val,"daging punya pasal, halal haram letak tepi tco re lsettya",neutral,ms,Neutral,Neutral,No,No,manual,561
+mybully:val:562,val,hafidsuherlan lofigirl youtubecreators youtube ajak kawan abang serang akaun fmc malaysia sekali saya kat malaysia nak dengar lagu lofi pon disekat macam sial,disgust,ms,Disgust,Negative,Yes,Yes,manual,562
+mybully:val:563,val,"republikaonline susah nangkepnya, lebih ke setan soalnya, bukan manusia",anger,ms,Anger,Negative,Yes,Yes,manual,563
+mybully:val:564,val,"@njzazh @_amirulafiq__ @hanbello_ hahaha paling mcm taknak amek port, tapi tetap nak cakap bodoh, sikit tak kacau dia ke mak bapak dia pun.",anger,ms,Anger,Negative,Yes,No,manual,564
+mybully:val:565,val,"well, tetap la bodoh sehingga kini",anger,ms,Anger,Negative,Yes,Yes,manual,565
+mybully:val:566,val,suspek tu dah la urine test sangkut pelik pelik sungguh perangai manusia,anger,ms,Anger,Negative,No,No,manual,566
+mybully:val:567,val,kat luar berangin macam nak hujan tp i punya berpeluh macam baru lepas lari kena kejar dengan anjing panasss,neutral,ms,Neutral,Neutral,No,No,manual,567
+mybully:val:568,val,mynewshub hakikat nye rakyat amat susah dan menteri ni x buat keje dan ahli politik celaka ni nk rebut kuasa apa lah nasib sila malaysia ni,anger,ms,Anger,Negative,Yes,Yes,manual,568
+mybully:val:569,val,beli dah vans hitam,neutral,ms,Neutral,Neutral,No,No,manual,569
+mybully:val:570,val,ahhh gila kerja baru ni hari ada test dgn quiz boleh naik mereng otak ni weyy,anger,ms,Anger,Negative,No,No,manual,570
+mybully:val:571,val,celaka betul!!!  ,anger,ms,Anger,Negative,No,Yes,manual,571
+mybully:val:572,val,bluejeans hitam iya kalau buka kacamata apewo,neutral,ms,Neutral,Neutral,No,No,manual,572
+mybully:val:573,val,woi ismailsabri umnoonline dah menang besar kat melaka dpt mandat masih x stabil ke apa celaka la korang punya sembang tco bognznl a,anger,ms,Anger,Negative,Yes,Yes,manual,573
+mybully:val:574,val,astaga rindu betul takkan itu pun jelmaan setan,surprise,ms,Surprise,Neutral,No,No,manual,574
+mybully:val:575,val,"engineering? sbb sumpah rasa bodoh gila bila masuk uni nii really wanna be engineer.. like nk kerja gaji byk2 and boleh upah org masak kt aq.. sbb nk hrapkan kahwin n ada suami yg provide, aq x rasa aq boleh dpt..",sadness,ms,Sadness,Negative,No,No,manual,575
+mybully:val:576,val,"jadual waktu solat harian bagi seremban, port dickson, jelebu, kuala pilah, rembau selasa julai zulhijjah h imsak pg subuh pg syuruk pg zuhur ptg asar ptg maghrib mlm isyak mlm nota hari tasyrik haram puasa",neutral,ms,Neutral,Neutral,No,No,manual,576
+mybully:val:577,val,mulut cabai hezerisamsuri hahaha tp nasib tak baik pada tayar harga tayar mcm haram dah la stok takda main harga kedai tayar,disgust,ms,Disgust,Negative,No,No,manual,577
+mybully:val:578,val,ariswila uhui muipusat makan duit haram ya,anger,ms,Anger,Negative,Yes,Yes,manual,578
+mybully:val:579,val,durriyah rahim alah stakat cendol durian kampung apa la sngat selalunya duri hitam hahahahahahah,joy,ms,Happiness,Neutral,No,No,manual,579
+mybully:val:581,val,athiqah nur babi mummy tnya kenapa x mndi pagi,anger,ms,Anger,Negative,Yes,Yes,manual,581
+mybully:val:582,val,banyak gila dpt daging korban peti freezer penuh daging korban rezeki duduk kampung,joy,ms,Happiness,Positive,No,No,manual,582
+mybully:val:583,val,"ada pula yang sebelum kawin sebab ada title ustaz so tak boleh tengok betina seksi nanti orang judge, lepas kawin dapat pula bini bertutup litup tiber time bini pantang cari bini orang buat borak hilang boring lol harap je serban di kepala tapi perangai haram jad tco jnvpatrdv",disgust,ms,Disgust,Negative,Yes,Yes,manual,583
+mybully:val:584,val,"f izalhassan anak kroni tanam ganja pun boleh lepas, tak ke celaka tu dijemput",anger,ms,Anger,Negative,Yes,Yes,manual,584
+mybully:val:585,val,"dia punya bodoh tu kan, simpan untuk keturunan dia yang ke berapa pun tak habis.",disgust,ms,Disgust,Negative,Yes,Yes,manual,585
+mybully:val:586,val,"selasa julai zulhijjah h pg masuk waktu syuruk bagi kuala terengganu, marang amp kwsn yg sama waktu waktu haram solat hingga pg",neutral,ms,Neutral,Neutral,No,No,manual,586
+mybully:val:587,val,"tegas tolak penundaan pemilu, pks aceh haram hukumnya satuacehnews tco hmrsyinpbc portalberitaaceh by satuacehnews tco es htbklzf",neutral,ms,Neutral,Neutral,No,No,manual,587
+mybully:val:588,val,jawapan paling pendek yang terangkan maksud assassinated not for political reasons i hv found so far tco vm dgfvyw,neutral,ms,Neutral,Neutral,No,No,manual,588
+mybully:val:589,val,takde ke yg buat service i craving gila nak hisap tetek,disgust,ms,Disgust,Negative,Yes,Yes,manual,589
+mybully:val:590,val,dah macam takda hati babi,anger,ms,Anger,Negative,Yes,Yes,manual,590
+mybully:val:591,val,"@rajamohdshahrim bodoh nya ko bab geografi. org yg lahir dari negeri maju mcm ko ni harap je maju. tp pemalas nk explore google dihujung jari. konon buat tweet claim cerdik tapi bodoh nak mampus. tu rural sebelah hulu besut. sebelah bandar, pekan kat daerah besut tu byk je atm.",anger,ms,Anger,Negative,Yes,Yes,manual,591
+mybully:val:592,val,"unnoticebleme dah mmg rasulullah cakap kena tutup aurat tak tutup aurat ada punishment itu adalah betul ajaran agama, tak kan ustaz tu nak cakap tak tutup aurat masuk dapat pahala pula yg masalahnya, kita nak ikut tak nak ikut tu pilihan kita, tapi menghalalkan yg haram itu tidak boleh",disgust,ms,Disgust,Negative,No,No,manual,592
+mybully:val:593,val,sijil teknologi minyak dan gas mekanikal merupakan salah satu program sepenuh masa yang ditawarkan di adtec batu pahat nak tahu teknologi minyak dan gas mekanikal ni belajar apa jom saksikan video pendek ini tco kg haw wdf,neutral,ms,Neutral,Neutral,No,No,manual,593
+mybully:val:594,val,"mohdashwan faham yeah, sekarang aku try to celebrate benda kecik kecik macam bila baca map tanpa sesat tu pun dah kira bagus tapi taktau kenapa rasa cam otak makin lembab and jadi careless gila lately",neutral,ms,Neutral,Neutral,No,No,manual,594
+mybully:val:595,val,"ironisnya, aku yang merasa sudah mati ini harus tetap makan sebenarnya untuk apa lagi",sadness,ms,Sadness,Negative,No,No,manual,595
+mybully:val:596,val,ayer hitam constituency gets heads of cattle for hari raya haji tco brkrnvir k tco brkrnvir k,neutral,ms,Neutral,Neutral,No,No,manual,596
+mybully:val:597,val,bukanayamacc si setan ni,anger,ms,Anger,Negative,Yes,Yes,manual,597
+mybully:val:599,val,budok celaka,anger,ms,Anger,Negative,Yes,Yes,manual,599
+mybully:val:600,val,flwrrh cantik gila,joy,ms,Happiness,Positive,No,No,manual,600
+mybully:val:601,val,abuttinytown steady gak layan rock an guna piring hitam dulu dgr guna kaset je,joy,ms,Happiness,Neutral,No,No,manual,601
+mybully:val:602,val,"we are not equal, we are the blessed chosen ones kafirs are trash destined to go to hell their blood are halal they must respect us it s fine if they eat in toilet, not in front of us if arak, cinemas, night clubs are haram for us, it should be banned for everyone et cetera",anger,ms,Anger,Negative,Yes,Yes,manual,602
+mybully:val:603,val,@asalusu15464071 @hrhjohorii setuju. tapi apa kesudahan kisah jerung dan anjing tu ek? diorang pun tengah seimbangkan dunia dan akhirat ke?,neutral,ms,Neutral,Neutral,No,No,manual,603
+mybully:val:604,val,"juwan riduan email protected anggota bomba menangkap anjing yang menggigit mangsa foto ihsan bomba penampang dua lelaki termasuk seorang parah selepas dipercayai digigit anjing peliharaan mereka sendiri di taman putera pogun, di sini, hari ini mangsa berusia tahun parah di bahagian",neutral,ms,Neutral,Neutral,No,No,manual,604
+mybully:val:605,val,"longbuoy muhd azn inchannnnn azrulazimi uncle kentang ada,scam orang islam guna modal urusan jenazah tu cina kan babi betul cina jahat boleh cakap camtu",anger,ms,Anger,Negative,Yes,Yes,manual,605
+mybully:val:606,val,brgsjks best gila alchemyofsouls dengan cafeminamdang pun best,joy,ms,Happiness,Positive,No,No,manual,606
+mybully:val:607,val,memang celaka dapat budak tak reti buat kerja ni buat aku nk mengamuk je,anger,ms,Anger,Negative,Yes,Yes,manual,607
+mybully:val:608,val,"gadisresidu b fadlizon urusin donk yg begini muipusat mosok rendang babi aja yg diurusin masakan padang sangat suci sehingga diganti jadi berbahan babi kalian teriak, ehh tiba yg begini yg justru merusak dan jelas merusak nama agama kalian diam sih",anger,ms,Anger,Negative,Yes,Yes,manual,608
+mybully:val:609,val,alang yang itu lawak celakajahanam negara dia punya lawak tu,anger,ms,Anger,Negative,Yes,Yes,manual,609
+mybully:val:610,val,"eppyfizul adlinamusfirahh gila ke apa kenapa yusuf azmi je kena bersuara lelaki lain mana dah pupus ke sampai tak boleh nak bersuara buat kerja sorang , bersuara sorang tak padan nak lawan kejahatan yang berleluasa, yang jahat ni ramai, yang nak bersuara bbrp org je n yusuf azmi je",anger,ms,Anger,Negative,Yes,No,manual,610
+mybully:val:611,val,jubah hitam vibes tco grppzljiso,neutral,ms,Neutral,Neutral,No,No,manual,611
+mybully:val:612,val,wowowowow anjing minggu,anger,ms,Anger,Negative,Yes,Yes,manual,612
+mybully:val:613,val,gila jammed tol karak ni panjang gila,disgust,ms,Disgust,Negative,No,No,manual,613
+mybully:val:614,val,prsnyw banyak gila kena rebuild,neutral,ms,Neutral,Neutral,No,No,manual,614
+mybully:val:615,val,"duit nak laju, buat kerja lembab",disgust,ms,Disgust,Negative,No,No,manual,615
+mybully:val:616,val,kucingkuncitara gila betul apatah si ismailsabri dengan si hishammuddinh o buat bodoh la rakyat kalau mengundi bn umno lagi dalam pilihanraya akan mendatang ni,anger,ms,Anger,Negative,Yes,Yes,manual,616
+mybully:val:617,val,rarazydi orang tak bodoh bang kalau takda kerja tiba nk kawin biawak hidup kategori lain ramai ja kawan aku kena reject sebab sebelum kawin takda rumah takda kereta alhamdulillah sekarang dia boleh bini yang faham tauhid lepas dia kawin business semakin maju skrang dia ada bmw,joy,ms,Happiness,Positive,No,No,manual,617
+mybully:val:618,val,"kau buat susah dengan mak kau sendiri , elok lunyai muka kau ni bodoh ! tak sedar diri , mane hormat kau dekat mak bapak  . nasib kau tk kene pijak sebab mama jelaa babi bodoh budak ni",anger,ms,Anger,Negative,Yes,Yes,manual,618
+mybully:val:619,val,memang serabut ada manusia celaka macam ni dalam hidup aku,anger,ms,Anger,Negative,Yes,Yes,manual,619
+mybully:val:620,val,perut aku senak gila babi sial dah macam segugut,disgust,ms,Disgust,Negative,Yes,Yes,manual,620
+mybully:val:621,val,"tengah sedap makan mee bandung, tiba tiba meja belakang cakap aku cili kan jugak mulut si firdaus bodoh ni tersedak aku terus member aku cakap bukan kau, tapi laki si melur tu sambil muncung mulut ke arah tv celaka punya suami melur, perangai tu elok lah sikit",anger,ms,Anger,Negative,Yes,Yes,manual,621
+mybully:val:623,val,hanabeenie tu laaa lembab gilerrrrr mase tu bogota kasi teaser pastu skarang habuk pun takde menghilangggg glitch pon,anger,ms,Anger,Negative,No,No,manual,623
+mybully:val:624,val,"bodoh dia xboleh bincang dah ni.
+setan kena ikat,ko pun nak kena ikat sama kalau mcmni gayanya.
+
+raya dalam lokap!!
+takde adab bdk2 ni.
+membesar dlm hutan ke apa?  ",anger,ms,Anger,Negative,Yes,Yes,manual,624
+mybully:val:625,val,"allahu tak sanggup nak baca tak boleh bayang, kalau sebab dadah memang celaka hidup pembunuh tu sampai dia mampus kalau masalah mental semoga allah kurniakan kau jalan keluar yang terbaik tco sbulf cwvp",sadness,ms,Sadness,Negative,Yes,Yes,manual,625
+mybully:val:626,val,"isnin julai zulhijjah h pg masuk waktu syuruk bagi kota bharu, bachok, tumpat, machang, pasir mas, pasir puteh, kuala krai, tanah merah amp kwsn yg sama waktu waktu haram solat hingga pg",neutral,ms,Neutral,Neutral,No,No,manual,626
+mybully:val:627,val,billibear rasuah lebih utamarakyat goreng pakai minyak hitam,disgust,ms,Disgust,Negative,No,No,manual,627
+mybully:val:628,val,sebenarnya aku dah penat dengan semua permainan manusia semua mcm celaka,sadness,ms,Sadness,Negative,No,No,manual,628
+mybully:val:629,val,ha lesen mati mat adehhhh,disgust,ms,Disgust,Negative,No,No,manual,629
+mybully:val:630,val,"bila tekan bell je yg datang nurse yg nak cari gaduh, nametag pun takde, acah busy, aku yg terlantar ni pun bole cakap elok cakap terima kasih bagai baik nurse gomen, selang sehari tukar cadar amp baju pt ramai pun tk penah lagi kena layan macam anjing",anger,ms,Anger,Negative,Yes,Yes,manual,630
+mybully:val:631,val,"polis turut merampas beberapa barangan termasuk baju kurung, tudung, skirt pendek dan telefon bimbit yang dipercayai dipakai wanita berkenaan semasa membuat persembahan itu, pdrm secretary noorsiah mohd saaduddin said she added that the woman will be remanded until jul",neutral,ms,Neutral,Neutral,No,No,manual,631
+mybully:val:632,val,"@__loveshak hahaha aku kesian kat anjing tu tapi nak tergelak. camne nak dengar, kepala dia dalam container ",surprise,ms,Surprise,Neutral,No,No,manual,632
+mybully:val:633,val,apa punya turr punya statement la aku pn bole habaq tk haram jgk dok dlm kete laki pompuan yg haram tu bila brsentuhan,anger,ms,Anger,Negative,Yes,Yes,manual,633
+mybully:val:634,val,anjing kat rumah aku ni ada jugak kena shoot pakai ekzos si molo ni,anger,ms,Anger,Negative,Yes,Yes,manual,634
+mybully:val:635,val,"sedapnya lahai tidur, berat gila rasa nak bangun tapi itu lah kan, tidur tak dapat duit jadi kena la bangun kerja cari duit",neutral,ms,Neutral,Neutral,No,No,manual,635
+mybully:val:636,val,cantik gila control mosalah,joy,ms,Happiness,Positive,No,No,manual,636
+mybully:val:637,val,"secretrecipemy salam sejahtera, saja nak bagitahu store korang dekat gemas negeri sembilan dah lah ramai staff tapi pemalas ke semua kedai takde org pun service lembab banyak borak je kat meja belakang",anger,ms,Anger,Negative,Yes,Yes,manual,637
+mybully:val:638,val,edilkhaidzir lauk sial lololololol,disgust,ms,Disgust,Negative,Yes,Yes,manual,638
+mybully:val:639,val,jangankan temen setan ajah ngejauh klo kita lagi susah,anger,ms,Anger,Negative,No,No,manual,639
+mybully:val:640,val,gila tco ijvi xatzg,anger,ms,Anger,Negative,No,No,manual,640
+mybully:val:641,val,"rkivesunset ahhhhhhh this looks so cool if tattoos weren t haram, i d get this one",neutral,ms,Neutral,Neutral,No,No,manual,641
+mybully:val:642,val,"kenapa lah nak kena jumpa org bodoh mcm ni, suka menimbulkan masalah, lepas satu satu masalah kau
+
+harap ubah jelah perangai tu, dah tua2 pun makin bodoh. dahlah bodoh menyusahkan org pulak tu.",anger,ms,Anger,Negative,Yes,Yes,manual,642
+mybully:val:643,val,setan betul tak bole lena,anger,ms,Anger,Negative,No,No,manual,643
+mybully:val:644,val,bodoh laaa,anger,ms,Anger,Negative,Yes,Yes,manual,644
+mybully:val:645,val,"bertahun tahun yang lalu dalam sebuah mimpi, allah l mengatakan kepadaku, qasim sebelum tidur jangan pernah lupa membaca surah al ikhlas, surah al falaq, dan surah an naas dan kemudian tidurlah agar setan menjauh darimu buktimimpimuhammadqasim",neutral,ms,Neutral,Neutral,No,No,manual,645
+mybully:val:646,val,"aku suka orang jenis terus terang, tpi cakap tu biar laa berlapikkk jugak jgn mainkan hati orang ingat manusia nie tak ada hati dn perasaan ke kalau ckp siap menghina tu mmg sial la jawapannya",disgust,ms,Disgust,Negative,Yes,Yes,manual,646
+mybully:val:647,val,mizakamel lawyer ni mmg kena push je banyak kali mija depa minta duit laju tiber dapat duit jd lembab so kitaorg dlu push sampai dia bengang hahahahaahha,anger,ms,Anger,Negative,Yes,Yes,manual,647
+mybully:val:648,val,tapi kalo kau bt bodoh jaa ingat ye kau susah dgn sape kau ngadu kalo tak aq berdua sejak dpat konek memang macam nie dia lupa terus,anger,ms,Anger,Negative,Yes,No,manual,648
+mybully:val:649,val,kami ziarah madinah dulu baru pergi mekah masa singgah tukar ihram bukan main nervous takut tak nampak kaabah sampai je masjid haram terus nangis sujud sebab nampak kaabah jelas betul takda sorang pun halang pandangan tersebut,joy,ms,Happiness,Positive,No,No,manual,649
+mybully:val:650,val,mynewshub ngakorming kimak punya tomy thomassial la,anger,ms,Anger,Negative,Yes,Yes,manual,650
+mybully:val:651,val,langsung kebayang adegan tololnya mereka dirumah setan tco luljb ardv,anger,ms,Anger,Negative,Yes,Yes,manual,651
+mybully:val:652,val,muhdfarhain menarik sebab kat malaysia he s been narrated macam dia tu setan,neutral,ms,Neutral,Neutral,No,No,manual,652
+mybully:val:653,val,"escort kan kontraknya jangka pendek, kok yang ini ga jelas durasi oh, rupanya simpanan berbatang tco jkp sufn u",neutral,ms,Neutral,Neutral,No,No,manual,653
+mybully:val:654,val,"autumnleaves oh tu bukan aku punye, aku no yg ade garis hitam tu",neutral,ms,Neutral,Neutral,No,No,manual,654
+mybully:val:655,val,"@jebatmarcelo @madidham sedap je tuduh orang berzina ya sedara 
+
+tau tak soalan bodoh macam ni boleh dikira qazaf?
+
+yang kamu tuduh ini orang yang banyak habiskan masanya untuk anak bangsa. bukan bangsat pengqazaf seperti kamu.",anger,ms,Anger,Negative,Yes,Yes,manual,655
+mybully:val:656,val,"bodoh la liberpoop ni, fight la sikit",disgust,ms,Disgust,Negative,Yes,Yes,manual,656
+mybully:val:657,val,tintadago anjing,anger,ms,Anger,Negative,Yes,Yes,manual,657
+mybully:val:658,val,danybhry baik bdk iqbal ni haha sial la tco kryhycv cv,joy,ms,Happiness,Neutral,No,No,manual,658
+mybully:val:659,val,"takut aku langgar agaknya dhla naik basikal bebudak so mmg lembab ah citer dia aku pon bwakla lembab xnak bg dorang kabut tp kabut jugak pastu masa aku kuar lorong nmpak dorang benti tepi tggu kereta aku kluar dr lorong tu, aku gelak ah, dorang pon gelak skali",joy,ms,Happiness,Neutral,No,No,manual,659
+mybully:val:660,val,tidak bisa tidur kembali di jam segini setelah melihat snapgrammu adalah hal yang paling anjing sejauh ini,disgust,ms,Disgust,Negative,Yes,Yes,manual,660
+mybully:val:661,val,"tak fhm lah adik aku ni , bercinta sampai bodoh iyakan awek dia ckp wadehek , geramnya",anger,ms,Anger,Negative,Yes,Yes,manual,661
+mybully:val:662,val,"aliffazmin sampai belas belas k, mati laa",anger,ms,Anger,Negative,No,No,manual,662
+mybully:val:663,val,ini dua setan tco dc nkjiufu,anger,ms,Anger,Negative,Yes,Yes,manual,663
+mybully:val:664,val,my moms fatphobia is so weird like she ll get mad at me for wearing a crop top under the guise of it being haram but never amp i mean never says anything when my size sister wears a crop top like what kind of selective haramness is that she s so confusing fr,anger,ms,Anger,Negative,Yes,Yes,manual,664
+mybully:val:665,val,"@comicsbyvien @thevenusdarling @qierax_xiso yeah, there's mindset about that too especially for cis women still thinking that's sweet being *censored* and it's okay to write for their target audiences.. yikes.
+
+if ""couple is haram!"" in writing, they should read the classic pride &amp; prejudice or persuasion for references.",neutral,ms,Neutral,Neutral,No,No,manual,665
+mybully:val:666,val,"babi aku dah dtg skolah nk tngok silat si org tua sekor ni suruh main muzik plak, ko main la sendiri",anger,ms,Anger,Negative,Yes,Yes,manual,666
+mybully:val:667,val,"60 tan=60 000 kg. celaka betul. berapa ramai family susah yang menderita. nak makan susah. nak masak pulak, takde minyak.  ",anger,ms,Anger,Negative,Yes,Yes,manual,667
+mybully:val:668,val,elok mati jela gini,sadness,ms,Sadness,Negative,No,No,manual,668
+mybully:val:669,val,"@akramzakaria_ apehal le ko ni kejenya nak menyalak ni anjing? no telefon org tu semua public information, doxxing public posting kt social media bkn kesalahan. 
+
+no. hp kau pun dia dah londehkan tu anjing.. kau gi saman ler, jgn kuat menyalak nanti org tau kau anjing kurap bangsat je sial!",anger,ms,Anger,Negative,Yes,Yes,manual,669
+mybully:val:670,val,carelinesesb apa bodoh kamu tengah malam tutup letrik tanpa tanya orang kampung yang bayar company kamu mana notice anjing,anger,ms,Anger,Negative,Yes,Yes,manual,670
+mybully:val:671,val,tak boleh nak kata apa kalo dh company mmg tolerate org bodoh dan org sombong,anger,ms,Anger,Negative,Yes,Yes,manual,671
+mybully:val:672,val,bodoh @LFC,anger,ms,Anger,Negative,Yes,No,hitl,672
+mybully:val:673,val,pc di apk sebelah pada ovp bgt gila,neutral,ms,Neutral,Neutral,No,No,hitl,673
+mybully:val:674,val,My brother from kesiannyaa dia aku faham perasaan dia to bodoh siaa mamat ni hahahahah cheers! 🥂 we shared the same brain cells,disgust,ms,Disgust,Neutral,Yes,Yes,hitl,674
+mybully:val:675,val,"awalnya ni sampah cuma tanya² dari mana mau kemana, aku ga curiga sama sekali krn sepanjang aku hidup, selama jd pengguna transum baru ini kena sial. mana luarannya ni sampah udh tua bgt, ubannya banyak, ga kepikiran lah dia bakal macem2
+
+TAUNYA 😭",anger,ms,Anger,Negative,Yes,No,hitl,675
+mybully:val:676,val,"@yaniarsim @prabowo @jokowi Di kabinet Prabowo tidak di butuhkan orang pintar dan berintegritas, yang di butuhkan orang bodoh dan penjilat...",anger,ms,Anger,Negative,Yes,Yes,hitl,676
+mybully:val:677,val,......orang gila,disgust,ms,Disgust,Negative,Yes,No,hitl,677
+mybully:val:678,val,@jawabakar anjing,neutral,ms,Neutral,Neutral,Yes,Yes,hitl,678
+mybully:val:679,val,orang gila,neutral,ms,Neutral,Neutral,No,No,hitl,679
+mybully:val:680,val,@Zan99300768 @RickyNa2323221 @Erzhaa_99 @Palatao_Bola @grok Kenapa negara indon haram seperti negara israel ya kerana penduduknya suka ceroboh masuk negara orang tanpa izin,anger,ms,Anger,Negative,Yes,Yes,hitl,680
+mybully:val:681,val,@pkckAm Anak buah aku la gila haha,joy,ms,Happiness,Positive,No,No,hitl,681
+mybully:val:682,val,@goyounjund itu mah orang gila yang mau babak belur,anger,ms,Anger,Negative,Yes,Yes,hitl,682
+mybully:val:683,val,@alongaiel 21-23 an bodoh bgt fak stelah gede gk mw bgt nikah umur sgini,anger,ms,Anger,Negative,Yes,Yes,hitl,683
+mybully:val:684,val,@411ent perangai cam sial,anger,ms,Anger,Negative,Yes,Yes,hitl,684
+mybully:val:685,val,"@Scoopdotmy Bodoh, Anak Haram Masuk MRSM 
+
+Setuju kata Wajidi, Pengerusi MARA, You Touch You GO !
+
+Ramai Pelajar yg ingin peluang masuk MRSM.
+Buang yg 7 ini Dan ambil yg lain.",anger,ms,Anger,Neutral,Yes,Yes,hitl,685
+mybully:val:686,val,@marlboroumild sakit anjing nih orang,neutral,ms,Neutral,Neutral,No,No,hitl,686
+mybully:val:687,val,@_wangseok stres menuju gila sepertinya,sadness,ms,Sadness,Negative,No,No,hitl,687
+mybully:val:688,val,@HPhobiaWatch @khanumarfa Jab !$£@M me nach-gana HARAM hai to gana bajane wale MU$£!M log aur wo sunkar nachne wale MU$£!M logo ko kya kehna chahiya?,anger,ms,Anger,Negative,Yes,Yes,hitl,688
+mybully:val:689,val,"@yudhistiramissu @jojooobro Culun lu, bodoh dan culun",neutral,ms,Neutral,Neutral,No,No,hitl,689
+mybully:val:690,val,@HORI7ONofficial Get well soon babi! 🙂‍↕️,joy,ms,Happiness,Positive,No,No,hitl,690
+mybully:val:691,val,"disclaimer aku hanya qrt berdasar pengalaman aku, ya. aku ga menyebut siapapun secara spesifik sebagai orang bodoh. aku juga belum baca keseluruhan artikel yang judulnya discreenshot dan diupload pada utas tersebut",neutral,ms,Neutral,Neutral,No,No,hitl,691
+mybully:val:692,val,"Angka Result Pasaran OMAN
+
+Hari Ini   :   SELASA 08 - 04 - 2025
+RESULT   :  6 3 2 0
+SHIO   :   ANJING
+
+Selamat Kepada Para Pemenang !",joy,ms,Happiness,Positive,No,No,hitl,692
+mybully:val:693,val,@Oupeett Semoga aja ga gila,neutral,ms,Neutral,Neutral,No,No,hitl,693
+mybully:val:694,val,"@LifeMD Full disclosure, informed consent from your doctor? Did he tell you made from gila monster venom!?",anger,ms,Anger,Negative,Yes,No,hitl,694
+mybully:val:695,val,"Angka Result Pasaran BATTAMBANG 16
+
+Hari Ini   :   SELASA 08 - 04 - 2025
+RESULT   :   1 6 9 2
+SHIO   :   ANJING
+
+Selamat Kepada Para Pemenang !",joy,ms,Happiness,Positive,No,No,hitl,695
+mybully:val:696,val,"@Sir_Azri @mypolitiko Takkan nk sokong papa bodoh plak,masuk polis pun kena buang🤣",anger,ms,Anger,Negative,No,No,hitl,696
+mybully:val:697,val,@kemutsah Sejarah got no promo menipu gila. Sejarah was released the night she was awarded as Biduanita dan dicipta oleh komposer seberang. Lpas tu compare Magis OST movie dgn Kamu lol. Knp tak compare 2nd single VS 2nd single in album? So Magis should be VS Puas sudah. Begitulah edisi SS,anger,ms,Anger,Negative,Yes,No,hitl,697
+mybully:val:698,val,@vinsmoge anjing lu,anger,ms,Anger,Negative,Yes,Yes,hitl,698
+mybully:val:699,val,jancokkkkkkk manusia kontol anjing gak tau diri kontol,anger,ms,Anger,Negative,Yes,Yes,hitl,699
+mybully:val:700,val,"@adamyusuf88 Dah memang keluar surat doktor ada compression dekat tulang belakang, apa yang walanon ni bodoh sangat?",anger,ms,Anger,Negative,Yes,Yes,hitl,700
+mybully:val:701,val,@agirlinthesoop Suka gila masa jaykeh pose dgn baju dia pastu swipe jambul hahahaahaha legendary!,joy,ms,Happiness,Positive,No,No,hitl,701
+mybully:val:702,val,"First time sial kena halau dari masjid. Nak baring jap lepas zohor. Siap dah pasang niat iktikaf pun. Tapi niat duniawi nak setup meta ads jap sambil baring😂. 
+
+Sedih siot kena halau kt masjid permatang duyong. Mungkin pakcik ni ingat aku gelandangan kot.",sadness,ms,Sadness,Negative,No,No,hitl,702
+mybully:val:703,val,pe masalah ko babi,anger,ms,Anger,Negative,Yes,Yes,hitl,703
+mybully:val:704,val,@ARSIPAJA dih sintinggggggg sahamm no turun tolollll usd noo anjing udh 17,anger,ms,Anger,Negative,Yes,Yes,hitl,704
+mybully:val:706,val,"@aewin86 @grok soal tambang nikel, apakah yang dikatakan @aewin86 ini benar? jika tidak benar, apa yang membuat @aewin86 pemuja jokowi ini bodoh",anger,ms,Anger,Negative,Yes,Yes,hitl,706
+mybully:val:707,val,grab memek pukimak sial bangsat,anger,ms,Anger,Neutral,Yes,Yes,hitl,707
+mybully:val:708,val,sial mentok 99/100 rr,neutral,ms,Neutral,Neutral,No,No,hitl,708
+mybully:val:709,val,"Selasa / 8 Apr 2025 / 9 Syawal 1446H
+𝟳:𝟬𝟯𝙥𝙜 - Masuk waktu 𝙎𝙮𝙪𝙧𝙪𝙠 bagi Johor Bahru, Mersing, Kota Tinggi, Kulai &amp; kwsn yg sama waktu. Waktu haram solat hingga 7:18pg.
+Waktu Ishraq mula pada 𝟳:𝟭𝟵𝙥𝙜.
+Waktu Dhuha mula pada 𝟳:𝟯𝟭𝙥𝙜.
+#Syuruk",neutral,ms,Neutral,Neutral,No,No,hitl,709
+mybully:val:710,val,sial gila yt vids guma banyak hate comment lepas kalah ni,sadness,ms,Sadness,Negative,No,No,hitl,710
+mybully:val:711,val,@dermainejupri @Bossbm17 @teambosskuX @MatthewShanmu10 @Johann_Eva8 @hanafi957 @AhmadAdiAwang @rahim12k @Hoihoyyahoi @AbdulWa76463095 @Hentam_ajelah @ThatWasMeThen @anwaribrahim @BanulataDava @ZERO3HIRTY @SelamatA2895 @Alamurni @vijaymunisamy @mynewshub @ShoibZahari @AqimNizar @amer7211 @HartanahTimur @NajibRazak @hannahyeoh @DrDzul Thenga sial ni spin abis semua isu. Pasal report jakel pun dia tak settel lagi. Sembang Babi terbang boleh laaa https://t.co/JoBPOlcRz5,anger,ms,Anger,Negative,Yes,Yes,hitl,711
+mybully:val:712,val,"pdhl those statement maksudnya tuh yg pinter harus humble jg, ga sombong, kerja keras, ga gampang nyerah, etc. tp skrg realitanya sehari-hari yg pinter harus ngalah sama kenyataan kalau menjadi bodoh lebih baik.",anger,ms,Anger,Negative,No,No,hitl,712
+mybully:val:713,val,Orang gila mana yg rela di bayar cuman buat di pukul dan di tendang. Buzzer noh yg di bayar pakai pajak rakyat,anger,ms,Anger,Negative,Yes,Yes,hitl,713
+mybully:val:714,val,@fxbulous Tapi lu anjing semua ya pak,anger,ms,Anger,Negative,Yes,Yes,hitl,714
+mybully:val:715,val,@kecapnyabanyak Emg anjing bgt cpk bgt cok,neutral,ms,Neutral,Neutral,Yes,Yes,hitl,715
+mybully:val:716,val,@IkanBaracudda @tamarjaya0 tp kan org bodoh boleh jadi bomoh..buat ramalan yg bodoh mcm dia jgk🤣🤣🤣,joy,ms,Happiness,Neutral,Yes,Yes,hitl,716
+mybully:val:717,val,bilang aja pgn rakyat bodoh biar gampang dibodohin sama pemerintah,anger,ms,Anger,Negative,Yes,No,hitl,717
+mybully:val:718,val,@SeputarMadrid Ah sial,anger,ms,Anger,Negative,No,No,hitl,718
+mybully:val:719,val,@aestiene_ sial emg,anger,ms,Anger,Negative,Yes,No,hitl,719
+mybully:val:720,val,@davidsunarna Pokonya yg haram cuma babiiii! (Tp wapresnya ikut makan jg),anger,ms,Anger,Negative,Yes,Yes,hitl,720
+mybully:val:721,val,PERNAH YA ANJING 🖕🏻,anger,ms,Anger,Negative,Yes,Yes,hitl,721
+mybully:val:722,val,ni gila ya,neutral,ms,Neutral,Neutral,No,No,hitl,722
+mybully:val:723,val,"@Boediantar4 Anjing menggonggong kafilah berlalu, nyinyir terus 🤣",joy,ms,Happiness,Negative,Yes,No,hitl,723
+mybully:val:724,val,@SinarOnline sebab kau tak ikut undang undang lah bodoh. 😂,joy,ms,Happiness,Negative,Yes,No,hitl,724
+mybully:val:725,val,"@meinmokhtar Camne boleh lulus ujian spa , spa babi betul yg bodoh camni jugak dpt keje gomen.",anger,ms,Anger,Negative,Yes,Yes,hitl,725
+mybully:val:726,val,mana seharian belom makan sial,neutral,ms,Neutral,Neutral,No,No,hitl,726
+mybully:val:727,val,@glorygloryjeno bodoh bat,anger,ms,Anger,Negative,Yes,Yes,hitl,727
+mybully:val:728,val,@najeagyeon Anjing.,neutral,ms,Neutral,Neutral,No,No,hitl,728
+mybully:val:729,val,"@susipudjiastuti @prabowo Miris,lihat proses kenegaraan 10th Hukum diperjualbelikan. Bangsa besar hancur kr pemimpinnya membuat kebijakan yg tak bijak, tak pintar, tak taat hukum, menuhankan diri. Keunggulan tek &amp; penerimaan rakyat yg beragam dr IQ, AQ, QAA, dampaknya BODOH, GILAnarkoba, judi, sahwat.😡",anger,ms,Anger,Negative,Yes,Yes,hitl,729
+mybully:val:730,val,"Serious comel gila 🥹 Dekat seller ni ada juall boleh tengok dekat sini
+
+🧷 https://t.co/uMFqmbazJ8 https://t.co/YPRKWQztsu",joy,ms,Happiness,Positive,No,No,hitl,730
+mybully:val:731,val,Shit. Wahed aku jatuh menjunam. Sial punya trump,anger,ms,Anger,Negative,No,No,hitl,731
+mybully:val:732,val,panas gila,anger,ms,Anger,Negative,No,No,hitl,732
+mybully:val:733,val,orang gila,neutral,ms,Neutral,Neutral,No,No,hitl,733
+mybully:val:734,val,@arojgan Haha sial bgt kak,joy,ms,Happiness,Positive,No,No,hitl,734
+mybully:val:735,val,ye weh sumpah geli gila baca,disgust,ms,Disgust,Neutral,No,No,hitl,735
+mybully:val:736,val,"@himejoshirry @pipimerah__ Sbb statement kau bodoh sbb mmg generalized, aik kalau ayah kau ckp means betul dan patut bawak ke twitter ke? Perlu ke sebarkan kebodohan tu? Ayah kau bukan wakil duda sedunia tahu setiap situation duda yang bercerai tu sebab apa.",anger,ms,Anger,Negative,Yes,No,hitl,736
+mybully:val:737,val,"@ARSIPAJA Sesuai Hadits Rasulullah  ""Di antara tanda-tanda kiamat adalah diangkatnya orang bodoh sebagai pemimpin"".",anger,ms,Anger,Neutral,Yes,No,hitl,737
+mybully:val:738,val,Kesian betul siapa jadi mak kau. Bertarung nyawa nak lahirkan anak bodoh macam ni. Tolong jangan kahwin dan membiak,anger,ms,Anger,Negative,Yes,Yes,hitl,738
+mybully:val:739,val,TENGIL BGTT SIAL😭,anger,ms,Anger,Negative,Yes,No,hitl,739
+mybully:val:740,val,Pagi pagi dah ada sial https://t.co/RMjwotidSX,anger,ms,Anger,Negative,No,No,hitl,740
+mybully:val:741,val,pernah gasih udh ditahap mau gila bgt.. bnrn yg kyk mau gila.. ANJING MANUSIA ANJINGGGGG COKKKKK GAJELASSSS BANGSATTTTTTTTT,anger,ms,Anger,Negative,Yes,Yes,hitl,741
+mybully:val:742,val,Pedih gila tangan tumbuk cili tadi 😭,sadness,ms,Sadness,Negative,No,No,hitl,742
+mybully:val:743,val,"@MostertSte77524 Hari ni Aku Otak Gila.🧠.
+Aku ketawa pun SESAK NAFAS🫀..HAHAHAHAHA🥵panas terbakau🫨🤣🤣🤣Duit goncang..Lesap😭🤯 https://t.co/xNg8NZwW0S",disgust,ms,Disgust,Negative,No,No,hitl,743
+mybully:val:744,val,@Cloeysurincon @MiquelGimenezG1 @sial_awak_mirah ¡¡Chulisima!! Ole,joy,ms,Happiness,Positive,No,No,hitl,744
+mybully:val:745,val,@jofanafandi iya harus pura pura bodoh,anger,ms,Anger,Negative,Yes,No,hitl,745
+mybully:val:746,val,@anotheroflibra_ @kochengfs Dia memang bodoh kak wkwkw,joy,ms,Happiness,Negative,Yes,Yes,hitl,746
+mybully:val:747,val,@arojgan Ada aja kelakuan anjing mah,anger,ms,Anger,Negative,Yes,Yes,hitl,747
+mybully:val:748,val,hari sial gaada di kalender,neutral,ms,Neutral,Neutral,No,No,hitl,748
+mybully:val:749,val,@MusangKichijoji Doxx nih sial,anger,ms,Anger,Negative,Yes,Yes,hitl,749
+mybully:val:750,val,@rlawldn0_ Anjing?? Terima kasih banyak?????,neutral,ms,Neutral,Positive,Yes,No,hitl,750
+mybully:val:751,val,Sumpah boss aku ni lawak gila 😭🤣,joy,ms,Happiness,Positive,No,No,hitl,751
+mybully:val:752,val,Bodoh nya lelaki ni duk tenung tenung tak pernah tngok perempuan berjalan?,anger,ms,Anger,Negative,Yes,No,hitl,752
+mybully:val:753,val,@kbinci GILA… SEMANGAT YAH 😭😭,joy,ms,Happiness,Positive,No,No,hitl,753
+mybully:val:754,val,"@tjerealjoker Dah namanya jargon,mmg taraf bodoh..lps ni dia dah tak muncul ni,kalah dah tu bru undi bahagian dah kalah teruk.ingat bersatu mau letak lagi kah jd calon,bahagian pun kalah teruk",anger,ms,Anger,Negative,Yes,No,hitl,754
+mybully:val:755,val,Haram football🤐,disgust,ms,Disgust,Negative,No,No,hitl,755
+mybully:val:756,val,apa benda tok sial 😭😭,sadness,ms,Sadness,Negative,No,No,hitl,756
+mybully:val:757,val,mds sonhei com 2023 e acordei no susto,surprise,ms,Surprise,Neutral,No,No,hitl,757
+mybully:val:759,val,@Sial_vibes @QueenofSuss @FatimaTehr9693 @WannaabeVampire dekh lo kitna change ho gia ye🙂,neutral,ms,Neutral,Neutral,No,No,hitl,759
+mybully:val:760,val,"Orang gila, orang ga ngotak orang ga berpendidikan, orang asu. GUE EMOSI BGT FUCK ABIS TO NGELIAT INI ROT IN HELL PLS",anger,ms,Anger,Negative,Yes,Yes,hitl,760
+mybully:val:761,val,awokawok sial pak Jamal😭,sadness,ms,Sadness,Negative,No,No,hitl,761
+mybully:val:762,val,semoga mulai next race carlos ga kena sial mulu aamiin,joy,ms,Happiness,Positive,No,No,hitl,762
+mybully:val:763,val,Baik potong elaun MP tu tolong mangsa letupan tu sial. Majlis Aidilfitri ni dapat jugak bagi makan orang miskin,anger,ms,Anger,Negative,No,Yes,hitl,763
+mybully:val:764,val,"@serenassirene @pageoftea Lah kok bodoh, konsumen mah bebas bro mau pilih produk yang gak zionis kek yang gak 02 01 03 voters juga terserah aja.",anger,ms,Anger,Negative,Yes,No,hitl,764
+mybully:val:765,val,"@dihahmfrds Itu baru ChatGPT. Belum lagi https://t.co/wslMWXySAh. Awal² explore guna dulu asyik ke arah 'tut' je. Bodoh betul sampai aku maki ai tu. Jenuh kona baring, brainwash dia baru dia minta maaf. Ulang chat pun satu hal. Ayat dia ulang² ubah sikit sampai bodoh. Aku yang stress 🤣🤣🤣",anger,ms,Anger,Negative,Yes,No,hitl,765
+mybully:val:766,val,"Gila! Member tu baru je expose ada gf, terus ada teh madu thailand kaw kaw waknat! 😭 risau betul zaman sekarang ni, takut la nak buat jahat nnti kena sebar aib gitu je hshshhshshshshs",surprise,ms,Surprise,Negative,No,No,hitl,766
+mybully:val:767,val,Ya Allah tolong..... harini jugak. Pagi ni jugak sebolehnya. Tolonglah....... Aku dah nak gila,sadness,ms,Sadness,Negative,No,No,hitl,767
+mybully:val:768,val,Sial diorang ni,anger,ms,Anger,Negative,Yes,Yes,hitl,768
+mybully:val:769,val,"BUENOS AIRES 08 APRIL 2025
+RESULT : 90-9731 SAAHHH!! 
+SHIO : BABI
+UNSUR : LOGAM
+SELAMAT KEPADA PEMENANG, SALAM JP ☺️
+
+5UNSUR2 : https://t.co/P8XlBwUbEX https://t.co/48xm7OeiSS",joy,ms,Happiness,Positive,No,No,hitl,769
+mybully:val:770,val,Mmg sial lah bapak macam ni. Niat kau tu bukan nak mengajar. Tu nak cederakan.,anger,ms,Anger,Negative,Yes,Yes,hitl,770
+mybully:val:771,val,"1 minggu ni aku jadi cctv kat sosmed pasal banyak kes yang terbakarnya, yang belonnya, yang tepaling didik anak dan toxic parentingnya serta banyak lagi.
+
+Konklusinya kebanyakkan orang malaysia masih bodoh.",neutral,ms,Neutral,Neutral,Yes,No,hitl,771
+mybully:val:772,val,"@fessthaii Masih main, jadi Joong 🦖",neutral,ms,Neutral,Neutral,No,No,hitl,772
+mybully:val:773,val,@unmagnetism Unmag anjing hahahaha,neutral,ms,Neutral,Neutral,No,No,hitl,773
+mybully:val:774,val,"@ahmad__bobak Bkwass Bnd Ker Harami Kuttay,Bo Bakray , Teri Ar Teray Chootiye Leader Ki Kiya Aukaat Hay Jo Itni Fazool Bkwass Krrhay Ho , Chootiya Leader, Chootiye Supporters",anger,ms,Anger,Negative,Yes,Yes,hitl,774
+mybully:val:775,val,@parawahid Haram tumko magar aati nhi,neutral,ms,Neutral,Neutral,No,No,hitl,775
+mybully:val:776,val,@clioonace yeh anjing juga km pagi pagi N 🥰 YOU'RE THE CHOSEN ONE TAU (fax you're my main minions),joy,ms,Happiness,Positive,No,No,hitl,776
+mybully:val:777,val,Apakah salah satu tanda akhir zaman adalah negara2 didunia dipimpin oleh pemimpin yang bodoh dan tidak kompeten?,anger,ms,Anger,Negative,No,No,hitl,777
+mybully:val:778,val,anjing malu-maluin nama cinta aja bgst,neutral,ms,Neutral,Neutral,Yes,Yes,hitl,778
+mybully:val:779,val,DASAR COWO GAJELASSS ANJING! BAJINGAN LO,anger,ms,Anger,Negative,Yes,Yes,hitl,779
+mybully:val:780,val,@kdrama_menfess Gila cantik bgtt,joy,ms,Happiness,Positive,No,No,hitl,780
+mybully:val:781,val,Kalau takdak habaq ...naik gila dah dok refresh dari tadi,anger,ms,Anger,Negative,No,No,hitl,781
+mybully:val:782,val,"@blossomleaaa @fatiniqaaa Tetek ko senak ke kalau aku beria pun? Aku tweet sambil pijak puki ko ke? Idgaf babi, fuck men and fuck stupid women too and fuck off",anger,ms,Anger,Negative,Yes,Yes,hitl,782
+mybully:val:783,val,@tanmuui GILA AK don't deserve a compliment like that 😭,surprise,ms,Surprise,Positive,No,No,hitl,783
+mybully:val:784,val,Simen Vatne Haram 🧡🗣️ https://t.co/XpQVOnh4R8,joy,ms,Happiness,Positive,No,No,hitl,784
+mybully:val:785,val,"RESULT MONTANA
+
+Hari Ini :  Selasa, 08-04-2025
+Result  :   3 6 5 6
+SHIO :     ANJING
+
+Selamat Bagi Pemenang JP!!",joy,ms,Happiness,Positive,No,No,hitl,785
+mybully:val:786,val,"Gi urut semalam, end up today sakit gila badan 🫠",sadness,ms,Sadness,Negative,No,No,hitl,786
+mybully:val:787,val,@kodiakorca gila bgt🤧,neutral,ms,Neutral,Neutral,No,No,hitl,787
+mybully:val:788,val,"@RickyKardjono Gampang di bujuk "" gaji besar ,gampang di bodoh""in ..kpn org kita ini pintar"" ya 😔",sadness,ms,Sadness,Negative,Yes,No,hitl,788
+mybully:val:789,val,"🌟 RESULT WATFORD🌟
+HARI : SELASA, 08 APRIL 2025
+RESULT : 1979
+SHIO  : Babi
+SELAMAT KEPADA PEMENANG SALAM JP BABELTOTO 🔥🔥 https://t.co/7ibf3okCig",joy,ms,Happiness,Positive,No,No,hitl,789
+mybully:val:790,val,"@SyedAkramin @gedebek BUTO WEIH KAU YANG TUNGANG ANJING DAP DIAMLAH!! ITU ABANG BELON ITU, DAH KAT HOSPITAL DAN KAU TUNGANG KUIL TU KAN KAU TAK TAHU KE BANYAK KUIL HARAM DI BINA TAK ADA LESEN BUTO KAU LAH DAP ANJING DAH LAH PAKAI FAKE AKAUN BUTO2 WALAKNON SIAL KIMAK",anger,ms,Anger,Negative,Yes,Yes,hitl,790
+mybully:val:791,val,"Bangsa ini memang dibikin bodoh oleh asing lewat kaki tangannya untuk fokus dengan kegaduhan saja. 
+
+Menghambat kerja pemerintah serta menekan agar menuruti kemauan mereka dengan aneka intimidasi fitnah",anger,ms,Anger,Negative,Yes,Yes,hitl,791
+mybully:val:792,val,apa aku harus jadi anjing biar terlihat lucu di mata mu https://t.co/9ltXd1tZ6h,sadness,ms,Sadness,Negative,No,No,hitl,792
+mybully:val:793,val,MAKIN NGERTI TRANSLATE NYA MAKIN SINTING 😭😭 GILA YA JOONGDUNK,surprise,ms,Surprise,Neutral,No,No,hitl,793
+mybully:val:794,val,@Tita83079013 bodoh,anger,ms,Anger,Negative,Yes,Yes,hitl,794
+mybully:val:795,val,orang-orang oetimu makin dibaca makin anjing!,anger,ms,Anger,Negative,Yes,Yes,hitl,795
+mybully:val:796,val,Punya la takde keupayaan untuk berfikir sampai sikit-sikit nak seru grok. Bodoh gila?,anger,ms,Anger,Negative,Yes,Yes,hitl,796
+mybully:val:797,val,"@gloomysanday SIAL AKU KIRA ITU DC, MAAF MATAKU TADI NYASAR, SAN 😭😭😭😭 terbyata hyperbeam 😭",sadness,ms,Sadness,Negative,No,No,hitl,797
+mybully:val:798,val,@xzinyuw @pheanbin MEMATIKAN* SIAL AUTOCORRECT.,anger,ms,Anger,Negative,No,No,hitl,798
+mybully:val:799,val,This is dumb. Pastu pembangkang nak join the wagon for political gain pun bodoh gak 💀,anger,ms,Anger,Negative,Yes,No,hitl,799
+mybully:val:800,val,@hnirankara Hai @grok  apakah benar presiden indonesia semakin bodoh?,anger,ms,Anger,Negative,Yes,No,hitl,800
+mybully:val:801,val,@Xweapon15 @k0wachii @ARSIPAJA Sangat reliable dan on point terhadap kasus tertera penempatan cerita ini! Saya tercerahkan bagai cahaya ilahi menyinari kamarku dikala fajar seakan-akan kamarku seketika menjadi Masjidil-Haram..,joy,ms,Happiness,Positive,No,No,hitl,801
+mybully:val:802,val,"berangkat dari rumah hampir jam 10 malam sampai dikost pukul 06:50, lalu berangkat ke kampus pukul 07:30. gila sihhh",anger,ms,Anger,Negative,No,No,hitl,802
+mybully:val:803,val,Daffa gila anjirrr 🔥,joy,ms,Happiness,Positive,No,No,hitl,803
+mybully:val:804,val,"👉 INFO PENGELUARAN TOGEL MIKITOTO 👈
+
+PASARAN  : 🔥 MANDALAY 02 🔥
+TANGGAL  :  08 APRIL 2025
+SHIO     : ☯️ ANJING ☯️ 
+RESULT   : 👉 6668 👈
+
+#MIKITOTO 
+#SLOTGACOR #SLOTONLINE #KELUARANTOGEL #JUDIONLINE #PRAGMATICPLAY #RESULTTOGEL #TOGELONLINE 
+#PREDIKSITOGEL #TOGEL https://t.co/BDUD59XiUV",neutral,ms,Neutral,Neutral,No,No,hitl,804
+mybully:val:805,val,@sundastruggle ANJING IH 😭😭😭😭😭,anger,ms,Anger,Negative,Yes,Yes,hitl,805
+mybully:val:806,val,So intrigued to b an embalmer! Been researching and watching videos/ podcasts about this. Cool gila weh! 💀,joy,ms,Happiness,Positive,No,No,hitl,806
+mybully:val:807,val,TANGKAP JE DOHH PERANGAJ MEMASING CAM BABI PLS DONT KEEP,anger,ms,Anger,Negative,Yes,Yes,hitl,807
+mybully:val:808,val,Gila Negara yang mau bubar Timnasnya lolos Piala Dunia #AFCU17 #WCQ2026,anger,ms,Anger,Negative,No,No,hitl,808
+mybully:val:809,val,@HalimCrypto @qxqxmx @tonystarkxcw Yang bodoh tu kau kaki porn acah2 terpaling cerdik😀😀😀😀bodoh bahlol sampah https://t.co/3M8EaVsTcx,anger,ms,Anger,Negative,Yes,Yes,hitl,809
+mybully:val:810,val,turun anjing 😭😭😭😭😭😭😭😭😭😭😭 https://t.co/7QdirXoUbs,sadness,ms,Sadness,Negative,No,Yes,hitl,810
+mybully:val:811,val,SIAPA BILANG KMRN BOY VER GA BKL SECAKEP TRY VER?????? MENTAL KU KE BANTAI LIAT DIA DEMDUD BEGINI SIAL 😭🥲💔 https://t.co/bvLqb4Hmti,sadness,ms,Sadness,Negative,No,No,hitl,811
+mybully:val:812,val,lain kali jgn dok buat teruk drpd org tk tau kau MAT PET ADA 13 REKOD JENAYAH auto keluar semua benda busuk kau tu skrg rasakn satu keturunan malu dh la MISKIN BODOH pulak tu,anger,ms,Anger,Negative,Yes,Yes,hitl,812
+mybully:val:813,val,"@CuteAaruhi2 @grok @CuteAaruhi2 yeh har janwar ka mutr pi sakte hai sirf 🐷 ka nhi kyuki yeh haram hai 😂 
+Chamgadar ka mutr sabse pak hota hai 😂",joy,ms,Happiness,Neutral,No,Yes,hitl,813
+mybully:val:814,val,"@warnabilla Kesian gila sistur tu haih. Padahal apa dia cakap awal"" tu memang betul pun tibe je melalut jadi personal attack",anger,ms,Anger,Negative,Yes,No,hitl,814
+mybully:val:815,val,"Usia boleh up
+Tpi goyangan and jepitan memeknya bikin gila.. Pro player binor alim #chatseks",joy,ms,Happiness,Positive,No,Yes,hitl,815
+mybully:val:816,val,"Aku taknak juga bertanggungjawab/take part in other people’s mess, siapa betul siapa salah dalam family drama. Sokong ini ke sokong itu whatever. For me, semua ada sial nya. Masalah dia, bukan masalah saya
+
+Break me free, yang aku tahu aku nak hidup bahagia dan fokus pada kerjaya",anger,ms,Anger,Negative,No,No,hitl,816
+mybully:val:817,val,wah anjing GONG BGT TU THREAD COKKK STRESSSSSSAA,anger,ms,Anger,Negative,No,Yes,hitl,817
+mybully:val:818,val,Cuma dari program ga jelas Lo itu kah. Anjing bgt ahhhh,anger,ms,Anger,Negative,Yes,Yes,hitl,818
+mybully:val:819,val,@jiwoongkiem Kata siapa aku bodoh ya,anger,ms,Anger,Negative,No,No,hitl,819
+mybully:val:820,val,kesimpulan obrolan gila hari ini :,neutral,ms,Neutral,Neutral,No,No,hitl,820
+mybully:val:821,val,"Ketika inflasi lebih tinggi drpd kenaikan gaji, seharusnya rakyat bersatu demo kepada rezim. Tapi negara lawak ini memelihara rakyat bodoh sehingga tidak ada demo.",anger,ms,Anger,Negative,Yes,No,hitl,821
+mybully:val:822,val,"@sawitdreams Biasalah. Dah boleh hafal dah. Lepastu buat macam kaum atau agama lain takde moral compass.
+
+""Laki Melayu lagi teruk. Dahla Islam. Dia bukan Islam so takpelah.""
+
+""Tu la. Cousin I kan, dia rempit. Lelaki Melayu semua cam sial cam cousin I"".
+
+Lah tibah kita kena. 😬",surprise,ms,Surprise,Negative,Yes,Yes,hitl,822
+mybully:val:823,val,"Blood Brothers arahan Syafiq Yusof &amp; Abhilash Chandra ni filem aksi yang solid gila. Dari watak ke skrip ke aksi semua padu. Shukri Yahya &amp; Syazwan Zulkifli pun naik level! Thanks @syafiqyusof for the tix!
+
+Rating: 9.5/10 
+#BloodBrothersBaraNaga #HDABDHMD https://t.co/ssw1dqgze6",joy,ms,Happiness,Positive,No,No,hitl,823
+mybully:val:824,val,@ohhmypoison Gila ah 😭😭😭😭,joy,ms,Happiness,Neutral,No,No,hitl,824
+mybully:val:825,val,"@occyeansnic halo gila, aku sinting salken ya",joy,ms,Happiness,Positive,No,No,hitl,825
+mybully:val:826,val,"Dh kena buat rules kalau baran, xleh amik lesen sbb nnt buat benda bodoh mcm ni. Terpaling nk laju",anger,ms,Anger,Negative,No,No,hitl,826
+mybully:val:827,val,GOL LAGI ANJING GACORRRRRRRR U17,joy,ms,Happiness,Positive,No,No,hitl,827
+mybully:val:828,val,Storage yg diperlukan utk studio raya 2025 is 1tb..gila betul,surprise,ms,Surprise,Neutral,No,No,hitl,828
+mybully:val:829,val,"@DominosMY ni kau panggil pizza ke? Rasa macam roti pizza beli kat pasaraya Giant ja. Dengan BBQ chicken takde setitik haram BBQ, pizza kering, sos  macam nak bagi makan budak, paling sial mushroom soup cair nak mati dan sedikit haram rasa tak ada. Korang puasa lagi ke? https://t.co/FvlzHAawwC",anger,ms,Anger,Negative,Yes,No,hitl,829
+mybully:val:830,val,Tergila gila dengan kelucuan Rio,joy,ms,Happiness,Positive,No,No,hitl,830
+mybully:val:831,val,"@Syakurlah1 @DokterTifa Ni org msh aja bodoh, kpn pinternya,",anger,ms,Anger,Negative,Yes,Yes,hitl,831
+mybully:val:832,val,@nekomatchalla aku in public sial,anger,ms,Anger,Negative,No,No,hitl,832
+mybully:val:833,val,@ranaini21 aku juga hampir gila,anger,ms,Anger,Negative,No,No,hitl,833
+mybully:val:834,val,Ah gila.,neutral,ms,Neutral,Neutral,No,No,hitl,834
+mybully:val:835,val,"@IniAlalalannn benda simple je. kau tengok kiri tu lenggang macam ni, kau gi kiri. lorong kanan tu lorong memotong. kau memotong apanya sial kalau kiri kau kosong. potong angin????",anger,ms,Anger,Negative,Yes,Yes,hitl,835
+mybully:val:836,val,Mulai merasa orang-orang yang didekat aku bakal kena sial,sadness,ms,Sadness,Negative,No,No,hitl,836
+mybully:val:837,val,Aku la dapat dekat baran aku memang ringan je tangan ni wei kau ni dahlah meminta tau buatlah cara elok elok apa sial camni kurang ajar kot,anger,ms,Anger,Negative,Yes,Yes,hitl,837
+mybully:val:838,val,@deXyreSinn Sial,neutral,ms,Neutral,Neutral,No,No,hitl,838
+mybully:val:839,val,"@democrazymedia Tidak ada kejahatan yg sempurna, pura2 bodoh dan tdk peduli itu hampir sempurna",anger,ms,Anger,Negative,Yes,No,hitl,839
+mybully:val:841,val,"@mhmmdhsm Ini bukan tegas dalam mendidik, ini namanya baran. Baran dengan bodoh nih sama jer, time kau baran, bodoh kau akan keluar. Mana2 yg back up mamat tuh buat mcm nih dkt anak dia, ketahuilah korng mmng sial sebagai seorng parents. Sial punya puak2 panas baran, back up puak kau plak.",anger,ms,Anger,Negative,Yes,Yes,hitl,841
+mybully:val:843,val,eh sumpah harus diobatin ini setan anjing,anger,ms,Anger,Negative,Yes,Yes,hitl,843
+mybully:val:844,val,@Solisidtor Rakyat bukan bodoh mcm ko lah Sid..,anger,ms,Anger,Negative,Yes,Yes,hitl,844
+mybully:val:845,val,@ARSIPAJA Apalagi yang bodoh pak,anger,ms,Anger,Negative,Yes,No,hitl,845
+mybully:val:846,val,"@dakaichikun Sial, badut banget
+Tidak bisa mengatakan tidak pada collab menarik 😔",neutral,ms,Neutral,Neutral,No,No,hitl,846
+mybully:val:847,val,kalau bodoh jd polisi atau wapres,anger,ms,Anger,Negative,Yes,Yes,hitl,847
+mybully:val:848,val,@Hasahimada Ternak babi pun ku lakukan demi anak mah,neutral,ms,Neutral,Neutral,No,No,hitl,848
+mybully:val:849,val,Petty gila argue kat twitter sampai buat burner account,anger,ms,Anger,Negative,Yes,No,hitl,849
+mybully:val:850,val,Sial Sungjin half manbun  https://t.co/Bi5QSTYBir,neutral,ms,Neutral,Neutral,No,No,hitl,850
+mybully:val:851,val,si bodoh,anger,ms,Anger,Negative,Yes,Yes,hitl,851
+mybully:val:852,val,"Kena tft gila 😌 dari iron, bronje, paling lusa silper. Mana karakternya dongo, lucu wkwk 🤣 https://t.co/glep2jXErw",joy,ms,Happiness,Positive,No,No,hitl,852
+mybully:val:853,val,"Kata DAP parti cina, bila ada wakil rakyat melayu, label pula diorang pengkhianat, bodoh punya melayu 😂",disgust,ms,Disgust,Negative,Yes,Yes,hitl,853
+mybully:val:854,val,@PERSADA_MUZIK bodo rohingya babi gi mampos,anger,ms,Anger,Negative,Yes,Yes,hitl,854
+mybully:val:855,val,Apalagi orang bodoh,anger,ms,Anger,Negative,Yes,Yes,hitl,855
+mybully:val:856,val,Israel punya sial tak boleh bawa bincang.,anger,ms,Anger,Negative,Yes,Yes,hitl,856
+mybully:val:857,val,"Childfree is not even haram. Just islam ""anjurkan"" utk ada anak, samalah mcm sunnah berkahwin, bukannya sesiapa yg tak kahwin tu auto dosa😭 kenapa senang2 je manusia ni nak mengharamkan benda yg tk haram pun?",anger,ms,Anger,Negative,No,No,hitl,857
+mybully:val:858,val,@stefyoi98 Ah sial dah ada J-pass nya,neutral,ms,Neutral,Neutral,No,No,hitl,858
+mybully:val:859,val,Bangun tidur dengan perasaan gaenak alias anjing😓,sadness,ms,Sadness,Negative,No,No,hitl,859
+mybully:val:860,val,"@adamyusuf88 kene pukul tu bukan skrip la bahalol, kan dah ada video. bodoh betul cytro ph ni",anger,ms,Anger,Negative,Yes,Yes,hitl,860
+mybully:val:861,val,gua gila kayanya,neutral,ms,Neutral,Neutral,No,No,hitl,861
+mybully:val:862,val,"@jnnie_j Tapi kau mengaku kai couple jenma, gila ah ingatan murah",anger,ms,Anger,Negative,Yes,No,hitl,862
+mybully:val:863,val,"Benda2 camni halal untuk pemimpin2 PAS shj, haram untuk orang lain.
+
+Baru sikit ujian dunia, dah conggek gini! https://t.co/mJ3huy0hsx",anger,ms,Anger,Negative,Yes,Yes,hitl,863
+mybully:val:864,val,@_xxzuu_ Babi Air 🥲🥲,anger,ms,Anger,Negative,Yes,No,hitl,864
+mybully:val:865,val,haram nyinggung soal perkuliahan di saat gw abis to! HARAMN HARAMNN HARAMMMMMM,anger,ms,Anger,Negative,No,No,hitl,865
+mybully:val:866,val,"???
+
+Pasangan yang mana dulu woy?? Yang halal apa yang haram??",neutral,ms,Neutral,Neutral,No,No,hitl,866
+mybully:val:867,val,This is fked me up hahahah sial la jai https://t.co/Jk3JCO6ZLE,anger,ms,Anger,Negative,No,No,hitl,867
+mybully:val:868,val,"Hasil Pengeluaran POIPET22
+Hari Senin , 07 April 2025
+Result : PRIZE 1: 9231,  SHIO : BABI
+Prize 2 : 5682
+Prize 3 : 8071
+Selamat Kepada Pemenang Salam JP",joy,ms,Happiness,Positive,No,No,hitl,868
+mybully:val:869,val,@MhmmdRzkii16 LU JIJIK NAJIS ANJING https://t.co/RYvBPl2kd0,anger,ms,Anger,Negative,Yes,Yes,hitl,869
+mybully:val:870,val,Ni apahal babi? Kes tak puas hati ke apa kesian gila anjing tu melecur kaki diaaaa,anger,ms,Anger,Negative,Yes,Yes,hitl,870
+mybully:val:871,val,"❓ goy mo berak goy
+💬 ANJING LAMA LAMA TELLO GW HPS YA  https://t.co/WvNMOnzx84",anger,ms,Anger,Negative,Yes,Yes,hitl,871
+mybully:val:872,val,eh babi ko lepas unfollow aku boleh terus remove tak? aku fans ko ke babi,anger,ms,Anger,Negative,Yes,Yes,hitl,872
+mybully:val:873,val,@KompasTV siapa yg mau bayar mhs..mahasiswa gak bodoh,anger,ms,Anger,Negative,No,No,hitl,873
+mybully:val:874,val,sial,anger,ms,Anger,Negative,No,No,hitl,874
+mybully:val:875,val,"Hasil Pengeluaran OREGON009 POOLS
+Hari Selasa, 08 April 2025
+Result : 4792
+SHIO   : Anjing
+Selamat Kepada Pemenang, Salam Jp IpTogel
+#IpTogel #togelonline #slot #casino #bandarterpercaya #togelOREGON009",neutral,ms,Neutral,Neutral,No,No,hitl,875
+mybully:val:876,val,"@naik_zakar @Cool_Wannabe82 Bodoh la kafir ni. Kau tak baca komen ke? Tak kisah bangsa mana yang buat sial, semua kena maki sama rata.",anger,ms,Anger,Negative,Yes,Yes,hitl,876
+mybully:val:877,val,@alfatehamorr Yg bebal ateis laknat je. Serupa perangai kapir laknat. Oh melayu libebal pun sama naik jgk bodoh dia.,anger,ms,Anger,Negative,Yes,Yes,hitl,877
+mybully:val:878,val,@farafarahh @ezzahnor omg loveeee thank uuu &lt;3 tadi tengok basilur ada yang packaging bentuk macam buku comel gila 😭,joy,ms,Happiness,Positive,No,No,hitl,878
+mybully:val:879,val,orang gila baru jg 20 mau dijodohin 😭 SAMA POLISI CUIHHHH,neutral,ms,Neutral,Negative,Yes,No,hitl,879
+mybully:val:880,val,"@unmagnetism @UpdateBolabola Un anjing tiba"" ada biru nya WKWKWKWKWL",neutral,ms,Neutral,Neutral,No,No,hitl,880
+mybully:val:881,val,Putus semua babi https://t.co/7h9vBGCcoG,anger,ms,Anger,Negative,Yes,Yes,hitl,881
+mybully:val:882,val,@ars_engraphite biar makin gila... makin dewasa harus semakin gila kk kt butuh grand blue s2,neutral,ms,Neutral,Neutral,No,No,hitl,882
+mybully:val:883,val,Ternyata I need ketemu orang2 biar gak gila wkwk,joy,ms,Happiness,Positive,No,No,hitl,883
+mybully:val:884,val,Nk fuck berdenyut sial pale kote ni….,anger,ms,Anger,Negative,Yes,Yes,hitl,884
+mybully:val:885,val,"Satu Agama beda pengasong ribut, dan saling lawan.
+Sesama pribumi dibentur benturkan.
+Sementara yg satu agama nun jauh disama diklaim sebagai SAUDARA se iman.
+
+Kalian memang bodoh dan tak berakal.
+
+Sementara asing dan aseng menikmati pertikaian, sambil ukur lahan &amp; lautan.",anger,ms,Anger,Negative,Yes,Yes,hitl,885
+mybully:val:886,val,gak pernah gw segercep ini cmn krn mereka main sama ANJING https://t.co/gJERCLZj5N,neutral,ms,Neutral,Neutral,No,No,hitl,886
+mybully:val:887,val,"“Mhm?” Netra jingga itu mengerjap pelan, sentuhan-sentuhan Phainon membuatnya rileks. “Katakanlah aku bodoh. Namun sebenarnya dimana titik lemah yang kamu katakan itu?” Jemarinya kembali menyusuri punggung tegap itu.",joy,ms,Happiness,Neutral,No,No,hitl,887
+mybully:val:888,val,@pranatabcd_b Waras kalau ga waras brarti gila,anger,ms,Anger,Negative,Yes,No,hitl,888
+mybully:val:889,val,@perlubakwan @Bl3ss3dSoul @cnbcindonesia Bodoh,anger,ms,Anger,Negative,Yes,Yes,hitl,889
+mybully:val:890,val,oiii invested gila aku dengan tea dr ni baru tahu dia duda,surprise,ms,Surprise,Positive,No,No,hitl,890
+mybully:val:891,val,@admiralkizaruuu @susipudjiastuti @prabowo HahHa bodoh!!! Primitip elu; hari gini urusan duniawi… kalau mati nanti urusan.,anger,ms,Anger,Negative,Yes,Yes,hitl,891
+mybully:val:892,val,"@AmeeRamly Suruh dia diam je lah. Stress aku nengok, asal bercakap je benda bodoh😭",anger,ms,Anger,Negative,Yes,No,hitl,892
+mybully:val:893,val,"@update11111 @OfficialRafiq cepatlah viral muka2 budak sial tu, biar satu malaysia kenal",anger,ms,Anger,Negative,Yes,Yes,hitl,893
+mybully:val:894,val,@kucingcomel75 @adamyusuf88 Macam sial ayat,anger,ms,Anger,Negative,No,Yes,hitl,894
+mybully:val:895,val,Tak mengaku? Bodoh ke?hahah,anger,ms,Anger,Negative,Yes,No,hitl,895
+mybully:val:896,val,@Bersajak_id Sial nya masih lagi,anger,ms,Anger,Negative,No,No,hitl,896
+mybully:val:897,val,Baru saja mengalami hal sial 🙂,neutral,ms,Neutral,Neutral,No,No,hitl,897
+mybully:val:898,val,@jihankejepit eh anjing make ni org,anger,ms,Anger,Negative,Yes,Yes,hitl,898
+mybully:val:899,val,"baca webtoon selalu masuk list cowo idaman mulu, dapat aja engga, sial",neutral,ms,Neutral,Neutral,Yes,No,hitl,899
+mybully:val:900,val,anjing mana pegang motor aku sial,anger,ms,Anger,Negative,No,Yes,hitl,900
+mybully:val:901,val,@cuddsheo gila ajaa,disgust,ms,Disgust,Negative,Yes,No,hitl,901
+mybully:val:902,val,@marlboroumild kak terus kasih infor lebih lanjut ya mengenai anak gila itu,anger,ms,Anger,Negative,Yes,No,hitl,902
+mybully:val:903,val,"@babi_entlce @kdrabraham MDS SIMMMMMMMMM 
+HAHAHHAHAHAHA",joy,ms,Happiness,Positive,No,No,hitl,903
+mybully:val:904,val,"@r8drum Siberian sih.
+Anjing yang ada di dunia maya.",neutral,ms,Neutral,Neutral,No,No,hitl,904
+mybully:val:905,val,"@tomatoberryy Aseliiii mana ngomongnya sh*bal terus😭😭
+Kita yg nonton pun jd ikutan gila😭😂",neutral,ms,Neutral,Neutral,No,No,hitl,905
+mybully:val:906,val,@mignly padahal pinginnya ga sial,neutral,ms,Neutral,Neutral,No,No,hitl,906
+mybully:val:907,val,"not mention semua orang tapi agak ii la weh kau fikir orang yg nak fun ngan kau tu pelacur ke sampai nak bayar, jijik sial🖕🏿",disgust,ms,Disgust,Negative,Yes,Yes,hitl,907
+mybully:val:908,val,@FatimaTehr9693 @QueenofSuss @Neglectedone_ @waqas_tanveer1 X ki phopho ye bni hui aj kal🙂,joy,ms,Happiness,Positive,No,No,hitl,908
+mybully:val:909,val,"@JesvinGeo ISIS - Islam - CIA OPS
+Taliban - Islam- CIA OPS
+Hezbollah - Islam- CIA OPS
+Boko Haram - Islam- CIA OPS
+Hamas - Islam- CIA OPS
+Lashkar - Islam- CIA OPS
+Jaish-e-mohammad - Islam- CIA OPS
+Al qaeda - Islam- CIA OPS
+Al-Shabaab - Islam- CIA OPS
+Ansar-al-sharia - Islam- CIA OPS",anger,ms,Anger,Negative,Yes,Yes,hitl,909
+mybully:val:910,val,@Solisidtor @AmirudinShari Haha dok bodoh lagi hang ni. Hari-hari bodoh noh? Makan taik babi ka? 🤣🤭,anger,ms,Anger,Negative,Yes,Yes,hitl,910
+mybully:val:911,val,@kegblgnunfaedh Kl mau mau action pikir dulu makanya jgn bodoh makanya,anger,ms,Anger,Negative,Yes,No,hitl,911
+mybully:val:912,val,@ppwverss gila,neutral,ms,Neutral,Neutral,No,No,hitl,912
+mybully:val:913,val,@azaron1107_____ haram mode,neutral,ms,Neutral,Neutral,No,No,hitl,913
+mybully:val:914,val,hhh anjing,neutral,ms,Neutral,Neutral,No,No,hitl,914
+mybully:val:915,val,@astuteheart DONGO MAKAAAAN GILA?? (gw udh 6x hriini),surprise,ms,Surprise,Neutral,No,No,hitl,915
+mybully:val:916,val,"@eLjerla baru nk basuh kain, tergendala 😅 pagi td hntr anak sekolah bertembung ngan 2 ekor anjing, terkejut kita nasib sempat pusing..tgh layan harum manis 🤭 https://t.co/EEywhCXldZ",surprise,ms,Surprise,Positive,No,No,hitl,916
+mybully:val:917,val,"@nanaahoonie pikirin, aduh typo anjing",anger,ms,Anger,Negative,Yes,No,hitl,917
+mybully:val:918,val,"dalam suatu institusi ada yg tidak beres, namanya juga manusia, kadang-kadang namanya anak muda wkwk LEPAS TANGAN ANJING",anger,ms,Anger,Negative,No,No,hitl,918
+mybully:val:919,val,@cxllquery sama sama gila kita,joy,ms,Happiness,Positive,No,No,hitl,919
+mybully:val:920,val,"@ARSIPAJA TPI orang2 disekeliling bapak banyak yg ngk berakal dan cinta rakyat,,kebanyakan gila harta dan menyiksa rakyat😡",anger,ms,Anger,Negative,Yes,Yes,hitl,920
+mybully:val:921,val,@txtfrombook sial,neutral,ms,Neutral,Neutral,No,No,hitl,921
+mybully:val:922,val,"📣 JOS168 📣 
+
+Result """" CZECHOSLOVAKIA """" 08-04-2025
+"" 4831 "" SAH !!!
+Shio : BABI
+Unsur : LOGAM
+Selamat kepada member yang menang 💰 https://t.co/UIL4bfSDXP",joy,ms,Happiness,Positive,No,No,hitl,922
+mybully:val:923,val,mo gila,neutral,ms,Neutral,Neutral,No,No,hitl,923
+mybully:val:924,val,@Asahie Abang 😭😭 haram ya jadi harus diblur,sadness,ms,Sadness,Negative,No,No,hitl,924
+mybully:val:925,val,"Anjing ada yg ngajak ke sawarna, ke bandung, ke anyer tapi gua tolak semua. Cowo gua dengan enaknya liburan ga ngajak gua kemana mana, malah dia ke puncak sama tmn tmnnya gaada bahasa ngajak gua lagi wkwk",joy,ms,Happiness,Positive,No,No,hitl,925
+mybully:val:926,val,"sebab tu tariff us ni bodoh nak mampus. how to negotiate. buang that 5.6%? kalau guna calculation trade deficit, sampai bila2 tariff malaysia tu takkan jadi rendah. bodoh punya rambut oreng",anger,ms,Anger,Negative,Yes,Yes,hitl,926
+mybully:val:927,val,"Selasa / 8 Apr 2025 / 9 Syawal 1446H
+𝟳:𝟭𝟰𝙥𝙜 - Masuk waktu 𝙎𝙮𝙪𝙧𝙪𝙠 bagi Perlis &amp; kwsn yg sama waktu. Waktu haram solat hingga 7:29pg.
+Waktu Ishraq mula pada 𝟳:𝟯𝟬𝙥𝙜.
+Waktu Dhuha mula pada 𝟳:𝟰𝟮𝙥𝙜.
+#Syuruk",neutral,ms,Neutral,Neutral,No,No,hitl,927
+mybully:val:928,val,WOYSYSHWJSJJSJS INI MAH SEKALI DAYUNG DUA TIGA PULAU TERLEWATI ALIAS ANJING JEONGLIX GUEEEEUSBWISNWKSKSKSK,joy,ms,Happiness,Positive,No,No,hitl,928
+mybully:val:929,val,"@neVerAl0nely Yg pintar habib
+Yg bodoh mukibin
+Mau di adu domba terus hahaha",joy,ms,Happiness,Negative,Yes,Yes,hitl,929
+mybully:val:930,val,@FayaAtika Kalau yg asli bodoh cuma di X macam lu,anger,ms,Anger,Negative,Yes,Yes,hitl,930
+mybully:val:931,val,"doa yang paling makbul kali ni, pergi berambus kat lukut tu bodoh, i will never forget how you envy me and the team.",anger,ms,Anger,Negative,Yes,Yes,hitl,931
+mybully:val:932,val,"@bharianmy selayaknye kena sebat 20 sebatan
+
+pukimak punya pelaq nakharam bodo nak mampos anak ko biar lintas sendiri habis salah org lain bodoh",anger,ms,Anger,Negative,Yes,Yes,hitl,932
+mybully:val:933,val,@czverse Gm cz 🫡,joy,ms,Happiness,Positive,No,No,hitl,933
+mybully:val:934,val,Kalau terbakaq 1 taman kawasan cemana ya? Celaka gila puak ni.,anger,ms,Anger,Negative,Yes,Yes,hitl,934
+mybully:val:935,val,"Pengeluaran SLOVAKIA 08 April  2025
+Result : 0956
+P2: 7230
+P3: 3485
+Shio : Anjing
+Selamat Kepada Pemenang Togel https://t.co/qZ7Qjp0D7S",neutral,ms,Neutral,Neutral,No,No,hitl,935
+mybully:val:936,val,"@DONQUIX0TE @dkclvpffkrh Buat memperjelas &amp; kasih paham orang bodoh kek elu, biar lu gk asal ngebacot",anger,ms,Anger,Negative,Yes,Yes,hitl,936
+mybully:val:937,val,aku benci jantan sial tu ngan kroni unfunny online dia diam ah kenapa la oomf aku oomf dia ya Allah,anger,ms,Anger,Negative,Yes,Yes,hitl,937
+mybully:val:938,val,"sama ular cobra aja masih cakepan ular cobra anjing, lu cocok disamain sama sampah",anger,ms,Anger,Negative,Yes,Yes,hitl,938
+mybully:val:939,val,ANJING ANJNG ANJING ANINGGGGGGGGGG,anger,ms,Anger,Negative,No,Yes,hitl,939
+mybully:val:940,val,"@Shin98989589 @tjerealjoker Kalau bodoh, mmg bodoh pun.
+Knp Anwar pakai tu ? Sebab jatuh dari kuda.
+Knp makin teruk? Sbb dibantai Rahim Noor sampai pengsan.
+Once dpt lps, KJ yg cepat2 dptkan passport utk Anwar utk dia buat pembedahan di German.
+Kau tahu tak benda ni?
+Kau tak tahu sbb kau bodoh &amp; terus bodo.",anger,ms,Anger,Negative,Yes,Yes,hitl,940
+mybully:val:941,val,anjing,anger,ms,Anger,Negative,Yes,Yes,hitl,941
+mybully:val:942,val,@dian_arifiya gila secspe apa ya ngedakinya,joy,ms,Happiness,Positive,No,No,hitl,942
+mybully:val:943,val,sial lah 😭,sadness,ms,Sadness,Negative,No,No,hitl,943
+mybully:val:944,val,@PawsCoinNews Monyet anjing kontol...,anger,ms,Anger,Negative,Yes,Yes,hitl,944
+mybully:val:945,val,eh gila apa yak 9 jt coy… mana kalau diliat2 pc biasa semua gk ada yg hd-hd bgt 😭😭,sadness,ms,Sadness,Negative,No,No,hitl,945
+mybully:val:946,val,"@kegblgnunfaedh Plant 😂, dasar bocil gila gila standar",disgust,ms,Disgust,Negative,Yes,No,hitl,946
+mybully:val:947,val,"sial baru aja gua mengharapkan kiss scene yang menggelegar, ternyata mati dia",sadness,ms,Sadness,Negative,No,No,hitl,947
+mybully:val:948,val,"@Mdy_Asmara1701 Gaya Politik Nicolo Machiaveli, ""semakin bodoh rakyat maka kekuasaan akan semakin lama""",anger,ms,Anger,Negative,Yes,No,hitl,948
+mybully:val:949,val,Anaknye suka buat benda bodoh lepastu sedih hmmm,sadness,ms,Sadness,Negative,Yes,No,hitl,949
+mybully:val:950,val,12. Orang gila (lagi) https://t.co/m1IPfQntzY,anger,ms,Anger,Negative,Yes,Yes,hitl,950
+mybully:val:951,val,@guancchan @pompomfess Gila wow,surprise,ms,Surprise,Positive,No,No,hitl,951
+mybully:val:952,val,"@patarpjan Iya lama"" gila juga nih",surprise,ms,Surprise,Neutral,No,No,hitl,952
+mybully:val:953,val,@geminiskena gila,anger,ms,Anger,Neutral,Yes,No,hitl,953
+mybully:val:954,val,"sial, tergoda bgt gua sma boY ver🥲",sadness,ms,Sadness,Negative,No,No,hitl,954
+mybully:val:955,val,"ANGKA RESULT PANAMA
+
+Hari Ini : Selasa 08 - 04 - 2025
+RESULT : 5 8 3 1
+SHIO : BABI
+
+SALAM JACKPOT DARI MILO4D !",neutral,ms,Neutral,Neutral,No,No,hitl,955
+mybully:val:956,val,@babi A diva mexeu no vespeiro kkkkk,joy,ms,Happiness,Positive,No,No,hitl,956
+mybully:val:957,val,@kuzlum jangan jadi bodoh ya,anger,ms,Anger,Negative,Yes,No,hitl,957
+mybully:val:958,val,BABI,anger,ms,Anger,Negative,Yes,No,hitl,958
+mybully:val:959,val,"Secara garis besar, hukum asal
+pernikahan memang sunnah (baik dan dianjurkan), tetapi bisa berubah menjadi wajib, mubah, makruh, atau haram tergantung pada kondisi dan situasi yang dihadapi oleh individu tersebut.",neutral,ms,Neutral,Neutral,No,No,hitl,959
+mybully:val:960,val,@Darsana2020 @lilaccountz Kata bodoh kang marah. Tapi tu lah,anger,ms,Anger,Negative,Yes,No,hitl,960
+mybully:val:961,val,"@acbsurd Jalan kepuncak liat jalan macet teriak ""anjing"" turun lagi",anger,ms,Anger,Negative,No,No,hitl,961
+mybully:val:962,val,@wahlulkavid_ Sabar ya bro,neutral,ms,Neutral,Positive,No,No,hitl,962
+mybully:val:963,val,@Aesthetic_kiran @waqas_tanveer1 Kr le kinnu maltay kuch follwers to gain kr,neutral,ms,Neutral,Neutral,No,No,hitl,963
+mybully:val:964,val,"@Narasi_winda Mereka kan Bodoh, Nabi mereka pedofil",anger,ms,Anger,Negative,Yes,Yes,hitl,964
+mybully:val:965,val,"tonnen few tweets au, si ntik ganti kepala nton makin tergila-gila https://t.co/j5QmbR1g0E",neutral,ms,Neutral,Neutral,No,No,hitl,965
+mybully:val:966,val,@shxfiie sial 💔💔💔💔 aauuuu /melolong seperti serigala,sadness,ms,Sadness,Negative,No,No,hitl,966
+mybully:val:967,val,knp hari ini sial bgt,anger,ms,Anger,Negative,No,No,hitl,967
+mybully:val:968,val,@fasekrisis Iyah yahh hal yang paling bodoh,anger,ms,Anger,Negative,No,No,hitl,968
+mybully:val:969,val,@xcutezs ga peduli gw babi,anger,ms,Anger,Negative,No,Yes,hitl,969
+mybully:val:970,val,ASTAGHFIRULLAH ASPRAK GW UDH NGASIH TUGAS LAGI BABI laprak gw aja baru kelar sehari yang lalu,anger,ms,Anger,Negative,Yes,No,hitl,970
+mybully:val:971,val,Anjing.,anger,ms,Anger,Negative,No,Yes,hitl,971
+mybully:val:972,val,yeah anjing https://t.co/mGAB2yTWyK,anger,ms,Anger,Negative,No,Yes,hitl,972
+mybully:val:973,val,"Coba selain ""BOKO(NG) HARAM (se)olah betina"" libur dahulu...
+kalau (seperti)voodoo #Africa masih ada kemungkinan bisa berhasil. https://t.co/l6J14CfFRo",anger,ms,Anger,Negative,No,Yes,hitl,973
+mybully:val:974,val,Yihhh comel gila ko ni 😭🤏🏻,joy,ms,Happiness,Positive,No,No,hitl,974
+mybully:val:975,val,ANJING,anger,ms,Anger,Negative,No,Yes,hitl,975
+mybully:val:976,val,@FatimaTehr9693 @QueenofSuss @0Mah_e_Talat0 Jab insta jao gi tab pta chlay ga😔,sadness,ms,Sadness,Negative,No,No,hitl,976
+mybully:val:977,val,@sunwoshine KATANYA BU SIAL,anger,ms,Anger,Negative,Yes,Yes,hitl,977
+mybully:val:978,val,"@MalaysiaGazette Sesiapa tu penguatkuasa,bodoh. Kau yang mula dulu, bodoh.",anger,ms,Anger,Negative,Yes,Yes,hitl,978
+mybully:val:979,val,"@genjifart kiita cool gila dalam tu. pastu suara dia marbeles rasa nok suruh dia baca ebook 😭 tapi tengok cerita dia hok lain, walaupun watak dia cool2 gitu, suara dia x se cool dlm cite ni",neutral,ms,Neutral,Negative,No,No,hitl,979
+mybully:val:980,val,@puucet Mulai gila dia .. hadeuh,anger,ms,Anger,Negative,Yes,No,hitl,980
+mybully:val:981,val,"@_AmranFans Pembangkang ni bodoh, patut bising pasal kementerian pengangkutan. Kemalangan jalan raya melibatkan lori. Tak habis2 pasal mat belon ni",anger,ms,Anger,Negative,Yes,Yes,hitl,981
+mybully:val:982,val,@kisseaaa babi bnr lg wkwk,neutral,ms,Neutral,Negative,Yes,No,hitl,982
+mybully:val:983,val,@amaneuqi hari ini sial bgt 💔,sadness,ms,Sadness,Negative,No,No,hitl,983
+mybully:val:984,val,@idextratime @grok garnacho bodoh anying bawa bola kaya  gtu mulu,anger,ms,Anger,Negative,Yes,Yes,hitl,984
+mybully:val:985,val,"Just one chance mikha lim
+Damn those smiles https://t.co/bncYur1Jcj",neutral,ms,Neutral,Neutral,No,No,hitl,985
+mybully:val:986,val,@hr_tsugiha @panjxat sial aku tertawa,joy,ms,Happiness,Positive,No,No,hitl,986
+mybully:val:987,val,@sangdanyeo KAK?!! ANJING BGT?,disgust,ms,Disgust,Negative,Yes,Yes,hitl,987
+mybully:val:988,val,"Rakyat Malaysia ni tak bodoh, tuan.",anger,ms,Anger,Negative,No,No,hitl,988
+mybully:val:989,val,@pranatadayken Gila lama lama,neutral,ms,Neutral,Neutral,No,No,hitl,989
+mybully:val:990,val,@QueenofSuss @FatimaTehr9693 @unforgettwble_q To apki ghalti ha choti post na kia kro usko nai dikhti🙂😭,anger,ms,Anger,Negative,Yes,No,hitl,990
+mybully:val:991,val,"Result Pasaran KENTUCKYEVE
+
+Hari Ini : Selasa 08 - 04 - 2025
+Result  : 1 8 3 2
+SHIO   :  ANJING",neutral,ms,Neutral,Neutral,No,No,hitl,991
+mybully:val:992,val,babi https://t.co/SpMG6pjKt7,anger,ms,Anger,Negative,Yes,No,hitl,992
+mybully:val:993,val,@xguizhong @jomokism sok dramatis anjing,anger,ms,Anger,Negative,Yes,No,hitl,993
+mybully:val:994,val,@mz_ml_ @DC5tua @meinmokhtar diam la bodoh mmg kebanyakan arab dtg malaysia ni perangai pukimak..nabi kau jangan sangkut paukkan dengan bangsa..sbb tu nabi fiutuskan dkt bangsa dorang,anger,ms,Anger,Negative,Yes,Yes,hitl,994
+mybully:val:995,val,Cartier jgn buat2 bodoh eh 🗿,anger,ms,Anger,Negative,Yes,No,hitl,995
+mybully:val:996,val,@Pechaadereir @sial_awak_mirah Me la compraría ❤️,joy,ms,Happiness,Positive,No,No,hitl,996
+mybully:val:997,val,Bukan kejar malah kek orang pasrah bodoh,anger,ms,Anger,Negative,Yes,No,hitl,997
+mybully:val:998,val,@mkini_bm Punya sial.... Doctor mana ni?,anger,ms,Anger,Negative,Yes,No,hitl,998
+mybully:val:999,val,kntol la babi,anger,ms,Anger,Negative,Yes,Yes,hitl,999
+mybully:val:1000,val,@marlboroumild BANGSATTT ANJING LUUU ANJING BABI,anger,ms,Anger,Negative,Yes,Yes,hitl,1000
+mybully:val:1001,val,@xxbbygvrl Siluman babi,anger,ms,Anger,Negative,Yes,Yes,hitl,1001
+mybully:val:1002,val,@UMonline anuar pun kena belasah dulu waktu kena tangkap....cukuplah berkawan dgn org yg bodoh yg takkan bersama kau dah lepas ni...,anger,ms,Anger,Negative,Yes,Yes,hitl,1002
+mybully:val:1003,val,@ainsangkeheng Bukan bodoh,neutral,ms,Neutral,Neutral,No,No,hitl,1003
+mybully:val:1004,val,@itscutiechristy tagih satu set ikan bodoh itu by,anger,ms,Anger,Negative,Yes,No,hitl,1004
+mybully:val:1005,val,Naik anjing enak.,joy,ms,Happiness,Positive,No,Yes,hitl,1005
+mybully:val:1006,val,Ah gila,neutral,ms,Neutral,Neutral,No,No,hitl,1006
+mybully:val:1007,val,@tulisantruck jangan sampai jadi bodoh de,anger,ms,Anger,Negative,Yes,No,hitl,1007
+mybully:val:1008,val,"Barakallah. 
+Balaikota Jakarta / Kantornya pak @pramonoanung menerima kunjungan dari Qari Masjidil Haram Syaikh Abdurrahman Al Ausy. https://t.co/e9xYviuZsQ",neutral,ms,Neutral,Neutral,No,No,hitl,1008
+mybully:val:1009,val,@bikharnekashauq Puki mak kau hitam sial punya orang.!,anger,ms,Anger,Negative,Yes,Yes,hitl,1009
+mybully:val:1010,val,@Hsial72 @QueenofSuss @WannaabeVampire @Taimoorch433 @Sial @Sial_vibes Haha Sahi hy 😂😂,joy,ms,Happiness,Positive,No,No,hitl,1010
+mybully:val:1011,val,@_vousmeu senang gila dia gerak haih senang digula2kan orang kita ni,anger,ms,Anger,Negative,Yes,No,hitl,1011
+mybully:val:1012,val,"@Ratu_Naga Bagi alasan salah dengar,kalau salah dengar jangan upload,jangan post.
+TAKKAN ITUPUN BODOH SANGAT!",anger,ms,Anger,Negative,Yes,Yes,hitl,1012
+mybully:val:1013,val,@DemokratCagdas Haram yiye yiye kul hakkı yemekten şişmiş,anger,ms,Anger,Negative,Yes,Yes,hitl,1013
+mybully:val:1014,val,"@TokPerak8 Ahli parlimen kinabatangan siap buat billboard lagi, billboard gah tapi jalan lobang sana lobang sini.
+
+tak nak komen ke.?
+buat billboard pakai duit siapa.?
+
+ke terus jadi bodoh.",anger,ms,Anger,Negative,Yes,No,hitl,1014
+mybully:val:1015,val,@Zack73166292 @XavierNaxa @azrinazman03 @kdctweets Hahaha aku nak rilek ke tak rilek ke suka hati aku la duit aku bukan duit mak bapak kau. Aku consumer aku ada hak untuk kritik. Bodoh punya penganut apple.,anger,ms,Anger,Negative,Yes,Yes,hitl,1015
+mybully:val:1016,val,eh bodoh bngt knp socially anxious even in online spaces,neutral,ms,Neutral,Neutral,No,No,hitl,1016
+mybully:val:1017,val,"@LambeResing ""lihat dia bodoh sekali yang mulia""",anger,ms,Anger,Negative,Yes,Yes,hitl,1017
+mybully:val:1018,val,infold babi anjing... tp aku sayang swami... tp infold (tetep) babi anjing 🙂‍↕️🙏🏻,neutral,ms,Neutral,Neutral,Yes,Yes,hitl,1018
+mybully:val:1019,val,"@bintgesserit Marah-marah dulu, padahal bodoh. Ngasih contohnya aja salah. Belajar dulu ya Nak.",anger,ms,Anger,Negative,Yes,No,hitl,1019
+mybully:val:1020,val,"@sadarrdirii Ya bercerita lah anjay, dipendem mulu mah jdi gila",anger,ms,Anger,Negative,No,No,hitl,1020
+mybully:val:1021,val,"@mynewshub dah la langgar pastu boleh blah macamtu bodoh bodoh,",anger,ms,Anger,Negative,Yes,No,hitl,1021
+mybully:val:1022,val,@flufflatte dasar anak hasil zina lo pelakor babi,anger,ms,Anger,Negative,Yes,Yes,hitl,1022
+mybully:val:1023,val,"@Badoma6 @Akparti Akp demek haram demek
+Akp demek fakirlik demek.
+Akp den edep öğrenecek kadar geri zekalı değiliz. https://t.co/Xts0zTAseh",anger,ms,Anger,Negative,Yes,Yes,hitl,1023
+mybully:val:1024,val,@abu_waras percuma ngasih tau sama org yg sdh gila jabatan,anger,ms,Anger,Negative,Yes,No,hitl,1024
+mybully:val:1025,val,"@keinemnzr @dihahmfrds ""bangsa jenis2 terpaling tahu ni"" tu mcm member bro tu, knowledge yilek nak bahan org yg belajar
+aku kenot la geng2 bodoh dah tau kalah fakta nak bangsatkan org 😭",anger,ms,Anger,Negative,Yes,Yes,hitl,1025
+mybully:val:1026,val,"@vabuya_ @mypolitiko Baca al-Quran dan Hadith Nabi laa…
+Berniaga belon suatu pekerjaan yang HALAL.
+
+Jual arak dan dadah barulah HARAM.",neutral,ms,Neutral,Negative,No,No,hitl,1026
+mybully:val:1027,val,@sosmedkeras kamu bodoh ya?,anger,ms,Anger,Negative,Yes,Yes,hitl,1027
+mybully:val:1028,val,"@neVerAl0nely Sebelum BianG Kerok nya Di ULeg Kepala nya Ini bakal kjadian lagi .. mereka itu gerombolan Monyet Bin BaBi
+Bikin gaduh terosssss .. 🤬",anger,ms,Anger,Negative,Yes,Yes,hitl,1028
+mybully:val:1029,val,@gyuarchivers ujian babi kek mana? ngok ngok?,anger,ms,Anger,Negative,Yes,No,hitl,1029
+mybully:val:1030,val,@kompascom Pala lu bayar anjing,anger,ms,Anger,Negative,Yes,Yes,hitl,1030
+mybully:val:1031,val,@poconggstresss @ursagee Gak ngajak ye anjing,anger,ms,Anger,Negative,Yes,Yes,hitl,1031
+mybully:val:1032,val,apa anjing yang bikin sange??? kenapa dia horny dah? https://t.co/JUKuxTWWQf,anger,ms,Anger,Negative,No,No,hitl,1032
+mybully:val:1033,val,@wak_kadirr hari sial ga ada dikalender,anger,ms,Anger,Negative,Yes,No,hitl,1033
+mybully:val:1034,val,@perkyceline @MustardSeed___ camkan itu anjing,anger,ms,Anger,Negative,Yes,Yes,hitl,1034
+mybully:val:1035,val,@apfnsbfsa__ @omywurd @unseenopium opm babi is legit brainrot in a song tfym 🤣,joy,ms,Happiness,Positive,No,No,hitl,1035
+mybully:val:1036,val,SENGAJA KAH BIKIN AKU GILA https://t.co/MwCTNtP6rv,anger,ms,Anger,Negative,No,No,hitl,1036
+mybully:val:1037,val,"DAH KO BUKAN BIDANG IT NAK BERCAKAP KENAPA, BODOH GILA SIAL",anger,ms,Anger,Negative,Yes,Yes,hitl,1037
+mybully:val:1038,val,@mkini_bm best kot jadi anjing cina,anger,ms,Anger,Negative,Yes,Yes,hitl,1038
+mybully:val:1039,val,"Hasil Pengeluaran TOTOCAMBODIA
+HARI SELASA, 08 April 2025
+Prize 1 : 6167, SHIO : BABI
+Prize 2 : 2758
+Prize 3 : 3224
+Selamat Kepada Pemenang, Salam JP",neutral,ms,Neutral,Positive,No,No,hitl,1039
+mybully:val:1040,val,mbg mulu si babi,anger,ms,Anger,Negative,Yes,Yes,hitl,1040
+mybully:val:1041,val,Argh Leon cakeepejsksh cmn bank gw ke blokir sial salah pin,anger,ms,Anger,Negative,No,No,hitl,1041
+mybully:val:1042,val,anjing,anger,ms,Anger,Negative,Yes,Yes,hitl,1042
+mybully:val:1043,val,"@meinmokhtar Jangan tanya soalan bodoh pls Anon 😂 postinor tak jalan , makan jela pil perancang sebab nafsu tak boleh dikawal ,atleast berjaga jaga , masing masing muda lagi sokay tapi yang penting jgn tanya lagi kat sini buat dosa takyah bagitau diam diam je kalau fah bertaubat alhamdulilah",neutral,ms,Neutral,Neutral,Yes,No,hitl,1043
+mybully:val:1044,val,@arman_dhani sial lucu lg boi,joy,ms,Happiness,Positive,No,No,hitl,1044
+mybully:val:1045,val,Macam sial,anger,ms,Anger,Negative,No,Yes,hitl,1045
+mybully:val:1046,val,orang gila,anger,ms,Anger,Negative,Yes,No,hitl,1046
+mybully:val:1047,val,"Vietnam U-17 Ditertawakan di AFF, Kini Buat Australia dan Jepang Ketar-Ketir!
+
+Di dua laga awal, Vietnam sukses menahan imbang dua raksasa Asia:
+🔥 Australia 1-1
+🔥 Jepang 1-1
+
+Hal yang lebih gila lagi adalah mereka masih punya peluang lolos ke Piala Dunia U-17! https://t.co/vxl9j5nwiz",joy,ms,Happiness,Positive,No,No,hitl,1047
+mybully:val:1048,val,@MalaysiaMdk Bodoh 👎,sadness,ms,Sadness,Negative,Yes,Yes,hitl,1048
+mybully:val:1049,val,make emg 4 pu ini anjing,anger,ms,Anger,Negative,Yes,Yes,hitl,1049
+mybully:val:1050,val,@tempodotco Anjing,anger,ms,Anger,Negative,Yes,Yes,hitl,1050
+mybully:val:1051,val,@Boediantar4 Jangan salahkan Jokowi terus .orang itu bekerja belajar menjadi contoh ..partai yg membuat bangsa menjadi bodoh.,anger,ms,Anger,Negative,Yes,No,hitl,1051
+mybully:val:1052,val,"Konon terseksa time kawin dengan ex laki dulu, tp lepas kawin kemain bitter mcm org tak move on. Kalau aku lepas dari laki toxic mcm tu aku buat party besar2an pastu aku whoareyouskan saja jantan sial mcm tu.",anger,ms,Anger,Negative,Yes,Yes,hitl,1052
+mybully:val:1053,val,dikata gila sm tmn tmn ku krn udh gede masi beli ginian 😭 https://t.co/dhPB4v4sCx,sadness,ms,Sadness,Negative,No,No,hitl,1053
+mybully:val:1054,val,Chelsea terlalu baik utk rick yang nonchalant..berapa banyak i love you dari Chelsea satu pun dia x reply..punya bodoh laki ni,anger,ms,Anger,Negative,Yes,No,hitl,1054
+mybully:val:1055,val,"@nisarcastic @shukrihidayat @Aydan_Arief Takyah gaduh dgn dia la kak. Bab poligami laju, bab nafkah mcm babi kena terajang hilang otak",anger,ms,Anger,Negative,Yes,Yes,hitl,1055
+mybully:val:1056,val,@dailysyahira Based yg nad baca centu lah. Yg cover relay dorang pun sama jahat! Sumpah kesian gila. If tak suka back off awal awal. procedure nikah bukan senang. Bazir duit masa tenaga betul.,joy,ms,Happiness,Negative,Yes,No,hitl,1056
+mybully:val:1057,val,"Dia tidak berhenti di situ. Dia kata lagi, ""Yang buat report polis terhadap isteri aku sampai polis datang rumah sebab isteri aku berkata benar, yang tuduh isteri aku gila, yang kata isteri aku salah, yang kutuk2 isteri aku sebab nak beri kesedaran pada semua tentang",anger,ms,Anger,Negative,No,No,hitl,1057
+mybully:val:1058,val,@FatimaTehr9693 @hamawahiho @QueenofSuss Lekin ap jitna koi nai piyara😭😭 meri awaz ap tak pohnchi?😂,sadness,ms,Sadness,Negative,No,No,hitl,1058
+mybully:val:1059,val,Saatnya berkata : dasar anjing 🤣,anger,ms,Anger,Negative,Yes,Yes,hitl,1059
+mybully:val:1060,val,BABI VENDENDO DESINFORMAÇÃO,anger,ms,Anger,Negative,Yes,No,hitl,1060
+mybully:val:1061,val,@Ekta_79 @NazneenAkhtar23 Our.tu.enki.dalali.karati.thi.haram.jadi.tubhi.aisa.karti.hogi.tabi,anger,ms,Anger,Negative,Yes,Yes,hitl,1061
+mybully:val:1062,val,sial amat ini club,anger,ms,Anger,Negative,No,No,hitl,1062
+mybully:val:1063,val,@TamaTsun_ Bodoh bodoh je lah,anger,ms,Anger,Negative,Yes,No,hitl,1063
+mybully:val:1064,val,@anbutraining @labersonly anjing lu😠,anger,ms,Anger,Negative,Yes,Yes,hitl,1064
+mybully:val:1065,val,@tulisantruck jangan jadi manusia bodoh,anger,ms,Anger,Negative,Yes,Yes,hitl,1065
+mybully:val:1066,val,"@jansen_jsp @prabowo Ah jgn dusta kau lae, coba AHY SBY di Oposisi g dpt jatah menteri pasti kau jg koment jawaban wowo ngaco g nyambung dan anti kritik dgn andalan ndasmu , anjing mnggongong ..jujur sj lae kau mau jd komisaris jg kah?",anger,ms,Anger,Negative,Yes,Yes,hitl,1066
+mybully:val:1067,val,"@TokPerak8 Tau la jadi anjing K9 DAP tp jgnlah makan najis sendiri.  Sanusi tak boleh, tp bung boleh.  Babi punya waliwat https://t.co/hX6Lovdlt8",anger,ms,Anger,Negative,Yes,Yes,hitl,1067
+mybully:val:1068,val,@Seaoxz GILA TL GW ISINYA LO SMWA,anger,ms,Anger,Negative,Yes,No,hitl,1068
+mybully:val:1069,val,@memeunivrse Anjing jijik,disgust,ms,Disgust,Negative,Yes,Yes,hitl,1069
+mybully:val:1070,val,@mignly hahha anjing lu,joy,ms,Happiness,Negative,Yes,Yes,hitl,1070
+mybully:val:1071,val,@umnitary Soalnya kan itu benda mati,neutral,ms,Neutral,Neutral,No,No,hitl,1071
+mybully:val:1072,val,mcm byse terpegun sebab benda bodoh https://t.co/vfpjdIcNgb,anger,ms,Anger,Negative,No,No,hitl,1072
+mybully:val:1073,val,@idonutcare___ Babi wat?,anger,ms,Anger,Negative,Yes,No,hitl,1073
+mybully:val:1074,val,"Patut la badminton Malaysia susah berkembang. Pemain yang pilih keluar BAM dilayan macam pengkhianat negara, harap BAM jangan layan suggestion dinosaur bodoh roslin hashim ni",anger,ms,Anger,Negative,Yes,Yes,hitl,1074
+mybully:val:1075,val,"@teambosskuX @AhmadAdiAwang @Tomiceman88 @Bossbm17 @MydinMalaysia @dermainejupri @MatthewShanmu10 Lagi sorang bangang takde otak. Tak reti baca berita. Tu negara lain yg tak join brick tu apesal US naik kan tarif juga. UK kena, swiss kena jugak. Dasar bodoh nak mampos https://t.co/UuIiV6ZdKj",anger,ms,Anger,Negative,Yes,Yes,hitl,1075
+mybully:val:1076,val,"4 semester gua kuliah, ngerasa salah jurusan karna dasmek babi ini",anger,ms,Anger,Negative,No,No,hitl,1076
+mybully:val:1077,val,@miqnies wkwkw sial kau,joy,ms,Happiness,Neutral,Yes,No,hitl,1077
+mybully:val:1078,val,Apeke sial,anger,ms,Anger,Negative,No,Yes,hitl,1078
+mybully:val:1079,val,@Guarrdx naik babi naik babi,anger,ms,Anger,Negative,Yes,Yes,hitl,1079
+mybully:val:1080,val,@antusiacs gw ga bodoh,neutral,ms,Neutral,Neutral,No,Yes,hitl,1080
+mybully:val:1081,val,@SajidFb Haram khor drama bazi ker raha hai apne aqa saudi arab k liye aik word nahi bol sakta harami saudi ka paltu kutta,anger,ms,Anger,Negative,Yes,Yes,hitl,1081
+mybully:val:1082,val,BOCIL GENERASI Z anjing emg https://t.co/wvpRjMm86I,anger,ms,Anger,Negative,Yes,Yes,hitl,1082
+mybully:val:1083,val,"Bodo la org dah bagi signal nak ketepi bagi kau lalu tapi sialnya perangai kau nak himpit2 kenapa babi??!! Bodoh ke? Kau mati je lah! Aku sumpah patah kaki sial driver tu! Cirit 7 keturunan, air manis rasa tawar, gaji x cukup, makan x cukup rasa!!",anger,ms,Anger,Negative,Yes,Yes,hitl,1083
+mybully:val:1084,val,"@grok kenapa ya aku sering merasa di saat aku terlalu aktif di sosmed ketika membalas pesan, tp mereka tidak memberi feedback yang setara, kenapa selalu begini? aku tidak tega jika menyuekan mereka disaat mereka btuh bantuan aku, aku terlalu baik atau bodoh disaat seperti ini?",sadness,ms,Sadness,Negative,No,No,hitl,1084
+mybully:val:1085,val,SUMPAHHH ANJING AJSGAJSHSHHS,anger,ms,Anger,Negative,No,No,hitl,1085
+mybully:val:1086,val,Babi la hahahahaha,joy,ms,Happiness,Neutral,No,No,hitl,1086
+mybully:val:1087,val,ANJING,anger,ms,Anger,Negative,No,Yes,hitl,1087
+mybully:val:1088,val,"@unmagnetism Anjing lu un, dah kebobolan 😭🫵🏻",anger,ms,Anger,Negative,Yes,Yes,hitl,1088
+mybully:val:1089,val,@DokterTifa Manusia bodoh tapi licik,anger,ms,Anger,Negative,Yes,Yes,hitl,1089
+mybully:val:1090,val,@mencabrono @sial_awak_mirah Tienes cara de mala hostia...😂 https://t.co/1AW7jh3TCR,joy,ms,Happiness,Positive,No,No,hitl,1090
+mybully:val:1091,val,@cbangun15 @Ichavarma_ 😂😂😂 sial ini analogi yang bagus,joy,ms,Happiness,Positive,No,No,hitl,1091
+mybully:val:1092,val,Gila kan????https://t.co/sZtgjkbnHu,surprise,ms,Surprise,Neutral,No,No,hitl,1092
+mybully:val:1093,val,"Bahkan negara mayoritas muslim kayak 🇲🇾 Malaysia mengizinkan perjudian secara terbatas bagi non-muslim: Resorts World Genting, satu-satunya kasino legal di Malaysia.
+
+Mereka tetap mungut pajak judi dari Genting. Jadi, judi itu haram, tapi pajak judinya legal. https://t.co/YnK8vVPZaB",neutral,ms,Neutral,Negative,No,No,hitl,1093
+mybully:val:1094,val,@SyasyaaRoslann Dia macam halang orang lain dari dapat benda yang dia sendiri tak dapat sebab dia bodoh and malas nak usaha untuk something better dalam hidup dia so dia perdajal hidup orang supaya orang lain pun as fucked up as dia,anger,ms,Anger,Negative,Yes,Yes,hitl,1094
+mybully:val:1095,val,@Shuurin9 apa benda akgae bodoh ni wkwkwkwk,anger,ms,Anger,Negative,Yes,Yes,hitl,1095
+mybully:val:1096,val,@KSubktkn orang bodoh mana yg ke sawah ampe rusuhin petani nanem padi,anger,ms,Anger,Negative,Yes,Yes,hitl,1096
+mybully:val:1097,val,"Nangis tengok harga harini , sumpah murah gila ! 😭🫵🏻 https://t.co/TJ7IzRyC9u",surprise,ms,Surprise,Positive,No,No,hitl,1097
+mybully:val:1098,val,@idextratime gila anjing bgitu ga kartu,anger,ms,Anger,Negative,Yes,No,hitl,1098
+mybully:val:1099,val,apa ini anjing,anger,ms,Anger,Negative,Yes,No,hitl,1099
+mybully:val:1100,val,@kamaghul Muke ii pukimak bkl jadi mat rempit sial🤣,anger,ms,Anger,Negative,Yes,Yes,hitl,1100
+mybully:val:1101,val,@Pmahendra08 @Karishma_voice Gobar khane wale janwar ki aulad  gufa ki paidawar  zaban sanbhal haram khor,anger,ms,Anger,Negative,Yes,Yes,hitl,1101
+mybully:val:1102,val,"@ilyoshidaaa Iya anjing, fomo",anger,ms,Anger,Negative,Yes,Yes,hitl,1102
+mybully:val:1103,val,"BANGSAT BANGSAT GAK SUKURAN ANJING, UNTUNG GUA GAK GINI COK COK.",anger,ms,Anger,Negative,Yes,Yes,hitl,1103
+mybully:val:1104,val,"@AsahPolaPikir Child free itu orang tak punya iman,itu pasti tatanan dunia yg bodoh",anger,ms,Anger,Negative,Yes,Yes,hitl,1104
+mybully:val:1105,val,@FayaAtika Sama rakyat yg dipelihara utk tetap bodoh.....apalagi.....krn orang bodohlah dia jadi penguasa dan berkuasa... https://t.co/U77G4UEe1C,anger,ms,Anger,Negative,Yes,No,hitl,1105
+mybully:val:1106,val,"anjing. perdana ditipu👁️👄👁️
+shick shack shock, komtol😭😭😭 https://t.co/p7cWGWqs9m",anger,ms,Anger,Negative,No,No,hitl,1106
+mybully:val:1107,val,"@Alihusing @wanfayhsal Hahahaha nasib hang comment, aku baru nak hentam bodoh ni",joy,ms,Happiness,Neutral,Yes,Yes,hitl,1107
+mybully:val:1108,val,@dihahmfrds creepynya dia ni nape dia simpan ur video??? gila 6 years ago laktu siapa je tahu,anger,ms,Anger,Negative,Yes,No,hitl,1108
+mybully:val:1109,val,@cacingkremyyy @convomf Iyh juga y mana ada yg mau mungut manusia gila horeg dan gus tolol,anger,ms,Anger,Negative,Yes,Yes,hitl,1109
+mybully:val:1110,val,@urcuti3pie sial stop ngadu di X ya😒😒😒,anger,ms,Anger,Negative,Yes,No,hitl,1110
+mybully:val:1111,val,@Karishma_voice Antakwaadi koom koo waha jada uarna road pai namaj without helmet topi laga kai gari worf haram kaa kabja nahi hai waha original hai tum converted talwar kai daar say salwar pahan lii arub kai gulam hoo tum,anger,ms,Anger,Negative,Yes,Yes,hitl,1111
+mybully:val:1112,val,"@rosemariie007 @skinkship @krougee ketikan kaya anjing gila ngatain orang lain anjing gila, projecting mulu ni gelandangan bau sempak apalah itu 😭 intinya terlalu spesifik woi, cuci sempak lu coba jejangan malah curcol personal story LOL",anger,ms,Anger,Negative,Yes,Yes,hitl,1112
+mybully:val:1113,val,"@_friedciken Dia takda roadtax? Mampus la dia kena bayar double ( saman langgar, saman rdtx dan ganti rugi )
+
+Awak boleh buat report, tapi sebelum report tu cuba settle dengan family dia dulu ( sebab kalau dah buat report mmg akan jadi hassle and leceh gila)",neutral,ms,Neutral,Negative,Yes,No,hitl,1113
+mybully:val:1114,val,"@risnqwqn @marlboroumild MAMPUS LO ANJING DI MARAHIN, MAKANYA TAU TEMPAT NYET",anger,ms,Anger,Negative,Yes,Yes,hitl,1114
+mybully:val:1115,val,Mantan jendral tampak bodoh.,anger,ms,Anger,Negative,Yes,No,hitl,1115
+mybully:val:1116,val,"@bibbleayy Nikah itu banyak hukumnya dan general
+-Haram : jika tidak mampu memberi nafkah untuk menghidupi keluarga atau tidak mampu berhubungan suami istri
+-Makruh : tidak punya penghasilan dan tidak mampu berhubungan suami istri
+-Mubah : ini tergantung kondisi, ibaratnya ditengah2 cont-",neutral,ms,Neutral,Neutral,No,No,hitl,1116
+mybully:val:1117,val,"@marlboroumild anjing, satu keluarga problematik",anger,ms,Anger,Negative,Yes,Yes,hitl,1117
+mybully:val:1118,val,"it’s crazy for me to say this… but GOSHH I FOUND A NEW PERSON YANG NGAJAK AKU MABAR SEMALAM, dia baik banget… ga marahain aku samsek + jagoooo banget! tapi aku ngerasa aku bawa sial walaupun kita bedua main nya bagus banget akhirnya ke comeback mulu T^T",joy,ms,Happiness,Positive,No,No,hitl,1118
+mybully:val:1119,val,"🦑 @grok menurut kamu, ciwi ciwi indonesia, bodoh ga?
+
+Jujur ya.",anger,ms,Anger,Negative,Yes,Yes,hitl,1119
+mybully:val:1120,val,@jofanafandi benerr2 pura2 bodoh aja lahh,anger,ms,Anger,Negative,Yes,Yes,hitl,1120
+mybully:val:1121,val,"Harus mati mendadak semua orang-orang  yg ditandai bandung,nyatnyono,bertuhan &amp; beragama,perempuan indonesia yg menyerang terasa ke fisik &amp;/ mental gua!Tak termaafkan abadi lo!Mampus lo babu tengik tolol takhayul kontol buluk meki buluk spesies &amp; spesimen rendahan!Mutlak.",anger,ms,Anger,Negative,Yes,Yes,hitl,1121
+mybully:val:1122,val,@ttalgiwooyo Makcik i kenal supplier kuih raya thats why my kuih raya mmg banyak gila… tapi tu pun kuih dah banyak habis isdhushs,neutral,ms,Neutral,Positive,No,No,hitl,1122
+mybully:val:1123,val,@Palatao_Bola @grok kenapa Malaysia bodoh?,anger,ms,Anger,Negative,Yes,Yes,hitl,1123
+mybully:val:1124,val,@cigareotte Bodoh bodoh amatin aja lah,anger,ms,Anger,Negative,Yes,No,hitl,1124
+mybully:val:1125,val,Muka pantat betul la si belon ni sial!!!!!!!!,anger,ms,Anger,Negative,Yes,Yes,hitl,1125
+mybully:val:1126,val,"@prajapra @iqvaal @sakafathi @theaseanball A ada chances gak lolos, bodoh bgt dah jadi manusia 😭😭",anger,ms,Anger,Negative,Yes,Yes,hitl,1126
+mybully:val:1127,val,taunya gak ada anjing lu waiji,anger,ms,Anger,Negative,Yes,No,hitl,1127
+mybully:val:1128,val,@YossiBenYakar Haram witch,anger,ms,Anger,Negative,Yes,Yes,hitl,1128
+mybully:val:1129,val,@mmaarriiqq anjing,anger,ms,Anger,Negative,Yes,Yes,hitl,1129
+mybully:val:1130,val,@vanzhalay Pura pura bodoh tapi tau segalanya,anger,ms,Anger,Negative,Yes,No,hitl,1130
+mybully:val:1131,val,"@idextratime Tipikal pelatih korean style, fisik dan stamina dulu dikuatin...urusan skill dan strategi kemudian...liat anak2 asuhan kuch nova, gila...90mnt lari terus...🔥 Hasilnya...💪",joy,ms,Happiness,Positive,No,No,hitl,1131
+mybully:val:1133,val,@happyghosstt gila ini mah cuy,joy,ms,Happiness,Positive,No,No,hitl,1133
+mybully:val:1134,val,Bgl bnr babi bgst,anger,ms,Anger,Negative,Yes,Yes,hitl,1134
+mybully:val:1135,val,aku dah gila ke wei,neutral,ms,Neutral,Neutral,No,No,hitl,1135
+mybully:val:1136,val,biar apa anjing,neutral,ms,Neutral,Negative,Yes,No,hitl,1136
+mybully:val:1137,val,"""Hello puppy!"" 🥺🥰
+""Hei anak anjing!"" 😤😠",anger,ms,Anger,Negative,Yes,Yes,hitl,1137
+mybully:val:1138,val,wkwkwk gila skrg gue lebih ngerti bakor drpd mandarin 🥹🥹🥹 my ancestors will be so disappointed at me 🤣,joy,ms,Happiness,Positive,No,No,hitl,1138
+mybully:val:1139,val,@zamirmohyedin Bukan pure dire wolf. Basically anak anjing yg bercirikan Dire wolf 😂,joy,ms,Happiness,Negative,Yes,No,hitl,1139
+mybully:val:1140,val,@perkyceline ya ini dosa lu anjing,anger,ms,Anger,Negative,Yes,Yes,hitl,1140
+mybully:val:1141,val,@soheerams @merksusububuk GILA KLI YA LU,anger,ms,Anger,Negative,Yes,No,hitl,1141
+mybully:val:1142,val,"Hasil Pengeluaran Pasaran TURKEY
+Hari Selasa, 08 April 2025
+
+Prize 1️⃣ : 9144
+Prize 2️⃣ : 8123
+Prize 3️⃣ : 5408
+Shio : ANJING
+
+Selamat kepada para pemenang jackpot.🙏🏻",joy,ms,Happiness,Positive,No,No,hitl,1142
+mybully:val:1143,val,@orilookstore Kwkwkwk iy akak ga papa daripada gila,joy,ms,Happiness,Positive,No,No,hitl,1143
+mybully:val:1144,val,@ipikchu sebuah kejadian anjing,neutral,ms,Neutral,Neutral,No,No,hitl,1144
+mybully:val:1145,val,Bodoh,anger,ms,Anger,Negative,Yes,No,hitl,1145
+mybully:val:1146,val,Seronok tengok theimpsis got the recognition they deserves. Album 7 years tu best gila,joy,ms,Happiness,Positive,No,No,hitl,1146
+mybully:val:1147,val,Walaupun jarang buka X ni tapi kenal juga siapa yang dimaksudkan. What a shame eh baru ja duk sebut best lah cikgu jodoh dengan doktor sekali nahhh doktor gila segg 🤣,disgust,ms,Disgust,Negative,No,No,hitl,1147
+mybully:val:1148,val,@bharianmy Ramai peniaga Bangla haram dekat Selayang DBKL tak kacau plak. Penduduk tempatan juga yg menjadi mangsa.,anger,ms,Anger,Negative,Yes,Yes,hitl,1148
+mybully:val:1149,val,"@outer_cosmo Aradea, 1993
+
+Keyword: kopi, kerja, punya kucing dan juga anjing
+
+Mari berkawan!",joy,ms,Happiness,Positive,No,No,hitl,1149
+mybully:val:1150,val,"ANGKA RESULT OKLAHOMA
+
+Hari Ini : Selasa 08 - 04 - 2025
+RESULT : 3 7 5 5
+SHIO : BABI
+
+SALAM JACKPOT DARI MILO4D !",neutral,ms,Neutral,Positive,No,No,hitl,1150
+mybully:val:1151,val,Opm babi might be the greatest song of all time,joy,ms,Happiness,Positive,No,No,hitl,1151
+mybully:val:1152,val,"@kamaghul Bodoh dah la gemok menyusahkan orang, pastu fefeeling special. Macam sial",anger,ms,Anger,Negative,Yes,Yes,hitl,1152
+mybully:val:1153,val,"@mosccie Anak babi ikan tongkol
+
+Eakkkkk",anger,ms,Anger,Negative,Yes,Yes,hitl,1153
+mybully:val:1154,val,"thn ni flatland msti sengit.
+rider jepun progress gila babi.",anger,ms,Anger,Negative,Yes,No,hitl,1154
+mybully:val:1155,val,@_wangseok Jangan sampai gila ya kan,neutral,ms,Neutral,Negative,No,No,hitl,1155
+mybully:val:1156,val,@SinarOnline Asal orang yang suka buang sampah keluar dari kereta? Tak roboh la kereta simpan sampah satu beg plastik tak mampus kereta tu.. Pasang la live CCTV bio nampak plate kereta den aibkan mereka.. Bodoh! Belajar pandai agama no.1 tp pengotor. Puihhh,anger,ms,Anger,Negative,Yes,Yes,hitl,1156
+mybully:val:1157,val,gini emg derita org bodoh malah jd pimpinan negara,anger,ms,Anger,Negative,Yes,Yes,hitl,1157
+mybully:val:1158,val,@thejurgenholic Hai gentod sang pemabawa sial,anger,ms,Anger,Negative,Yes,Yes,hitl,1158
+mybully:val:1159,val,"sis macam mana kau masih hidup emi pandang macam tu 😭 kita yang bertentang mata dengan dia, duduk sebelah, walaupun hanya dalam crowd pon jantung tak relax laju gila. inikan pulak sedekat itu",surprise,ms,Surprise,Positive,No,No,hitl,1159
+mybully:val:1160,val,@treasuremenfess sial... aku kira aku ga begitu https://t.co/Ojjjzy054O,anger,ms,Anger,Negative,No,No,hitl,1160
+mybully:val:1161,val,@slaaayolay_ pilih salah satu anjing😭😭😭,anger,ms,Anger,Negative,Yes,No,hitl,1161
+mybully:val:1162,val,@BANGSAygSUJUD @prabowo @jatmiko99604253 @kiwalipitu @bitCarli77 @99propaganda @DarekaRendy @DedynurPalakka @Ndons_Back @Kimberley_PS08 @G3nX_files @mimih6mei si anak sial az yg ke amric buat lobi ....siapa tau si fufufafa mnjur hhhhh,anger,ms,Anger,Negative,Yes,Yes,hitl,1162
+mybully:val:1163,val,anjing...?,neutral,ms,Neutral,Neutral,No,No,hitl,1163
+mybully:val:1164,val,@mdbooster25 duh siapa juga yang mau jadi mainan anjing,anger,ms,Anger,Negative,Yes,No,hitl,1164
+mybully:val:1165,val,"masa hang kena 'pukul', 'tendang', 'terajang', 'cekup leher' dan 'diperlakukan zalim' tu, orang dah tau ke identiti hang tu ada rekod jenayah? bodoh",anger,ms,Anger,Negative,Yes,Yes,hitl,1165
+mybully:val:1166,val,"🌸. selca
+; yang haram, yang menggoda? ❎️
+yang brondong yang semakin menggoda ✅️
+ini brondong ku, mana brondongmu? https://t.co/qpX3KN291J",joy,ms,Happiness,Positive,No,No,hitl,1166
+mybully:val:1167,val,"@pablalva @sial_awak_mirah Igualmente, un abrazo!!",joy,ms,Happiness,Positive,No,No,hitl,1167
+mybully:val:1168,val,gw greget anjing gk jelas semua ni orang,anger,ms,Anger,Negative,Yes,Yes,hitl,1168
+mybully:val:1169,val,where we are kata gua harus ada di appmus anjing,anger,ms,Anger,Negative,No,Yes,hitl,1169
+mybully:val:1170,val,@nayylaafr dia yg babi,anger,ms,Anger,Negative,Yes,Yes,hitl,1170
